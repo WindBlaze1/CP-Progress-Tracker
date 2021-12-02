@@ -1,0 +1,100 @@
+Watermelon|4A|1|http://codeforces.com/problemset/problem/4/A
+Way Too Long Words|71A|1|http://codeforces.com/problemset/problem/71/A
+String Task|118A|2|http://codeforces.com/problemset/problem/118/A
+Petya and Strings|112A|1|http://codeforces.com/problemset/problem/112/A
+Helpful Maths|339A|1|http://codeforces.com/problemset/problem/339/A
+Twins|160A|2|http://codeforces.com/problemset/problem/160/A
+Chat room|58A|2|http://codeforces.com/problemset/problem/58/A
+Lucky Division|122A|2|http://codeforces.com/problemset/problem/122/A
+Presents|136A|1|http://codeforces.com/problemset/problem/136/A
+Beautiful Matrix|263A|1|http://codeforces.com/problemset/problem/263/A
+Arrival of the General|144A|1|http://codeforces.com/problemset/problem/144/A
+Game With Sticks|451A|2|http://codeforces.com/problemset/problem/451/A
+Games|268A|1|http://codeforces.com/problemset/problem/268/A
+Dubstep|208A|2|http://codeforces.com/problemset/problem/208/A
+Young Physicist|69A|1|http://codeforces.com/problemset/problem/69/A
+Puzzles|337A|2|http://codeforces.com/problemset/problem/337/A
+Expression|479A|2|http://codeforces.com/problemset/problem/479/A
+Anton and Letters|443A|1|http://codeforces.com/problemset/problem/443/A
+I Wanna Be the Guy|469A|2|http://codeforces.com/problemset/problem/469/A
+Even Odds|318A|2|http://codeforces.com/problemset/problem/318/A
+Cheap Travel|466A|3|http://codeforces.com/problemset/problem/466/A
+Ilya and Bank Account|313A|2|http://codeforces.com/problemset/problem/313/A
+Pashmak and Garden|459A|3|http://codeforces.com/problemset/problem/459/A
+Dragons|230A|2|http://codeforces.com/problemset/problem/230/A
+Dreamoon and Stairs|476A|2|http://codeforces.com/problemset/problem/476/A
+Team Olympiad|490A|1|http://codeforces.com/problemset/problem/490/A
+Devu, the Singer and Churu, the Joker|439A|2|http://codeforces.com/problemset/problem/439/A
+Fox And Snake|510A|1|http://codeforces.com/problemset/problem/510/A
+IQ test|25A|1|http://codeforces.com/problemset/problem/25/A
+Choosing Teams|432A|1|http://codeforces.com/problemset/problem/432/A
+Cakeminator|330A|1|http://codeforces.com/problemset/problem/330/A
+Valera and Antique Items|441A|2|http://codeforces.com/problemset/problem/441/A
+Appleman and Easy Task|462A|2|http://codeforces.com/problemset/problem/462/A
+Bear and Raspberry|385A|2|http://codeforces.com/problemset/problem/385/A
+Lunch Rush|276A|1|http://codeforces.com/problemset/problem/276/A
+Laptops|456A|3|http://codeforces.com/problemset/problem/456/A
+Soft Drinking|151A|1|http://codeforces.com/problemset/problem/151/A
+Playing with Dice|378A|1|http://codeforces.com/problemset/problem/378/A
+Minimum Difficulty|496A|2|http://codeforces.com/problemset/problem/496/A
+Greg's Workout|255A|1|http://codeforces.com/problemset/problem/255/A
+Counterexample |483A|3|http://codeforces.com/problemset/problem/483/A
+Valera and X|404A|2|http://codeforces.com/problemset/problem/404/A
+Perfect Permutation|233A|1|http://codeforces.com/problemset/problem/233/A
+Watching a movie|499A|2|http://codeforces.com/problemset/problem/499/A
+Supercentral Point|165A|2|http://codeforces.com/problemset/problem/165/A
+Roma and Lucky Numbers|262A|1|http://codeforces.com/problemset/problem/262/A
+Contest|501A|2|http://codeforces.com/problemset/problem/501/A
+Cut Ribbon|189A|3|http://codeforces.com/problemset/problem/189/A
+TL|350A|3|http://codeforces.com/problemset/problem/350/A
+Marks|152A|2|http://codeforces.com/problemset/problem/152/A
+Colorful Stones (Simplified Edition)|265A|1|http://codeforces.com/problemset/problem/265/A
+Domino|353A|3|http://codeforces.com/problemset/problem/353/A
+Cifera|114A|3|http://codeforces.com/problemset/problem/114/A
+Array|300A|2|http://codeforces.com/problemset/problem/300/A
+Fox and Number Game|389A|3|http://codeforces.com/problemset/problem/389/A
+Giga Tower|488A|3|http://codeforces.com/problemset/problem/488/A
+Parallelepiped|224A|2|http://codeforces.com/problemset/problem/224/A
+DZY Loves Chessboard|445A|3|http://codeforces.com/problemset/problem/445/A
+Football|43A|2|http://codeforces.com/problemset/problem/43/A
+Life Without Zeros|75A|2|http://codeforces.com/problemset/problem/75/A
+Yaroslav and Permutations|296A|3|http://codeforces.com/problemset/problem/296/A
+Collecting Beats is Fun|373A|2|http://codeforces.com/problemset/problem/373/A
+Levko and Table|361A|1|http://codeforces.com/problemset/problem/361/A
+Vasya and Digital Root|355A|2|http://codeforces.com/problemset/problem/355/A
+Two Bags of Potatoes|239A|3|http://codeforces.com/problemset/problem/239/A
+The Child and Homework|437A|3|http://codeforces.com/problemset/problem/437/A
+Soroban|363A|1|http://codeforces.com/problemset/problem/363/A
+Line to Cashier|408A|1|http://codeforces.com/problemset/problem/408/A
+Lever|376A|2|http://codeforces.com/problemset/problem/376/A
+Table|359A|2|http://codeforces.com/problemset/problem/359/A
+Eugeny and Array|302A|2|http://codeforces.com/problemset/problem/302/A
+Dima and Continuous Line|358A|4|http://codeforces.com/problemset/problem/358/A
+Reconnaissance 2|34A|2|http://codeforces.com/problemset/problem/34/A
+Help Vasilisa the Wise 2|143A|2|http://codeforces.com/problemset/problem/143/A
+Comparing Strings|186A|3|http://codeforces.com/problemset/problem/186/A
+Palindromic Times|108A|2|http://codeforces.com/problemset/problem/108/A
+Guess a number!|416A|4|http://codeforces.com/problemset/problem/416/A
+Exams|194A|2|http://codeforces.com/problemset/problem/194/A
+Card Game|106A|2|http://codeforces.com/problemset/problem/106/A
+Sockets|257A|3|http://codeforces.com/problemset/problem/257/A
+Snow Footprints|298A|3|http://codeforces.com/problemset/problem/298/A
+Point on Spiral|279A|4|http://codeforces.com/problemset/problem/279/A
+Next Test|27A|3|http://codeforces.com/problemset/problem/27/A
+Rook, Bishop and King|370A|3|http://codeforces.com/problemset/problem/370/A
+Sleuth|49A|1|http://codeforces.com/problemset/problem/49/A
+Cows and Primitive Roots|284A|4|http://codeforces.com/problemset/problem/284/A
+Funky Numbers|192A|4|http://codeforces.com/problemset/problem/192/A
+Bar|56A|3|http://codeforces.com/problemset/problem/56/A
+Lefthanders and Righthanders |234A|4|http://codeforces.com/problemset/problem/234/A
+Worms Evolution|31A|2|http://codeforces.com/problemset/problem/31/A
+Strange Addition|305A|4|http://codeforces.com/problemset/problem/305/A
+Plate Game|197A|4|http://codeforces.com/problemset/problem/197/A
+Shell Game|35A|2|http://codeforces.com/problemset/problem/35/A
+Chord|88A|3|http://codeforces.com/problemset/problem/88/A
+Triangle|18A|4|http://codeforces.com/problemset/problem/18/A
+Inna and Pink Pony|374A|5|http://codeforces.com/problemset/problem/374/A
+Nineteen|393A|4|http://codeforces.com/problemset/problem/393/A
+Inna and Alarm Clock|390A|5|http://codeforces.com/problemset/problem/390/A
+On Segment's Own Points|397A|6|http://codeforces.com/problemset/problem/397/A
+Cinema|200A|8|http://codeforces.com/problemset/problem/200/A

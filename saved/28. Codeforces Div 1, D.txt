@@ -1,0 +1,100 @@
+Tricky Function|429D|6|http://codeforces.com/problemset/problem/429/D
+Characteristics of Rectangles|333D|5|http://codeforces.com/problemset/problem/333/D
+Antimatter|383D|6|http://codeforces.com/problemset/problem/383/D
+The Child and Sequence|438D|6|http://codeforces.com/problemset/problem/438/D
+Kindergarten|484D|7|http://codeforces.com/problemset/problem/484/D
+Water Tree|343D|5|http://codeforces.com/problemset/problem/343/D
+Towers|229D|5|http://codeforces.com/problemset/problem/229/D
+Numbers|128D|5|http://codeforces.com/problemset/problem/128/D
+Sereja and Squares|425D|6|http://codeforces.com/problemset/problem/425/D
+Hill Climbing|406D|6|http://codeforces.com/problemset/problem/406/D
+Yaroslav and Divisors|301D|6|http://codeforces.com/problemset/problem/301/D
+Jzzhu and Numbers|449D|6|http://codeforces.com/problemset/problem/449/D
+Game with Powers|317D|6|http://codeforces.com/problemset/problem/317/D
+The table|226D|5|http://codeforces.com/problemset/problem/226/D
+Time to Raid Cowavans|103D|5|http://codeforces.com/problemset/problem/103/D
+Beautiful Pairs of Numbers|403D|6|http://codeforces.com/problemset/problem/403/D
+Lovely Matrix|274D|6|http://codeforces.com/problemset/problem/274/D
+Constants in the language of Shakespeare|132D|5|http://codeforces.com/problemset/problem/132/D
+Polo the Penguin and Trees |288D|8|http://codeforces.com/problemset/problem/288/D
+Tree and Queries|375D|7|http://codeforces.com/problemset/problem/375/D
+Traffic Jams in the Land|498D|6|http://codeforces.com/problemset/problem/498/D
+Mashmokh and Water Tanks|414D|7|http://codeforces.com/problemset/problem/414/D
+Iahub and Xors|341D|7|http://codeforces.com/problemset/problem/341/D
+Fibonacci Sums|126D|6|http://codeforces.com/problemset/problem/126/D
+Numbers|83D|7|http://codeforces.com/problemset/problem/83/D
+Developing Game|377D|7|http://codeforces.com/problemset/problem/377/D
+Little Elephant and Broken Sorting|258D|8|http://codeforces.com/problemset/problem/258/D
+Clues|156D|7|http://codeforces.com/problemset/problem/156/D
+Sereja and Sets|367D|7|http://codeforces.com/problemset/problem/367/D
+Interval Cubing|311D|7|http://codeforces.com/problemset/problem/311/D
+Cows and Cool Sequences|283D|7|http://codeforces.com/problemset/problem/283/D
+Sereja and Straight Lines|314D|7|http://codeforces.com/problemset/problem/314/D
+Beautiful Road|87D|6|http://codeforces.com/problemset/problem/87/D
+Turtles|348D|7|http://codeforces.com/problemset/problem/348/D
+Greg and Caves|295D|7|http://codeforces.com/problemset/problem/295/D
+String|123D|7|http://codeforces.com/problemset/problem/123/D
+Color the Carpet|297D|7|http://codeforces.com/problemset/problem/297/D
+Adam and Tree|442D|7|http://codeforces.com/problemset/problem/442/D
+Choosing Subtree is Fun|372D|8|http://codeforces.com/problemset/problem/372/D
+Sereja and Cinema|380D|7|http://codeforces.com/problemset/problem/380/D
+Petya and Coloring|111D|7|http://codeforces.com/problemset/problem/111/D
+Stars|213D|6|http://codeforces.com/problemset/problem/213/D
+Ghd|364D|9|http://codeforces.com/problemset/problem/364/D
+Flatland Fencing|154D|7|http://codeforces.com/problemset/problem/154/D
+Little Elephant and Retro Strings|204D|7|http://codeforces.com/problemset/problem/204/D
+Castle|101D|6|http://codeforces.com/problemset/problem/101/D
+Parcels|480D|8|http://codeforces.com/problemset/problem/480/D
+Brand New Problem|201D|8|http://codeforces.com/problemset/problem/201/D
+Largest Submatrix 3|407D|8|http://codeforces.com/problemset/problem/407/D
+Maximum Waterfall|269D|7|http://codeforces.com/problemset/problem/269/D
+Bags and Coins|356D|8|http://codeforces.com/problemset/problem/356/D
+Flags|93D|7|http://codeforces.com/problemset/problem/93/D
+Little Elephant and Triangle|220D|7|http://codeforces.com/problemset/problem/220/D
+Domino Carpet|77D|6|http://codeforces.com/problemset/problem/77/D
+GCD Table|338D|9|http://codeforces.com/problemset/problem/338/D
+Museum|113D|9|http://codeforces.com/problemset/problem/113/D
+Maxim and Increasing Subsequence|261D|8|http://codeforces.com/problemset/problem/261/D
+Visit of the Great|185D|7|http://codeforces.com/problemset/problem/185/D
+Tourists|286D|8|http://codeforces.com/problemset/problem/286/D
+Robot Control|346D|7|http://codeforces.com/problemset/problem/346/D
+Space mines|89D|7|http://codeforces.com/problemset/problem/89/D
+World of Darkraft|138D|7|http://codeforces.com/problemset/problem/138/D
+Dima and Figure|273D|7|http://codeforces.com/problemset/problem/273/D
+Jeff and Removing Periods|351D|8|http://codeforces.com/problemset/problem/351/D
+Colorful Stones|264D|7|http://codeforces.com/problemset/problem/264/D
+The Next Good String|196D|8|http://codeforces.com/problemset/problem/196/D
+Mission Impassable|150D|8|http://codeforces.com/problemset/problem/150/D
+Conveyor Belts|487D|8|http://codeforces.com/problemset/problem/487/D
+Have You Ever Heard About the Word?|319D|8|http://codeforces.com/problemset/problem/319/D
+Birthday|494D|8|http://codeforces.com/problemset/problem/494/D
+Horse Races|95D|8|http://codeforces.com/problemset/problem/95/D
+Fence|232D|9|http://codeforces.com/problemset/problem/232/D
+k-Maximum Subsequence Sum|280D|9|http://codeforces.com/problemset/problem/280/D
+BRT Contract |187D|8|http://codeforces.com/problemset/problem/187/D
+Liars and Serge|256D|9|http://codeforces.com/problemset/problem/256/D
+Levko and Sets|360D|8|http://codeforces.com/problemset/problem/360/D
+Appleman and Complicated Task|461D|8|http://codeforces.com/problemset/problem/461/D
+Donkey and Stars|249D|7|http://codeforces.com/problemset/problem/249/D
+Ciel and Flipboard|321D|9|http://codeforces.com/problemset/problem/321/D
+Unambiguous Arithmetic Expression|115D|8|http://codeforces.com/problemset/problem/115/D
+Two Segments|193D|9|http://codeforces.com/problemset/problem/193/D
+Rotatable Number|303D|8|http://codeforces.com/problemset/problem/303/D
+Metro Scheme|191D|9|http://codeforces.com/problemset/problem/191/D
+Help Monks|98D|7|http://codeforces.com/problemset/problem/98/D
+Bitonix' Patrol|217D|8|http://codeforces.com/problemset/problem/217/D
+Random Function and Tree|482D|8|http://codeforces.com/problemset/problem/482/D
+Lucky Pair|145D|9|http://codeforces.com/problemset/problem/145/D
+On Sum of Number of Inversions in Permutations|396D|9|http://codeforces.com/problemset/problem/396/D
+Google Code Jam|277D|9|http://codeforces.com/problemset/problem/277/D
+Misha and XOR|504D|8|http://codeforces.com/problemset/problem/504/D
+Fox and Perfect Sets|388D|8|http://codeforces.com/problemset/problem/388/D
+DZY Loves Games|446D|9|http://codeforces.com/problemset/problem/446/D
+Nanami's Power Plant|434D|9|http://codeforces.com/problemset/problem/434/D
+Fox And Travelling|512D|8|http://codeforces.com/problemset/problem/512/D
+Graph Game|235D|8|http://codeforces.com/problemset/problem/235/D
+Tape Programming|238D|9|http://codeforces.com/problemset/problem/238/D
+Little Pony and Elements of Harmony|453D|9|http://codeforces.com/problemset/problem/453/D
+Three Arrays|392D|10|http://codeforces.com/problemset/problem/392/D
+Tree|468D|9|http://codeforces.com/problemset/problem/468/D
+Cube Snake|198D|8|http://codeforces.com/problemset/problem/198/D

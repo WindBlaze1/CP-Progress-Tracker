@@ -1,0 +1,100 @@
+Sereja and Dima|381A|1|http://codeforces.com/problemset/problem/381/A
+Gravity Flip|405A|1|http://codeforces.com/problemset/problem/405/A
+Little Pony and Crystal Mine|454A|1|http://codeforces.com/problemset/problem/454/A
+Anton and Letters|443A|1|http://codeforces.com/problemset/problem/443/A
+Fox And Snake|510A|1|http://codeforces.com/problemset/problem/510/A
+inc ARG|465A|2|http://codeforces.com/problemset/problem/465/A
+Caisa and Pylons|463B|2|http://codeforces.com/problemset/problem/463/B
+Puzzles|337A|2|http://codeforces.com/problemset/problem/337/A
+Chat room|58A|2|http://codeforces.com/problemset/problem/58/A
+Vasya and Socks|460A|2|http://codeforces.com/problemset/problem/460/A
+I Wanna Be the Guy|469A|2|http://codeforces.com/problemset/problem/469/A
+Expression|479A|2|http://codeforces.com/problemset/problem/479/A
+Counterexample |483A|3|http://codeforces.com/problemset/problem/483/A
+Flipping Game|327A|3|http://codeforces.com/problemset/problem/327/A
+Pashmak and Garden|459A|3|http://codeforces.com/problemset/problem/459/A
+Ilya and Queries|313B|3|http://codeforces.com/problemset/problem/313/B
+Cheap Travel|466A|3|http://codeforces.com/problemset/problem/466/A
+Little Pony and Expected Maximum|453A|3|http://codeforces.com/problemset/problem/453/A
+Caisa and Sugar|463A|3|http://codeforces.com/problemset/problem/463/A
+Cut Ribbon|189A|3|http://codeforces.com/problemset/problem/189/A
+Writing Code|543A|4|http://codeforces.com/problemset/problem/543/A
+Tennis Game|496D|4|http://codeforces.com/problemset/problem/496/D
+Towers|479B|4|http://codeforces.com/problemset/problem/479/B
+Ryouko's Memory Note|433C|4|http://codeforces.com/problemset/problem/433/C
+Knight Tournament|356A|4|http://codeforces.com/problemset/problem/356/A
+Andrey and Problem|442B|4|http://codeforces.com/problemset/problem/442/B
+Password|126B|4|http://codeforces.com/problemset/problem/126/B
+Interesting Array|482B|4|http://codeforces.com/problemset/problem/482/B
+Fox And Two Dots|510B|4|http://codeforces.com/problemset/problem/510/B
+Xenia and Bit Operations|339D|4|http://codeforces.com/problemset/problem/339/D
+k-Tree|431C|4|http://codeforces.com/problemset/problem/431/C
+Read Time|343C|4|http://codeforces.com/problemset/problem/343/C
+Boredom|455A|4|http://codeforces.com/problemset/problem/455/A
+Fools and Roads|191C|4|http://codeforces.com/problemset/problem/191/C
+DZY Loves Sequences|446A|4|http://codeforces.com/problemset/problem/446/A
+Breaking Good|507E|5|http://codeforces.com/problemset/problem/507/E
+Red-Green Towers|478D|5|http://codeforces.com/problemset/problem/478/D
+Pashmak and Buses|459C|5|http://codeforces.com/problemset/problem/459/C
+Mashmokh and Reverse Operation|414C|5|http://codeforces.com/problemset/problem/414/C
+Sereja and Table |425B|5|http://codeforces.com/problemset/problem/425/B
+R2D2 and Droid Army|514D|5|http://codeforces.com/problemset/problem/514/D
+Strip|487B|5|http://codeforces.com/problemset/problem/487/B
+Destroying Roads|543B|5|http://codeforces.com/problemset/problem/543/B
+A and B and Lecture Rooms|519E|5|http://codeforces.com/problemset/problem/519/E
+Obsessive String|494B|5|http://codeforces.com/problemset/problem/494/B
+Restore Cube |464B|5|http://codeforces.com/problemset/problem/464/B
+Roman and Numbers|401D|5|http://codeforces.com/problemset/problem/401/D
+Water Tree|343D|5|http://codeforces.com/problemset/problem/343/D
+Towers|229D|5|http://codeforces.com/problemset/problem/229/D
+Maximum Value|484B|5|http://codeforces.com/problemset/problem/484/B
+Valera and Swaps|441D|5|http://codeforces.com/problemset/problem/441/D
+Increase Sequence|466D|5|http://codeforces.com/problemset/problem/466/D
+Wonder Room|466B|5|http://codeforces.com/problemset/problem/466/B
+Devu and Partitioning of the Array|439C|5|http://codeforces.com/problemset/problem/439/C
+Gerald and Giant Chess|559C|5|http://codeforces.com/problemset/problem/559/C
+Watching Fireworks is Fun|372C|5|http://codeforces.com/problemset/problem/372/C
+Jeff and Rounding|351A|5|http://codeforces.com/problemset/problem/351/A
+Ciel the Commander|321C|5|http://codeforces.com/problemset/problem/321/C
+Painting Fence|448C|5|http://codeforces.com/problemset/problem/448/C
+Little Pony and Harmony Chest|453B|5|http://codeforces.com/problemset/problem/453/B
+Case of Chocolate|555C|5|http://codeforces.com/problemset/problem/555/C
+Lucky Common Subsequence|346B|5|http://codeforces.com/problemset/problem/346/B
+Sereja and Brackets|380C|5|http://codeforces.com/problemset/problem/380/C
+Kalila and Dimna in the Logging Industry|319C|5|http://codeforces.com/problemset/problem/319/C
+String|128B|5|http://codeforces.com/problemset/problem/128/B
+Civilization|455C|5|http://codeforces.com/problemset/problem/455/C
+XOR on Segment|242E|5|http://codeforces.com/problemset/problem/242/E
+Prefixes and Suffixes|432D|5|http://codeforces.com/problemset/problem/432/D
+Appleman and Tree|461B|5|http://codeforces.com/problemset/problem/461/B
+Enemy is weak|61E|5|http://codeforces.com/problemset/problem/61/E
+Jzzhu and Cities|449B|5|http://codeforces.com/problemset/problem/449/B
+Substitutes in Number|464C|5|http://codeforces.com/problemset/problem/464/C
+Little Elephant and Array|220B|5|http://codeforces.com/problemset/problem/220/B
+Pashmak and Graph|459E|5|http://codeforces.com/problemset/problem/459/E
+Propagating tree|383C|5|http://codeforces.com/problemset/problem/383/C
+Match & Catch|427D|6|http://codeforces.com/problemset/problem/427/D
+A Simple Task|558E|6|http://codeforces.com/problemset/problem/558/E
+Prefix Product Sequence|487C|6|http://codeforces.com/problemset/problem/487/C
+Vasya and Beautiful Arrays|354C|6|http://codeforces.com/problemset/problem/354/C
+Road Improvement|543D|6|http://codeforces.com/problemset/problem/543/D
+Tree Requests|570D|6|http://codeforces.com/problemset/problem/570/D
+Sereja and Squares|425D|6|http://codeforces.com/problemset/problem/425/D
+LIS of Sequence|486E|6|http://codeforces.com/problemset/problem/486/E
+Jzzhu and Numbers|449D|6|http://codeforces.com/problemset/problem/449/D
+Captains Mode|377C|6|http://codeforces.com/problemset/problem/377/C
+Mike and Foam|547C|6|http://codeforces.com/problemset/problem/547/C
+Devu and Birthday Celebration|439E|6|http://codeforces.com/problemset/problem/439/E
+Martian Strings|149E|6|http://codeforces.com/problemset/problem/149/E
+Hill Climbing|406D|6|http://codeforces.com/problemset/problem/406/D
+Antimatter|383D|6|http://codeforces.com/problemset/problem/383/D
+Tricky Function|429D|6|http://codeforces.com/problemset/problem/429/D
+The Child and Sequence|438D|6|http://codeforces.com/problemset/problem/438/D
+Tanya and Password|508D|7|http://codeforces.com/problemset/problem/508/D
+Fedor and Essay|467D|7|http://codeforces.com/problemset/problem/467/D
+Xenia and Tree|342E|7|http://codeforces.com/problemset/problem/342/E
+DZY Loves Fibonacci Numbers|446C|7|http://codeforces.com/problemset/problem/446/C
+Ann and Half-Palindrome|557E|7|http://codeforces.com/problemset/problem/557/E
+Kindergarten|484D|7|http://codeforces.com/problemset/problem/484/D
+Tree and Queries|375D|7|http://codeforces.com/problemset/problem/375/D
+Serega and Fun|455D|8|http://codeforces.com/problemset/problem/455/D

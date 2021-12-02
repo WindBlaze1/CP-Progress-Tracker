@@ -1,0 +1,100 @@
+Anton and Letters|443A|1|http://codeforces.com/problemset/problem/443/A
+Way Too Long Words|71A|1|http://codeforces.com/problemset/problem/71/A
+Young Physicist|69A|1|http://codeforces.com/problemset/problem/69/A
+Coder|384A|1|http://codeforces.com/problemset/problem/384/A
+Collecting Beats is Fun|373A|2|http://codeforces.com/problemset/problem/373/A
+Fox and Cross|389B|3|http://codeforces.com/problemset/problem/389/B
+Archer|312B|3|http://codeforces.com/problemset/problem/312/B
+Sereja and Suffixes|368B|3|http://codeforces.com/problemset/problem/368/B
+Ladder|279C|4|http://codeforces.com/problemset/problem/279/C
+Color the Fence|349B|4|http://codeforces.com/problemset/problem/349/B
+Vasya and Robot|354A|4|http://codeforces.com/problemset/problem/354/A
+Fools and Roads|191C|4|http://codeforces.com/problemset/problem/191/C
+Dima and Hares|358D|4|http://codeforces.com/problemset/problem/358/D
+Xenia and Weights|339C|4|http://codeforces.com/problemset/problem/339/C
+Inna and Dima|374C|4|http://codeforces.com/problemset/problem/374/C
+Cows and Sequence|283A|4|http://codeforces.com/problemset/problem/283/A
+Psychos in a Line|319B|4|http://codeforces.com/problemset/problem/319/B
+Greg and Graph|295B|4|http://codeforces.com/problemset/problem/295/B
+Number of Ways|466C|4|http://codeforces.com/problemset/problem/466/C
+Working out|429B|4|http://codeforces.com/problemset/problem/429/B
+Read Time|343C|4|http://codeforces.com/problemset/problem/343/C
+Cow Program|283B|4|http://codeforces.com/problemset/problem/283/B
+LCM Challenge|235A|4|http://codeforces.com/problemset/problem/235/A
+Bubble Sort Graph|340D|4|http://codeforces.com/problemset/problem/340/D
+Beautiful Numbers|300C|4|http://codeforces.com/problemset/problem/300/C
+Counting Kangaroos is Fun|372A|4|http://codeforces.com/problemset/problem/372/A
+Little Girl and Maximum Sum|276C|4|http://codeforces.com/problemset/problem/276/C
+Little Girl and Maximum XOR|276D|4|http://codeforces.com/problemset/problem/276/D
+No to Palindromes!|464A|4|http://codeforces.com/problemset/problem/464/A
+George and Job|467C|4|http://codeforces.com/problemset/problem/467/C
+Matrix|364A|4|http://codeforces.com/problemset/problem/364/A
+Round Table Knights|71C|4|http://codeforces.com/problemset/problem/71/C
+Caesar's Legions|118D|4|http://codeforces.com/problemset/problem/118/D
+Zero Tree|274B|4|http://codeforces.com/problemset/problem/274/B
+Maximum Submatrix 2|375B|4|http://codeforces.com/problemset/problem/375/B
+Password|126B|4|http://codeforces.com/problemset/problem/126/B
+Book of Evil|337D|5|http://codeforces.com/problemset/problem/337/D
+Lucky Tree|109C|5|http://codeforces.com/problemset/problem/109/C
+Jzzhu and Cities|449B|5|http://codeforces.com/problemset/problem/449/B
+Ciel and Duel|321B|5|http://codeforces.com/problemset/problem/321/B
+Array and Operations|498C|5|http://codeforces.com/problemset/problem/498/C
+Increase Sequence|466D|5|http://codeforces.com/problemset/problem/466/D
+Choosing Capital for Treeland|219D|5|http://codeforces.com/problemset/problem/219/D
+Fox and Minimal path|388B|5|http://codeforces.com/problemset/problem/388/B
+Kalila and Dimna in the Logging Industry|319C|5|http://codeforces.com/problemset/problem/319/C
+Vessels|371D|5|http://codeforces.com/problemset/problem/371/D
+Greg and Friends|295C|5|http://codeforces.com/problemset/problem/295/C
+Sereja and the Arrangement of Numbers|367C|5|http://codeforces.com/problemset/problem/367/C
+Super M|592D|5|http://codeforces.com/problemset/problem/592/D
+Count Good Substrings|451D|5|http://codeforces.com/problemset/problem/451/D
+Roman and Numbers|401D|5|http://codeforces.com/problemset/problem/401/D
+Dima and Bacteria|400D|5|http://codeforces.com/problemset/problem/400/D
+Civilization|455C|5|http://codeforces.com/problemset/problem/455/C
+Enemy is weak|61E|5|http://codeforces.com/problemset/problem/61/E
+Dima and Salad|366C|5|http://codeforces.com/problemset/problem/366/C
+Little Elephant and Array|220B|5|http://codeforces.com/problemset/problem/220/B
+Prime Number|359C|5|http://codeforces.com/problemset/problem/359/C
+Prefixes and Suffixes|432D|5|http://codeforces.com/problemset/problem/432/D
+A Lot of Games|455B|5|http://codeforces.com/problemset/problem/455/B
+Ciel the Commander|321C|5|http://codeforces.com/problemset/problem/321/C
+Painting Fence|448C|5|http://codeforces.com/problemset/problem/448/C
+Breaking Good|507E|5|http://codeforces.com/problemset/problem/507/E
+Eternal Victory|61D|5|http://codeforces.com/problemset/problem/61/D
+XOR on Segment|242E|5|http://codeforces.com/problemset/problem/242/E
+Sereja and Subsequences|314C|5|http://codeforces.com/problemset/problem/314/C
+Levko and Array|360B|5|http://codeforces.com/problemset/problem/360/B
+Gargari and Permutations|463D|5|http://codeforces.com/problemset/problem/463/D
+Watching Fireworks is Fun|372C|5|http://codeforces.com/problemset/problem/372/C
+Valid Sets|486D|5|http://codeforces.com/problemset/problem/486/D
+Pashmak and Parmida's problem|459D|5|http://codeforces.com/problemset/problem/459/D
+Maximum Value|484B|5|http://codeforces.com/problemset/problem/484/B
+Pashmak and Graph|459E|5|http://codeforces.com/problemset/problem/459/E
+Fox and Card Game|388C|5|http://codeforces.com/problemset/problem/388/C
+Strip|487B|5|http://codeforces.com/problemset/problem/487/B
+Propagating tree|383C|5|http://codeforces.com/problemset/problem/383/C
+Sausage Maximization|282E|5|http://codeforces.com/problemset/problem/282/E
+Sereja ans Anagrams|367B|5|http://codeforces.com/problemset/problem/367/B
+Good Substrings|271D|5|http://codeforces.com/problemset/problem/271/D
+Appleman and Tree|461B|5|http://codeforces.com/problemset/problem/461/B
+MUH and Cube Walls|471D|5|http://codeforces.com/problemset/problem/471/D
+Pair of Numbers|359D|5|http://codeforces.com/problemset/problem/359/D
+Sereja and Brackets|380C|5|http://codeforces.com/problemset/problem/380/C
+Water Tree|343D|5|http://codeforces.com/problemset/problem/343/D
+Antimatter|383D|6|http://codeforces.com/problemset/problem/383/D
+LIS of Sequence|486E|6|http://codeforces.com/problemset/problem/486/E
+The Maths Lecture|507D|6|http://codeforces.com/problemset/problem/507/D
+Number Transformation II|346C|6|http://codeforces.com/problemset/problem/346/C
+Fools and Foolproof Roads|362D|6|http://codeforces.com/problemset/problem/362/D
+Lucky Queries|145E|6|http://codeforces.com/problemset/problem/145/E
+Caisa and Tree|463E|6|http://codeforces.com/problemset/problem/463/E
+Valera and Fools|369D|6|http://codeforces.com/problemset/problem/369/D
+Blood Cousins|208E|6|http://codeforces.com/problemset/problem/208/E
+Information Graph|466E|6|http://codeforces.com/problemset/problem/466/E
+Vasya and Beautiful Arrays|354C|6|http://codeforces.com/problemset/problem/354/C
+Little Girl and Problem on Trees|276E|6|http://codeforces.com/problemset/problem/276/E
+Valera and Queries|369E|6|http://codeforces.com/problemset/problem/369/E
+Yaroslav and Divisors|301D|6|http://codeforces.com/problemset/problem/301/D
+Shaass the Great|294E|7|http://codeforces.com/problemset/problem/294/E
+Tree and Queries|375D|7|http://codeforces.com/problemset/problem/375/D
+Xenia and Tree|342E|7|http://codeforces.com/problemset/problem/342/E

@@ -1,0 +1,200 @@
+Colorful Stones (Simplified Edition)|265A|1|http://codeforces.com/problemset/problem/265/A
+Rewards|448A|1|http://codeforces.com/problemset/problem/448/A
+Roma and Lucky Numbers|262A|1|http://codeforces.com/problemset/problem/262/A
+Soroban|363A|1|http://codeforces.com/problemset/problem/363/A
+Toy Army|84A|1|http://codeforces.com/problemset/problem/84/A
+Greg's Workout|255A|1|http://codeforces.com/problemset/problem/255/A
+George and Accommodation|467A|1|http://codeforces.com/problemset/problem/467/A
+Case of the Zeros and Ones|556A|2|http://codeforces.com/problemset/problem/556/A
+Table|359A|2|http://codeforces.com/problemset/problem/359/A
+Cows and Poker Game|284B|2|http://codeforces.com/problemset/problem/284/B
+Drazil and Date|515A|2|http://codeforces.com/problemset/problem/515/A
+Exams|194A|2|http://codeforces.com/problemset/problem/194/A
+Sinking Ship|63A|2|http://codeforces.com/problemset/problem/63/A
+Sereja and Coat Rack|368A|2|http://codeforces.com/problemset/problem/368/A
+Worms Evolution|31A|2|http://codeforces.com/problemset/problem/31/A
+Lecture|499B|2|http://codeforces.com/problemset/problem/499/B
+Valera and Antique Items|441A|2|http://codeforces.com/problemset/problem/441/A
+Game With Sticks|451A|2|http://codeforces.com/problemset/problem/451/A
+Squares|263B|2|http://codeforces.com/problemset/problem/263/B
+Trace|157B|2|http://codeforces.com/problemset/problem/157/B
+Little Frog|53C|2|http://codeforces.com/problemset/problem/53/C
+Valera and Plates|369A|2|http://codeforces.com/problemset/problem/369/A
+Calculating Function|486A|2|http://codeforces.com/problemset/problem/486/A
+Sereja and Algorithm |367A|3|http://codeforces.com/problemset/problem/367/A
+Chat Online|469B|3|http://codeforces.com/problemset/problem/469/B
+Domino Effect|405B|3|http://codeforces.com/problemset/problem/405/B
+Good Number|365A|3|http://codeforces.com/problemset/problem/365/A
+Lucky Permutation|286A|3|http://codeforces.com/problemset/problem/286/A
+Fox and Number Game|389A|3|http://codeforces.com/problemset/problem/389/A
+Magical Array|83A|3|http://codeforces.com/problemset/problem/83/A
+Replacement|135A|3|http://codeforces.com/problemset/problem/135/A
+Drazil and Factorial|515C|3|http://codeforces.com/problemset/problem/515/C
+Bear and Strings|385B|3|http://codeforces.com/problemset/problem/385/B
+The Child and Homework|437A|3|http://codeforces.com/problemset/problem/437/A
+Dorm Water Supply|107A|3|http://codeforces.com/problemset/problem/107/A
+Misha and Changing Handles|501B|3|http://codeforces.com/problemset/problem/501/B
+Maxim and Discounts|261A|3|http://codeforces.com/problemset/problem/261/A
+Permutation|359B|3|http://codeforces.com/problemset/problem/359/B
+Tavas and SaDDas|535B|3|http://codeforces.com/problemset/problem/535/B
+Levko and Permutation|361B|3|http://codeforces.com/problemset/problem/361/B
+Testing Pants for Sadness|103A|3|http://codeforces.com/problemset/problem/103/A
+Multithreading|270B|3|http://codeforces.com/problemset/problem/270/B
+The Wall|340A|3|http://codeforces.com/problemset/problem/340/A
+Milking cows|383A|3|http://codeforces.com/problemset/problem/383/A
+MUH and Sticks|471A|3|http://codeforces.com/problemset/problem/471/A
+Anton and currency you all know|508B|3|http://codeforces.com/problemset/problem/508/B
+Email address|41C|3|http://codeforces.com/problemset/problem/41/C
+Little Xor|252A|3|http://codeforces.com/problemset/problem/252/A
+Strings of Power|318B|3|http://codeforces.com/problemset/problem/318/B
+Rook, Bishop and King|370A|3|http://codeforces.com/problemset/problem/370/A
+Valuable Resources|485B|3|http://codeforces.com/problemset/problem/485/B
+Art Union|416B|3|http://codeforces.com/problemset/problem/416/B
+Ohana Cleans Up|554B|3|http://codeforces.com/problemset/problem/554/B
+A and B and Compilation Errors|519B|3|http://codeforces.com/problemset/problem/519/B
+Plant|185A|3|http://codeforces.com/problemset/problem/185/A
+A and B and Team Training|519C|3|http://codeforces.com/problemset/problem/519/C
+Fedor and New Game|467B|3|http://codeforces.com/problemset/problem/467/B
+Xor-tree|429A|3|http://codeforces.com/problemset/problem/429/A
+Prizes, Prizes, more Prizes|208D|3|http://codeforces.com/problemset/problem/208/D
+Forming Teams|216B|4|http://codeforces.com/problemset/problem/216/B
+Sysadmin Bob|31B|4|http://codeforces.com/problemset/problem/31/B
+Perfect Pair|317A|4|http://codeforces.com/problemset/problem/317/A
+The Two Routes|601A|4|http://codeforces.com/problemset/problem/601/A
+Eight Point Sets|334B|4|http://codeforces.com/problemset/problem/334/B
+Cloud of Hashtags|777D|4|http://codeforces.com/problemset/problem/777/D
+Martian Dollar|41B|4|http://codeforces.com/problemset/problem/41/B
+Guess Your Way Out!|507C|4|http://codeforces.com/problemset/problem/507/C
+Alice and Bob|346A|4|http://codeforces.com/problemset/problem/346/A
+STL|190C|4|http://codeforces.com/problemset/problem/190/C
+Magical Boxes|269A|4|http://codeforces.com/problemset/problem/269/A
+Replacement|570C|4|http://codeforces.com/problemset/problem/570/C
+Tavas and Karafs|535C|4|http://codeforces.com/problemset/problem/535/C
+Mike and Fun|548B|4|http://codeforces.com/problemset/problem/548/B
+Marina and Vasya|584C|4|http://codeforces.com/problemset/problem/584/C
+Fish Weight|297B|4|http://codeforces.com/problemset/problem/297/B
+Dreamoon and Sets|476D|4|http://codeforces.com/problemset/problem/476/D
+Alternating Current|343B|4|http://codeforces.com/problemset/problem/343/B
+Olympiad|222D|4|http://codeforces.com/problemset/problem/222/D
+Xenia and Spies|342B|4|http://codeforces.com/problemset/problem/342/B
+Chilly Willy|248B|4|http://codeforces.com/problemset/problem/248/B
+Planets|229B|4|http://codeforces.com/problemset/problem/229/B
+Queue|545D|4|http://codeforces.com/problemset/problem/545/D
+Longtail Hedgehog|615B|4|http://codeforces.com/problemset/problem/615/B
+Message|156A|4|http://codeforces.com/problemset/problem/156/A
+Voting|749C|4|http://codeforces.com/problemset/problem/749/C
+Polo the Penguin and Houses |288B|4|http://codeforces.com/problemset/problem/288/B
+Pasha and String|525B|4|http://codeforces.com/problemset/problem/525/B
+Toy Sum|405D|4|http://codeforces.com/problemset/problem/405/D
+Tree Construction|675D|4|http://codeforces.com/problemset/problem/675/D
+Report|631C|4|http://codeforces.com/problemset/problem/631/C
+Bear and Blocks|573B|4|http://codeforces.com/problemset/problem/573/B
+Dima and Two Sequences|272D|4|http://codeforces.com/problemset/problem/272/D
+Trees in a Row|402B|4|http://codeforces.com/problemset/problem/402/B
+Terse princess|148C|4|http://codeforces.com/problemset/problem/148/C
+Chloe and pleasant prizes|743D|4|http://codeforces.com/problemset/problem/743/D
+GCD Table|582A|4|http://codeforces.com/problemset/problem/582/A
+Prime Swaps|432C|4|http://codeforces.com/problemset/problem/432/C
+Soldier and Cards|546C|4|http://codeforces.com/problemset/problem/546/C
+DNA Alignment|520C|4|http://codeforces.com/problemset/problem/520/C
+Sereja and Swaps|425A|4|http://codeforces.com/problemset/problem/425/A
+The Big Race|592C|4|http://codeforces.com/problemset/problem/592/C
+Image Preview|650B|4|http://codeforces.com/problemset/problem/650/B
+Find Pair|160C|4|http://codeforces.com/problemset/problem/160/C
+Mike and Chocolate Thieves|689C|4|http://codeforces.com/problemset/problem/689/C
+Petya and Inequiations|111A|4|http://codeforces.com/problemset/problem/111/A
+Non-Secret Cypher|190D|4|http://codeforces.com/problemset/problem/190/D
+Division into Teams|149C|4|http://codeforces.com/problemset/problem/149/C
+Predict Outcome of the Game|451C|4|http://codeforces.com/problemset/problem/451/C
+The Child and Zoo|437D|4|http://codeforces.com/problemset/problem/437/D
+Nearest Fraction|281B|4|http://codeforces.com/problemset/problem/281/B
+Purification|329A|4|http://codeforces.com/problemset/problem/329/A
+Dynasty Puzzles|191A|4|http://codeforces.com/problemset/problem/191/A
+Secret Combination|496B|4|http://codeforces.com/problemset/problem/496/B
+Divisible by Seven|375A|4|http://codeforces.com/problemset/problem/375/A
+Burning Midnight Oil|165B|4|http://codeforces.com/problemset/problem/165/B
+School Marks|540B|4|http://codeforces.com/problemset/problem/540/B
+Road Map|34D|4|http://codeforces.com/problemset/problem/34/D
+Harmony Analysis|610C|4|http://codeforces.com/problemset/problem/610/C
+Magic Formulas|424C|4|http://codeforces.com/problemset/problem/424/C
+Pasha and Tea|557B|4|http://codeforces.com/problemset/problem/557/B
+24 Game|468A|4|http://codeforces.com/problemset/problem/468/A
+Basketball Team|107B|4|http://codeforces.com/problemset/problem/107/B
+Heap Operations|681C|4|http://codeforces.com/problemset/problem/681/C
+Rational Resistance|343A|4|http://codeforces.com/problemset/problem/343/A
+Strange Addition|305A|4|http://codeforces.com/problemset/problem/305/A
+Ivan and Powers of Two|305C|4|http://codeforces.com/problemset/problem/305/C
+Beauty Pageant|246C|4|http://codeforces.com/problemset/problem/246/C
+Modular Equations|495B|4|http://codeforces.com/problemset/problem/495/B
+Quantity of Strings|150B|4|http://codeforces.com/problemset/problem/150/B
+Gerald's Hexagon|559A|4|http://codeforces.com/problemset/problem/559/A
+ZgukistringZ|551B|4|http://codeforces.com/problemset/problem/551/B
+Non-square Equation|233B|4|http://codeforces.com/problemset/problem/233/B
+Find Maximum|353C|4|http://codeforces.com/problemset/problem/353/C
+Alyona and the Tree|682C|4|http://codeforces.com/problemset/problem/682/C
+Newspaper Headline|91A|4|http://codeforces.com/problemset/problem/91/A
+MUH and House of Cards|471C|4|http://codeforces.com/problemset/problem/471/C
+Vasya and String|676C|4|http://codeforces.com/problemset/problem/676/C
+Amr and Pins|507B|4|http://codeforces.com/problemset/problem/507/B
+Buns|106C|4|http://codeforces.com/problemset/problem/106/C
+Magic Five|327C|4|http://codeforces.com/problemset/problem/327/C
+Cows and Primitive Roots|284A|4|http://codeforces.com/problemset/problem/284/A
+Vasily the Bear and Sequence|336C|4|http://codeforces.com/problemset/problem/336/C
+Preparing Olympiad|550B|4|http://codeforces.com/problemset/problem/550/B
+Bear and Three Musketeers|574B|4|http://codeforces.com/problemset/problem/574/B
+Undoubtedly Lucky Numbers|244B|4|http://codeforces.com/problemset/problem/244/B
+Dreamoon and Sums|476C|4|http://codeforces.com/problemset/problem/476/C
+Cthulhu|103B|4|http://codeforces.com/problemset/problem/103/B
+Win or Freeze|150A|4|http://codeforces.com/problemset/problem/150/A
+Quiz|337C|4|http://codeforces.com/problemset/problem/337/C
+Anagram Search|144C|4|http://codeforces.com/problemset/problem/144/C
+Two Substrings|550A|4|http://codeforces.com/problemset/problem/550/A
+Subsegments|69E|4|http://codeforces.com/problemset/problem/69/E
+History|137C|4|http://codeforces.com/problemset/problem/137/C
+Primes on Interval|237C|4|http://codeforces.com/problemset/problem/237/C
+The Child and Set|437B|4|http://codeforces.com/problemset/problem/437/B
+OR in Matrix|486B|4|http://codeforces.com/problemset/problem/486/B
+DZY Loves Chemistry|445B|4|http://codeforces.com/problemset/problem/445/B
+Vasiliy's Multiset|706D|4|http://codeforces.com/problemset/problem/706/D
+Bits|484A|4|http://codeforces.com/problemset/problem/484/A
+Ilya and Sticks|525C|4|http://codeforces.com/problemset/problem/525/C
+Dima and Lisa|584D|4|http://codeforces.com/problemset/problem/584/D
+Kefa and Park|580C|4|http://codeforces.com/problemset/problem/580/C
+Queue|91B|4|http://codeforces.com/problemset/problem/91/B
+Woodcutters|545C|4|http://codeforces.com/problemset/problem/545/C
+Biridian Forest|329B|4|http://codeforces.com/problemset/problem/329/B
+k-Multiple Free Set|274A|4|http://codeforces.com/problemset/problem/274/A
+Magic Box|231D|4|http://codeforces.com/problemset/problem/231/D
+Alyona and Strings|682D|5|http://codeforces.com/problemset/problem/682/D
+Dispute|242D|5|http://codeforces.com/problemset/problem/242/D
+Volleyball|95C|5|http://codeforces.com/problemset/problem/95/C
+Decoding Genome|222E|5|http://codeforces.com/problemset/problem/222/E
+Running Track|615C|5|http://codeforces.com/problemset/problem/615/C
+Police Station|208C|5|http://codeforces.com/problemset/problem/208/C
+Money Transfers|675C|5|http://codeforces.com/problemset/problem/675/C
+Mishka and Interesting sum|703D|5|http://codeforces.com/problemset/problem/703/D
+Queue|353D|5|http://codeforces.com/problemset/problem/353/D
+Directed Roads|711D|5|http://codeforces.com/problemset/problem/711/D
+Spongebob and Squares|599D|5|http://codeforces.com/problemset/problem/599/D
+Black and White Tree|260D|5|http://codeforces.com/problemset/problem/260/D
+Ilya and Roads|313D|5|http://codeforces.com/problemset/problem/313/D
+Babaei and Birthday Cake|629D|5|http://codeforces.com/problemset/problem/629/D
+Block Tower|327D|5|http://codeforces.com/problemset/problem/327/D
+Police Patrol|427E|5|http://codeforces.com/problemset/problem/427/E
+Persistent Bookcase |707D|5|http://codeforces.com/problemset/problem/707/D
+Random Task|431D|5|http://codeforces.com/problemset/problem/431/D
+Number With The Given Amount Of Divisors|27E|5|http://codeforces.com/problemset/problem/27/E
+Cycle in Graph|263D|5|http://codeforces.com/problemset/problem/263/D
+Circle of Numbers|263C|5|http://codeforces.com/problemset/problem/263/C
+Fox And Jumping|510D|5|http://codeforces.com/problemset/problem/510/D
+Vanya and Triangles|552D|5|http://codeforces.com/problemset/problem/552/D
+Shaass and Lights|294C|5|http://codeforces.com/problemset/problem/294/C
+Vitaly and Cycle|557D|5|http://codeforces.com/problemset/problem/557/D
+Minesweeper 1D|404D|5|http://codeforces.com/problemset/problem/404/D
+Modulo Sum|577B|5|http://codeforces.com/problemset/problem/577/B
+Amr and Chemistry|558C|5|http://codeforces.com/problemset/problem/558/C
+Arthur and Table|557C|5|http://codeforces.com/problemset/problem/557/C
+Paths and Trees|545E|5|http://codeforces.com/problemset/problem/545/E
+Kefa and Dishes|580D|5|http://codeforces.com/problemset/problem/580/D
+Anya and Cubes|525E|6|http://codeforces.com/problemset/problem/525/E
+Yet Another Number Game|282D|6|http://codeforces.com/problemset/problem/282/D

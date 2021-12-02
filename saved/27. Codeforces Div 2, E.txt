@@ -1,0 +1,100 @@
+Pashmak and Graph|459E|5|http://codeforces.com/problemset/problem/459/E
+Civilization|455C|5|http://codeforces.com/problemset/problem/455/C
+Sereja and Brackets|380C|5|http://codeforces.com/problemset/problem/380/C
+Propagating tree|383C|5|http://codeforces.com/problemset/problem/383/C
+XOR on Segment|242E|5|http://codeforces.com/problemset/problem/242/E
+Yet Another Task with Queens|131E|6|http://codeforces.com/problemset/problem/131/E
+Mashmokh and Reverse Operation|414C|5|http://codeforces.com/problemset/problem/414/C
+Choosing Balls|264C|5|http://codeforces.com/problemset/problem/264/C
+Subsegments|69E|4|http://codeforces.com/problemset/problem/69/E
+Sausage Maximization|282E|5|http://codeforces.com/problemset/problem/282/E
+Games with Rectangle|128C|5|http://codeforces.com/problemset/problem/128/C
+Riding in a Lift|479E|5|http://codeforces.com/problemset/problem/479/E
+Fools and Roads|191C|4|http://codeforces.com/problemset/problem/191/C
+Enemy is weak|61E|5|http://codeforces.com/problemset/problem/61/E
+Cipher|156C|5|http://codeforces.com/problemset/problem/156/C
+Flawed Flow|269C|5|http://codeforces.com/problemset/problem/269/C
+Greg and Friends|295C|5|http://codeforces.com/problemset/problem/295/C
+Fish|16E|6|http://codeforces.com/problemset/problem/16/E
+Main Sequence|286C|5|http://codeforces.com/problemset/problem/286/C
+Jzzhu and Apples|449C|7|http://codeforces.com/problemset/problem/449/C
+Arthur and Brackets|508E|6|http://codeforces.com/problemset/problem/508/E
+Little Elephant and LCM|258C|5|http://codeforces.com/problemset/problem/258/C
+Prefix Product Sequence|487C|6|http://codeforces.com/problemset/problem/487/C
+Lucky Subsequence|145C|5|http://codeforces.com/problemset/problem/145/C
+Interesting Game|87C|5|http://codeforces.com/problemset/problem/87/C
+Zero-One|135C|4|http://codeforces.com/problemset/problem/135/C
+Divisors|448E|6|http://codeforces.com/problemset/problem/448/E
+Game on Tree|280C|6|http://codeforces.com/problemset/problem/280/C
+Last Chance|137E|5|http://codeforces.com/problemset/problem/137/E
+Build String|237E|5|http://codeforces.com/problemset/problem/237/E
+Number Transformation II|346C|6|http://codeforces.com/problemset/problem/346/C
+Double Profiles|154C|6|http://codeforces.com/problemset/problem/154/C
+Number Transformation|251C|5|http://codeforces.com/problemset/problem/251/C
+Prefix Product Sequence|488E|6|http://codeforces.com/problemset/problem/488/E
+DZY Loves Fibonacci Numbers|446C|7|http://codeforces.com/problemset/problem/446/C
+DZY Loves Colors|444C|6|http://codeforces.com/problemset/problem/444/C
+Little Elephant and Shifts|220C|5|http://codeforces.com/problemset/problem/220/C
+Inna and Binary Logic|400E|5|http://codeforces.com/problemset/problem/400/E
+Martian Strings|149E|6|http://codeforces.com/problemset/problem/149/E
+Devu and Birthday Celebration|439E|6|http://codeforces.com/problemset/problem/439/E
+Iahub and Permutations|340E|5|http://codeforces.com/problemset/problem/340/E
+Hiking|489E|7|http://codeforces.com/problemset/problem/489/E
+Splitting the Uniqueness|297C|7|http://codeforces.com/problemset/problem/297/C
+George and Cards|387E|6|http://codeforces.com/problemset/problem/387/E
+Dima and Magic Guitar|366E|5|http://codeforces.com/problemset/problem/366/E
+Ski Base|91C|5|http://codeforces.com/problemset/problem/91/C
+Wrong Floyd|350E|5|http://codeforces.com/problemset/problem/350/E
+Empire Strikes Back|300E|6|http://codeforces.com/problemset/problem/300/E
+Mushroom Gnomes - 2|138C|5|http://codeforces.com/problemset/problem/138/C
+Parking Lot|219E|6|http://codeforces.com/problemset/problem/219/E
+Xenia and Tree|342E|7|http://codeforces.com/problemset/problem/342/E
+Cactus|231E|6|http://codeforces.com/problemset/problem/231/E
+Anniversary|226C|7|http://codeforces.com/problemset/problem/226/C
+Hack it!|468C|7|http://codeforces.com/problemset/problem/468/C
+Graph Reconstruction|329C|6|http://codeforces.com/problemset/problem/329/C
+Help Caretaker|142C|6|http://codeforces.com/problemset/problem/142/C
+Martian Luck|216E|5|http://codeforces.com/problemset/problem/216/E
+Collisions|34E|6|http://codeforces.com/problemset/problem/34/E
+Chip Play|89C|5|http://codeforces.com/problemset/problem/89/C
+Beautiful Set|364C|6|http://codeforces.com/problemset/problem/364/C
+Strictly Positive Matrix|402E|5|http://codeforces.com/problemset/problem/402/E
+Square Tiling|432E|7|http://codeforces.com/problemset/problem/432/E
+Game|277C|7|http://codeforces.com/problemset/problem/277/C
+Dreamoon and Strings|476E|6|http://codeforces.com/problemset/problem/476/E
+Counter Attack|190E|7|http://codeforces.com/problemset/problem/190/E
+Three Horses|271E|6|http://codeforces.com/problemset/problem/271/E
+Playing with String|305E|7|http://codeforces.com/problemset/problem/305/E
+Colorado Potato Beetle|243C|6|http://codeforces.com/problemset/problem/243/C
+Three Swaps|339E|9|http://codeforces.com/problemset/problem/339/E
+Cyclical Quest|235C|8|http://codeforces.com/problemset/problem/235/C
+Petya and Pipes|362E|7|http://codeforces.com/problemset/problem/362/E
+Common ancestor|49E|7|http://codeforces.com/problemset/problem/49/E
+Neatness|359E|8|http://codeforces.com/problemset/problem/359/E
+Yaroslav and Algorithm|301C|7|http://codeforces.com/problemset/problem/301/C
+Strange Sorting|484C|8|http://codeforces.com/problemset/problem/484/C
+Helping People|494C|8|http://codeforces.com/problemset/problem/494/C
+Dima and Kicks|358E|7|http://codeforces.com/problemset/problem/358/E
+Hamming Distance|193C|6|http://codeforces.com/problemset/problem/193/C
+Delivering Carcinogen|198C|6|http://codeforces.com/problemset/problem/198/C
+Graph Cutting|405E|6|http://codeforces.com/problemset/problem/405/E
+The Last Hole!|274C|8|http://codeforces.com/problemset/problem/274/C
+Circling Round Treasures|375C|7|http://codeforces.com/problemset/problem/375/C
+Lucky Tickets|333C|8|http://codeforces.com/problemset/problem/333/C
+Help Greg the Dwarf|98C|7|http://codeforces.com/problemset/problem/98/C
+Transportation|203E|6|http://codeforces.com/problemset/problem/203/E
+Ship's Shortest Path|75E|7|http://codeforces.com/problemset/problem/75/E
+Horse Races|95D|8|http://codeforces.com/problemset/problem/95/D
+Roland and Rose|460E|8|http://codeforces.com/problemset/problem/460/E
+Binary Key|332E|7|http://codeforces.com/problemset/problem/332/E
+Yet Another Number Sequence|392C|9|http://codeforces.com/problemset/problem/392/C
+Piglet's Birthday|248E|7|http://codeforces.com/problemset/problem/248/E
+Inna and Large Sweet Matrix|390E|9|http://codeforces.com/problemset/problem/390/E
+Two Circles|363E|9|http://codeforces.com/problemset/problem/363/E
+Fox And Dinner|510E|6|http://codeforces.com/problemset/problem/510/E
+Ksenia and Combinatorics|382E|8|http://codeforces.com/problemset/problem/382/E
+Misha and Palindrome Degree|501E|7|http://codeforces.com/problemset/problem/501/E
+Expression|58E|8|http://codeforces.com/problemset/problem/58/E
+Lightbulb for Minister|394E|10|http://codeforces.com/problemset/problem/394/E
+Clever Fat Rat|185C|10|http://codeforces.com/problemset/problem/185/C
+MUH and Lots and Lots of Segments|471E|8|http://codeforces.com/problemset/problem/471/E

@@ -1,0 +1,35 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Login · CP Progress Tracker</title>
+    {% include "partials/_head.html" %}
+
+</head>
+
+<body>
+    <section class="login-dark" style="background: {% static '(&quot;assets/img/abstract-6047465_1920.jpg&quot;)' %} no-repeat;background-size: auto;">
+        <div style="padding-top: 27px;">
+            <h1 style="text-align: center;font-family: 'Bebas Neue', serif;letter-spacing: 4px;color: rgb(255,255,255);font-size: 50px;">Login</h1>
+        </div>
+        <form method="post" action="#">
+
+            {% csrf_token %}
+       
+            <h2 class="sr-only">Login Form</h2>
+            <div class="illustration"><i class="icon ion-ios-locked-outline"></i></div>
+            <div class="form-group"><input class="form-control" type="text" name="username" placeholder="User Name"></div>
+            <div class="form-group"><input class="form-control" type="password" name="password" placeholder="Password"></div>
+            <div class="form-group"><button class="btn btn-primary btn-block" type="submit">Log In</button></div><a class="forgot" href="/">Forgot your email or password?</a>
+            <p style="color: rgb(95,106,117);text-align: center;font-size: 15px;margin-top: 9px;">New User?&nbsp;<a href="accounts/register" style="color: rgba(0,123,255,0.87);">Sign Up</a></p>
+        </form>
+    </section>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+</body>
+
+</html>

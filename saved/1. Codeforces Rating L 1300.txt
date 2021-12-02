@@ -1,0 +1,100 @@
+Young Physicist|69A|1|http://codeforces.com/problemset/problem/69/A
+Beautiful Matrix|263A|1|http://codeforces.com/problemset/problem/263/A
+Queue at the School|266B|1|http://codeforces.com/problemset/problem/266/B
+Borze|32B|1|http://codeforces.com/problemset/problem/32/B
+Beautiful Year|271A|1|http://codeforces.com/problemset/problem/271/A
+Lights Out|275A|1|http://codeforces.com/problemset/problem/275/A
+Word|59A|1|http://codeforces.com/problemset/problem/59/A
+Word Capitalization|281A|1|http://codeforces.com/problemset/problem/281/A
+Nearly Lucky Number|110A|1|http://codeforces.com/problemset/problem/110/A
+Stones on the Table|266A|1|http://codeforces.com/problemset/problem/266/A
+Panoramix's Prediction|80A|1|http://codeforces.com/problemset/problem/80/A
+Ultra-Fast Mathematician|61A|1|http://codeforces.com/problemset/problem/61/A
+Perfect Permutation|233A|1|http://codeforces.com/problemset/problem/233/A
+Arrival of the General|144A|1|http://codeforces.com/problemset/problem/144/A
+Drinks|200B|1|http://codeforces.com/problemset/problem/200/B
+Insomnia cure|148A|1|http://codeforces.com/problemset/problem/148/A
+Cupboards|248A|1|http://codeforces.com/problemset/problem/248/A
+I_love_\%username\%|155A|1|http://codeforces.com/problemset/problem/155/A
+Tram|116A|1|http://codeforces.com/problemset/problem/116/A
+Helpful Maths|339A|1|http://codeforces.com/problemset/problem/339/A
+Is your horseshoe on the other hoof?|228A|1|http://codeforces.com/problemset/problem/228/A
+Way Too Long Words|71A|1|http://codeforces.com/problemset/problem/71/A
+Boy or Girl|236A|1|http://codeforces.com/problemset/problem/236/A
+Amusing Joke|141A|1|http://codeforces.com/problemset/problem/141/A
+Soft Drinking|151A|1|http://codeforces.com/problemset/problem/151/A
+HQ9+|133A|1|http://codeforces.com/problemset/problem/133/A
+Petya and Strings|112A|1|http://codeforces.com/problemset/problem/112/A
+Team|231A|1|http://codeforces.com/problemset/problem/231/A
+Bit++|282A|1|http://codeforces.com/problemset/problem/282/A
+Effective Approach|227B|2|http://codeforces.com/problemset/problem/227/B
+Dima and Friends|272A|2|http://codeforces.com/problemset/problem/272/A
+Jzzhu and Children|450A|2|http://codeforces.com/problemset/problem/450/A
+Supercentral Point|165A|2|http://codeforces.com/problemset/problem/165/A
+Petr and Book|139A|2|http://codeforces.com/problemset/problem/139/A
+Parallelepiped|224A|2|http://codeforces.com/problemset/problem/224/A
+Reconnaissance 2|34A|2|http://codeforces.com/problemset/problem/34/A
+Even Odds|318A|2|http://codeforces.com/problemset/problem/318/A
+Little Elephant and Rozdil|205A|2|http://codeforces.com/problemset/problem/205/A
+Hexadecimal's theorem|199A|2|http://codeforces.com/problemset/problem/199/A
+Jeff and Digits|352A|2|http://codeforces.com/problemset/problem/352/A
+Xenia and Ringroad|339B|2|http://codeforces.com/problemset/problem/339/B
+Magic Numbers|320A|2|http://codeforces.com/problemset/problem/320/A
+Translation|41A|2|http://codeforces.com/problemset/problem/41/A
+Football|43A|2|http://codeforces.com/problemset/problem/43/A
+Bicycle Chain|215A|2|http://codeforces.com/problemset/problem/215/A
+Sale|34B|2|http://codeforces.com/problemset/problem/34/B
+System of Equations|214A|2|http://codeforces.com/problemset/problem/214/A
+Business trip|149A|2|http://codeforces.com/problemset/problem/149/A
+Dubstep|208A|2|http://codeforces.com/problemset/problem/208/A
+k-String|219A|2|http://codeforces.com/problemset/problem/219/A
+The number of positions|124A|2|http://codeforces.com/problemset/problem/124/A
+Football|96A|2|http://codeforces.com/problemset/problem/96/A
+String Task|118A|2|http://codeforces.com/problemset/problem/118/A
+Little Elephant and Function|221A|2|http://codeforces.com/problemset/problem/221/A
+Present from Lena|118B|2|http://codeforces.com/problemset/problem/118/B
+Dragons|230A|2|http://codeforces.com/problemset/problem/230/A
+Puzzles|337A|2|http://codeforces.com/problemset/problem/337/A
+Chat room|58A|2|http://codeforces.com/problemset/problem/58/A
+Airport|218B|2|http://codeforces.com/problemset/problem/218/B
+DZY Loves Chessboard|445A|3|http://codeforces.com/problemset/problem/445/A
+Pashmak and Flowers|459B|3|http://codeforces.com/problemset/problem/459/B
+Jeff and Periods|352B|3|http://codeforces.com/problemset/problem/352/B
+Little Girl and Game|276B|3|http://codeforces.com/problemset/problem/276/B
+Sail|298B|3|http://codeforces.com/problemset/problem/298/B
+Shower Line|431B|3|http://codeforces.com/problemset/problem/431/B
+Shooshuns and Sequence |222A|3|http://codeforces.com/problemset/problem/222/A
+Xenia and Divisors|342A|3|http://codeforces.com/problemset/problem/342/A
+Letter|43B|3|http://codeforces.com/problemset/problem/43/B
+Kitahara Haruki's Gift|433A|3|http://codeforces.com/problemset/problem/433/A
+Comparing Strings|186A|3|http://codeforces.com/problemset/problem/186/A
+Hungry Sequence|327B|3|http://codeforces.com/problemset/problem/327/B
+Big Segment|242B|3|http://codeforces.com/problemset/problem/242/B
+Little Elephant and Bits|258A|3|http://codeforces.com/problemset/problem/258/A
+Yaroslav and Permutations|296A|3|http://codeforces.com/problemset/problem/296/A
+Fence|363B|3|http://codeforces.com/problemset/problem/363/B
+TL|350A|3|http://codeforces.com/problemset/problem/350/A
+Increase and Decrease|246B|3|http://codeforces.com/problemset/problem/246/B
+Two Bags of Potatoes|239A|3|http://codeforces.com/problemset/problem/239/A
+Unlucky Ticket|160B|3|http://codeforces.com/problemset/problem/160/B
+Boys and Girls|253A|3|http://codeforces.com/problemset/problem/253/A
+Easy Number Challenge|236B|3|http://codeforces.com/problemset/problem/236/B
+Pythagorean Theorem II|304A|3|http://codeforces.com/problemset/problem/304/A
+Cards with Numbers|254A|3|http://codeforces.com/problemset/problem/254/A
+Domino|353A|3|http://codeforces.com/problemset/problem/353/A
+Cinema Line|349A|3|http://codeforces.com/problemset/problem/349/A
+Rank List|166A|3|http://codeforces.com/problemset/problem/166/A
+Cut Ribbon|189A|3|http://codeforces.com/problemset/problem/189/A
+IQ Test|287A|3|http://codeforces.com/problemset/problem/287/A
+Building Permutation|285C|3|http://codeforces.com/problemset/problem/285/C
+Kuriyama Mirai's Stones|433B|3|http://codeforces.com/problemset/problem/433/B
+T-primes|230B|3|http://codeforces.com/problemset/problem/230/B
+Sereja and Suffixes|368B|3|http://codeforces.com/problemset/problem/368/B
+Flipping Game|327A|3|http://codeforces.com/problemset/problem/327/A
+Free Cash|237A|3|http://codeforces.com/problemset/problem/237/A
+Polo the Penguin and Matrix|289B|4|http://codeforces.com/problemset/problem/289/B
+Jzzhu and Sequences|450B|4|http://codeforces.com/problemset/problem/450/B
+Appleman and Card Game|462B|4|http://codeforces.com/problemset/problem/462/B
+Sort the Array|451B|4|http://codeforces.com/problemset/problem/451/B
+Sereja and Bottles|315A|4|http://codeforces.com/problemset/problem/315/A
+Adding Digits|260A|4|http://codeforces.com/problemset/problem/260/A

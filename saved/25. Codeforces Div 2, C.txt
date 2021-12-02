@@ -1,0 +1,100 @@
+Given Length and Sum of Digits...|489C|1|http://codeforces.com/problemset/problem/489/C
+Number of Ways|466C|4|http://codeforces.com/problemset/problem/466/C
+Team|401C|4|http://codeforces.com/problemset/problem/401/C
+Exams|479C|4|http://codeforces.com/problemset/problem/479/C
+Boredom|455A|4|http://codeforces.com/problemset/problem/455/A
+Table Decorations|478C|4|http://codeforces.com/problemset/problem/478/C
+Beautiful Sets of Points|268C|4|http://codeforces.com/problemset/problem/268/C
+k-Tree|431C|4|http://codeforces.com/problemset/problem/431/C
+Valera and Tubes |441C|4|http://codeforces.com/problemset/problem/441/C
+Palindrome Transformation|486C|4|http://codeforces.com/problemset/problem/486/C
+Fixing Typos|363C|4|http://codeforces.com/problemset/problem/363/C
+Hacking Cypher|490C|2|http://codeforces.com/problemset/problem/490/C
+Gargari and Bishops|463C|5|http://codeforces.com/problemset/problem/463/C
+Pocket Book|152C|4|http://codeforces.com/problemset/problem/152/C
+Lucky Sum of Digits|109A|3|http://codeforces.com/problemset/problem/109/A
+Arithmetic Progression|382C|4|http://codeforces.com/problemset/problem/382/C
+Fox and Box Accumulation|388A|3|http://codeforces.com/problemset/problem/388/A
+Hexadecimal's Numbers|9C|2|http://codeforces.com/problemset/problem/9/C
+Xenia and Weights|339C|4|http://codeforces.com/problemset/problem/339/C
+Bombs|350C|4|http://codeforces.com/problemset/problem/350/C
+Pashmak and Buses|459C|5|http://codeforces.com/problemset/problem/459/C
+Little Elephant and Problem|220A|4|http://codeforces.com/problemset/problem/220/A
+Maze|377A|4|http://codeforces.com/problemset/problem/377/A
+Ice Skating|217A|3|http://codeforces.com/problemset/problem/217/A
+Hamburgers|371C|4|http://codeforces.com/problemset/problem/371/C
+Bear and Prime Numbers|385C|5|http://codeforces.com/problemset/problem/385/C
+History|137C|4|http://codeforces.com/problemset/problem/137/C
+Checkposts|427C|4|http://codeforces.com/problemset/problem/427/C
+Mashmokh and Numbers|414A|3|http://codeforces.com/problemset/problem/414/A
+Ladder|279C|4|http://codeforces.com/problemset/problem/279/C
+Escape from Stones|264A|3|http://codeforces.com/problemset/problem/264/A
+Division into Teams|149C|4|http://codeforces.com/problemset/problem/149/C
+Barcode|225C|4|http://codeforces.com/problemset/problem/225/C
+Stripe|18C|3|http://codeforces.com/problemset/problem/18/C
+Mafia|348A|4|http://codeforces.com/problemset/problem/348/A
+Cows and Sequence|283A|4|http://codeforces.com/problemset/problem/283/A
+To Add or Not to Add|231C|4|http://codeforces.com/problemset/problem/231/C
+Xor-tree|429A|3|http://codeforces.com/problemset/problem/429/A
+LCM Challenge|235A|4|http://codeforces.com/problemset/problem/235/A
+Rational Resistance|343A|4|http://codeforces.com/problemset/problem/343/A
+Points on Line|251A|3|http://codeforces.com/problemset/problem/251/A
+No to Palindromes!|464A|4|http://codeforces.com/problemset/problem/464/A
+Magic Formulas|424C|4|http://codeforces.com/problemset/problem/424/C
+Beautiful Numbers|300C|4|http://codeforces.com/problemset/problem/300/C
+Quiz|337C|4|http://codeforces.com/problemset/problem/337/C
+Replacement|135A|3|http://codeforces.com/problemset/problem/135/A
+Vasya and Robot|354A|4|http://codeforces.com/problemset/problem/354/A
+Captain Marmot|474C|4|http://codeforces.com/problemset/problem/474/C
+Win or Freeze|150A|4|http://codeforces.com/problemset/problem/150/A
+Matrix|364A|4|http://codeforces.com/problemset/problem/364/A
+Little Frog|53C|2|http://codeforces.com/problemset/problem/53/C
+Lucky Sum|121A|3|http://codeforces.com/problemset/problem/121/A
+Fight the Monster|487A|4|http://codeforces.com/problemset/problem/487/A
+Triangle|407A|4|http://codeforces.com/problemset/problem/407/A
+View Angle|257C|4|http://codeforces.com/problemset/problem/257/C
+King's Path|242C|4|http://codeforces.com/problemset/problem/242/C
+Round Table Knights|71C|4|http://codeforces.com/problemset/problem/71/C
+Purification|329A|4|http://codeforces.com/problemset/problem/329/A
+Maxim and Discounts|261A|3|http://codeforces.com/problemset/problem/261/A
+The Closest Pair|311A|3|http://codeforces.com/problemset/problem/311/A
+Divisible by Seven|375A|4|http://codeforces.com/problemset/problem/375/A
+Hometask|154A|4|http://codeforces.com/problemset/problem/154/A
+Little Elephant and Interval|204A|4|http://codeforces.com/problemset/problem/204/A
+Dorm Water Supply|107A|3|http://codeforces.com/problemset/problem/107/A
+Shaass and Lights|294C|5|http://codeforces.com/problemset/problem/294/C
+Prime Number|359C|5|http://codeforces.com/problemset/problem/359/C
+The Brand New Function|243A|4|http://codeforces.com/problemset/problem/243/A
+About Bacteria|198A|4|http://codeforces.com/problemset/problem/198/A
+Malek Dance Club|319A|4|http://codeforces.com/problemset/problem/319/A
+Dima and Containers|358C|5|http://codeforces.com/problemset/problem/358/C
+Trains|87A|4|http://codeforces.com/problemset/problem/87/A
+Almost Arithmetical Progression|255C|4|http://codeforces.com/problemset/problem/255/C
+Newspaper Headline|91A|4|http://codeforces.com/problemset/problem/91/A
+Inna and Dima|374C|4|http://codeforces.com/problemset/problem/374/C
+Hiring Staff|216C|5|http://codeforces.com/problemset/problem/216/C
+STL|190C|4|http://codeforces.com/problemset/problem/190/C
+Prime Permutation|123A|4|http://codeforces.com/problemset/problem/123/A
+Four Segments|14C|5|http://codeforces.com/problemset/problem/14/C
+Fire Again|35C|4|http://codeforces.com/problemset/problem/35/C
+Below the Diagonal|266C|6|http://codeforces.com/problemset/problem/266/C
+Mail Stamps|29C|4|http://codeforces.com/problemset/problem/29/C
+Grammar Lessons|113A|4|http://codeforces.com/problemset/problem/113/A
+Bracket Sequence|223A|4|http://codeforces.com/problemset/problem/223/A
+Heroes|77A|4|http://codeforces.com/problemset/problem/77/A
+Literature Lesson|138A|4|http://codeforces.com/problemset/problem/138/A
+Reducing Fractions|222C|5|http://codeforces.com/problemset/problem/222/C
+Game|213A|4|http://codeforces.com/problemset/problem/213/A
+Cutting Figure|193A|4|http://codeforces.com/problemset/problem/193/A
+Trees|58C|4|http://codeforces.com/problemset/problem/58/C
+Hockey|95A|4|http://codeforces.com/problemset/problem/95/A
+Schedule|31C|4|http://codeforces.com/problemset/problem/31/C
+Rectangle Puzzle|280A|5|http://codeforces.com/problemset/problem/280/A
+Disposition|49C|4|http://codeforces.com/problemset/problem/49/C
+Flea|32C|4|http://codeforces.com/problemset/problem/32/C
+Help Victoria the Wise|98A|4|http://codeforces.com/problemset/problem/98/A
+Corporation Mail|56C|4|http://codeforces.com/problemset/problem/56/C
+Optimal Sum|182C|5|http://codeforces.com/problemset/problem/182/C
+On Number of Decompositions into Multipliers|396A|7|http://codeforces.com/problemset/problem/396/A
+Blocked Points|392A|7|http://codeforces.com/problemset/problem/392/A
+Crossword|47C|5|http://codeforces.com/problemset/problem/47/C

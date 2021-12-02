@@ -1,0 +1,100 @@
+Queue at the School|266B|1|http://codeforces.com/problemset/problem/266/B
+Xenia and Ringroad|339B|2|http://codeforces.com/problemset/problem/339/B
+Fedor and New Game|467B|3|http://codeforces.com/problemset/problem/467/B
+Random Teams|478B|3|http://codeforces.com/problemset/problem/478/B
+Vanya and Lanterns|492B|3|http://codeforces.com/problemset/problem/492/B
+Sort the Array|451B|4|http://codeforces.com/problemset/problem/451/B
+Lecture|499B|2|http://codeforces.com/problemset/problem/499/B
+T-primes|230B|3|http://codeforces.com/problemset/problem/230/B
+Anton and currency you all know|508B|3|http://codeforces.com/problemset/problem/508/B
+DZY Loves Strings|447B|2|http://codeforces.com/problemset/problem/447/B
+Amr and Pins|507B|4|http://codeforces.com/problemset/problem/507/B
+Little Pony and Sort by Shift|454B|4|http://codeforces.com/problemset/problem/454/B
+Jzzhu and Sequences|450B|4|http://codeforces.com/problemset/problem/450/B
+Roadside Trees (Simplified Edition)|265B|2|http://codeforces.com/problemset/problem/265/B
+Find Marble|285B|3|http://codeforces.com/problemset/problem/285/B
+Suffix Structures|448B|4|http://codeforces.com/problemset/problem/448/B
+Little Elephant and Magic Square|259B|2|http://codeforces.com/problemset/problem/259/B
+OR in Matrix|486B|4|http://codeforces.com/problemset/problem/486/B
+Football Kit|432B|3|http://codeforces.com/problemset/problem/432/B
+Little Girl and Game|276B|3|http://codeforces.com/problemset/problem/276/B
+Petya and Staircases|362B|3|http://codeforces.com/problemset/problem/362/B
+Books|279B|4|http://codeforces.com/problemset/problem/279/B
+Chat Online|469B|3|http://codeforces.com/problemset/problem/469/B
+Painting Pebbles|509B|2|http://codeforces.com/problemset/problem/509/B
+Vasya and Wrestling|493B|4|http://codeforces.com/problemset/problem/493/B
+George and Round|387B|3|http://codeforces.com/problemset/problem/387/B
+The Fibonacci Segment|365B|3|http://codeforces.com/problemset/problem/365/B
+Trace|157B|2|http://codeforces.com/problemset/problem/157/B
+Sale|34B|2|http://codeforces.com/problemset/problem/34/B
+Road Construction|330B|3|http://codeforces.com/problemset/problem/330/B
+Little Pigs and Wolves|116B|3|http://codeforces.com/problemset/problem/116/B
+Before an Exam|4B|1|http://codeforces.com/problemset/problem/4/B
+Painting Eggs|282B|4|http://codeforces.com/problemset/problem/282/B
+Lucky Substring|122B|2|http://codeforces.com/problemset/problem/122/B
+Combination|155B|3|http://codeforces.com/problemset/problem/155/B
+Jeff and Periods|352B|3|http://codeforces.com/problemset/problem/352/B
+Unary|133B|3|http://codeforces.com/problemset/problem/133/B
+Polo the Penguin and Matrix|289B|4|http://codeforces.com/problemset/problem/289/B
+Dima and To-do List|366B|3|http://codeforces.com/problemset/problem/366/B
+Coins|58B|3|http://codeforces.com/problemset/problem/58/B
+Han Solo and Lazer Gun|514B|4|http://codeforces.com/problemset/problem/514/B
+Garland|408B|3|http://codeforces.com/problemset/problem/408/B
+Flag Day|357B|4|http://codeforces.com/problemset/problem/357/B
+Art Union|416B|3|http://codeforces.com/problemset/problem/416/B
+Lucky String|110B|2|http://codeforces.com/problemset/problem/110/B
+Petya and Countryside|66B|2|http://codeforces.com/problemset/problem/66/B
+Archer|312B|3|http://codeforces.com/problemset/problem/312/B
+Routine Problem|337B|4|http://codeforces.com/problemset/problem/337/B
+Color the Fence|349B|4|http://codeforces.com/problemset/problem/349/B
+Levko and Permutation|361B|3|http://codeforces.com/problemset/problem/361/B
+Vasya's Calendar|182B|1|http://codeforces.com/problemset/problem/182/B
+Reading|234B|3|http://codeforces.com/problemset/problem/234/B
+Phone Numbers|151B|3|http://codeforces.com/problemset/problem/151/B
+Permutation|359B|3|http://codeforces.com/problemset/problem/359/B
+Students and Shoelaces|129B|3|http://codeforces.com/problemset/problem/129/B
+Help Kingdom of Far Far Away 2|143B|3|http://codeforces.com/problemset/problem/143/B
+The Child and Set|437B|4|http://codeforces.com/problemset/problem/437/B
+Non-square Equation|233B|4|http://codeforces.com/problemset/problem/233/B
+Special Offer! Super Price 999 Bourles!|219B|4|http://codeforces.com/problemset/problem/219/B
+Little Elephant and Sorting|205B|4|http://codeforces.com/problemset/problem/205/B
+Walking in the Rain|192B|3|http://codeforces.com/problemset/problem/192/B
+Two Tables|228B|4|http://codeforces.com/problemset/problem/228/B
+Xenia and Spies|342B|4|http://codeforces.com/problemset/problem/342/B
+Lucky Numbers (easy)|96B|4|http://codeforces.com/problemset/problem/96/B
+Ping-Pong (Easy Version)|320B|4|http://codeforces.com/problemset/problem/320/B
+After Training|195B|3|http://codeforces.com/problemset/problem/195/B
+Magic, Wizardry and Wonders|231B|4|http://codeforces.com/problemset/problem/231/B
+Limit|197B|4|http://codeforces.com/problemset/problem/197/B
+Ancient Prophesy|260B|4|http://codeforces.com/problemset/problem/260/B
+Hometask|214B|4|http://codeforces.com/problemset/problem/214/B
+Well-known Numbers|225B|4|http://codeforces.com/problemset/problem/225/B
+Settlers' Training|63B|3|http://codeforces.com/problemset/problem/63/B
+Nearest Fraction|281B|4|http://codeforces.com/problemset/problem/281/B
+Counting Rhombi|189B|3|http://codeforces.com/problemset/problem/189/B
+Friends|94B|3|http://codeforces.com/problemset/problem/94/B
+Undoubtedly Lucky Numbers|244B|4|http://codeforces.com/problemset/problem/244/B
+Forming Teams|216B|4|http://codeforces.com/problemset/problem/216/B
+Inna and Nine|374B|4|http://codeforces.com/problemset/problem/374/B
+Bets|69B|3|http://codeforces.com/problemset/problem/69/B
+Young Photographer|14B|4|http://codeforces.com/problemset/problem/14/B
+Martian Clock|149B|4|http://codeforces.com/problemset/problem/149/B
+Jury Size|254B|4|http://codeforces.com/problemset/problem/254/B
+Hard Work|61B|4|http://codeforces.com/problemset/problem/61/B
+Testing Pants for Sadness|103A|3|http://codeforces.com/problemset/problem/103/A
+Running Student|9B|4|http://codeforces.com/problemset/problem/9/B
+Tournament|27B|3|http://codeforces.com/problemset/problem/27/B
+Magical Array|83A|3|http://codeforces.com/problemset/problem/83/A
+Help Chef Gerasim|99B|4|http://codeforces.com/problemset/problem/99/B
+Convex Shape|275B|4|http://codeforces.com/problemset/problem/275/B
+Surrounded|190B|5|http://codeforces.com/problemset/problem/190/B
+Spoilt Permutation|56B|4|http://codeforces.com/problemset/problem/56/B
+PFAST Inc.|114B|4|http://codeforces.com/problemset/problem/114/B
+Martian Dollar|41B|4|http://codeforces.com/problemset/problem/41/B
+Bargaining Table|22B|5|http://codeforces.com/problemset/problem/22/B
+Sysadmin Bob|31B|4|http://codeforces.com/problemset/problem/31/B
+Facetook Priority Wall|75B|4|http://codeforces.com/problemset/problem/75/B
+Maximal Area Quadrilateral|340B|4|http://codeforces.com/problemset/problem/340/B
+Traffic Lights|29B|4|http://codeforces.com/problemset/problem/29/B
+Blog Photo|53B|5|http://codeforces.com/problemset/problem/53/B
+Three matrices|393B|7|http://codeforces.com/problemset/problem/393/B

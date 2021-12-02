@@ -1,0 +1,100 @@
+Jeff and Permutation|351E|5|http://codeforces.com/problemset/problem/351/E
+Lucky Number Representation|354E|5|http://codeforces.com/problemset/problem/354/E
+Lucky Queries|145E|6|http://codeforces.com/problemset/problem/145/E
+Little Elephant and Inversions|220E|7|http://codeforces.com/problemset/problem/220/E
+Little Elephant and Tree|258E|7|http://codeforces.com/problemset/problem/258/E
+Lucky Array|121E|7|http://codeforces.com/problemset/problem/121/E
+Lucky Country|95E|7|http://codeforces.com/problemset/problem/95/E
+Ciel and Gondolas|321E|8|http://codeforces.com/problemset/problem/321/E
+Lucky Arrays|256E|7|http://codeforces.com/problemset/problem/256/E
+Gifts|229E|9|http://codeforces.com/problemset/problem/229/E
+Sign on Fence|484E|8|http://codeforces.com/problemset/problem/484/E
+Gripping Story|198E|7|http://codeforces.com/problemset/problem/198/E
+Opening Portals|196E|7|http://codeforces.com/problemset/problem/196/E
+Optimize!|338E|8|http://codeforces.com/problemset/problem/338/E
+Sereja and Sets|425E|7|http://codeforces.com/problemset/problem/425/E
+Little Elephant and Strings|204E|9|http://codeforces.com/problemset/problem/204/E
+Lostborn|93E|8|http://codeforces.com/problemset/problem/93/E
+Bits of merry old England|132E|9|http://codeforces.com/problemset/problem/132/E
+Igloo Skyscraper|91E|7|http://codeforces.com/problemset/problem/91/E
+Vowels|383E|8|http://codeforces.com/problemset/problem/383/E
+Cow Tennis Tournament|283E|9|http://codeforces.com/problemset/problem/283/E
+Thoroughly Bureaucratic Organization|201E|7|http://codeforces.com/problemset/problem/201/E
+Candies and Stones|101E|8|http://codeforces.com/problemset/problem/101/E
+Sereja and Intervals|367E|8|http://codeforces.com/problemset/problem/367/E
+Ladies' Shop|286E|9|http://codeforces.com/problemset/problem/286/E
+Martian Food|77E|8|http://codeforces.com/problemset/problem/77/E
+Buying Sets|103E|10|http://codeforces.com/problemset/problem/103/E
+Wizards and Bets|167E|8|http://codeforces.com/problemset/problem/167/E
+Maxim and Calculator|261E|9|http://codeforces.com/problemset/problem/261/E
+Stairs and Lines|498E|8|http://codeforces.com/problemset/problem/498/E
+Maze|123E|8|http://codeforces.com/problemset/problem/123/E
+Alien DNA|217E|9|http://codeforces.com/problemset/problem/217/E
+Number Challenge|235E|8|http://codeforces.com/problemset/problem/235/E
+Fibonacci Number|193E|9|http://codeforces.com/problemset/problem/193/E
+Noble Knight's Path|226E|10|http://codeforces.com/problemset/problem/226/E
+Biologist|311E|8|http://codeforces.com/problemset/problem/311/E
+Polo the Penguin and Lucky Numbers|288E|9|http://codeforces.com/problemset/problem/288/E
+Dima and Game|273E|8|http://codeforces.com/problemset/problem/273/E
+Candies Game|341E|9|http://codeforces.com/problemset/problem/341/E
+Endless Matrix|249E|7|http://codeforces.com/problemset/problem/249/E
+Freezing with Style|150E|10|http://codeforces.com/problemset/problem/150/E
+Road Repairs|240E|9|http://codeforces.com/problemset/problem/240/E
+Weak Subsequence|135E|9|http://codeforces.com/problemset/problem/135/E
+Sereja and Squares|314E|9|http://codeforces.com/problemset/problem/314/E
+Levko and Game|360E|9|http://codeforces.com/problemset/problem/360/E
+Ping-Pong|319E|10|http://codeforces.com/problemset/problem/319/E
+Function|455E|9|http://codeforces.com/problemset/problem/455/E
+Quick Tortoise|232E|9|http://codeforces.com/problemset/problem/232/E
+Pilgrims|348E|9|http://codeforces.com/problemset/problem/348/E
+The Classic Problem|464E|9|http://codeforces.com/problemset/problem/464/E
+Meeting Her|238E|9|http://codeforces.com/problemset/problem/238/E
+Mystic Carvings|297E|9|http://codeforces.com/problemset/problem/297/E
+Yaroslav and Arrangements|301E|9|http://codeforces.com/problemset/problem/301/E
+Jzzhu and Squares|449E|9|http://codeforces.com/problemset/problem/449/E
+Roadside Trees|264E|9|http://codeforces.com/problemset/problem/264/E
+Appleman and a Game|461E|9|http://codeforces.com/problemset/problem/461/E
+Parking Lot|480E|9|http://codeforces.com/problemset/problem/480/E
+Cookie Clicker|377E|9|http://codeforces.com/problemset/problem/377/E
+Doodle Jump|346E|10|http://codeforces.com/problemset/problem/346/E
+Xenia and String Problem|356E|10|http://codeforces.com/problemset/problem/356/E
+Mogohu-Rea Idol|87E|8|http://codeforces.com/problemset/problem/87/E
+Random Ranking|303E|10|http://codeforces.com/problemset/problem/303/E
+Empty Rectangles|364E|9|http://codeforces.com/problemset/problem/364/E
+Mirror Room|274E|10|http://codeforces.com/problemset/problem/274/E
+Little Pony and Lord Tirek|453E|9|http://codeforces.com/problemset/problem/453/E
+k-d-sequence|407E|10|http://codeforces.com/problemset/problem/407/E
+Drawing Circles is Fun|372E|9|http://codeforces.com/problemset/problem/372/E
+Fox And Polygon|512E|8|http://codeforces.com/problemset/problem/512/E
+Evil|329E|10|http://codeforces.com/problemset/problem/329/E
+Darts|107E|9|http://codeforces.com/problemset/problem/107/E
+Subsequences Return|497E|9|http://codeforces.com/problemset/problem/497/E
+Red and Black Tree|375E|10|http://codeforces.com/problemset/problem/375/E
+The Child and Binary Tree|438E|10|http://codeforces.com/problemset/problem/438/E
+Sequence Transformation|280E|10|http://codeforces.com/problemset/problem/280/E
+Gena and Second Distance|442E|9|http://codeforces.com/problemset/problem/442/E
+Two Rooted Trees|403E|9|http://codeforces.com/problemset/problem/403/E
+Matrix|243E|9|http://codeforces.com/problemset/problem/243/E
+Planar Graph|223E|10|http://codeforces.com/problemset/problem/223/E
+Misha and LCP on Tree|504E|9|http://codeforces.com/problemset/problem/504/E
+Sleeping|113E|8|http://codeforces.com/problemset/problem/113/E
+String Theory|269E|10|http://codeforces.com/problemset/problem/269/E
+Martian Colony|154E|10|http://codeforces.com/problemset/problem/154/E
+Birthday|128E|10|http://codeforces.com/problemset/problem/128/E
+Sharti|494E|8|http://codeforces.com/problemset/problem/494/E
+Tourists|487E|9|http://codeforces.com/problemset/problem/487/E
+Furukawa Nagisa's Tree|434E|9|http://codeforces.com/problemset/problem/434/E
+ELCA|482E|10|http://codeforces.com/problemset/problem/482/E
+Lucky Interval|109E|10|http://codeforces.com/problemset/problem/109/E
+On Iteration of One Well-Known Function|396E|10|http://codeforces.com/problemset/problem/396/E
+Soap Time! - 2|185E|9|http://codeforces.com/problemset/problem/185/E
+Mashmokh's Designed Problem|414E|10|http://codeforces.com/problemset/problem/414/E
+Fox and Meteor Shower|388E|10|http://codeforces.com/problemset/problem/388/E
+Heaven Tour|187E|9|http://codeforces.com/problemset/problem/187/E
+Fire and Ice|89E|10|http://codeforces.com/problemset/problem/89/E
+Pills|126E|10|http://codeforces.com/problemset/problem/126/E
+Dreamoon and Notepad|477E|10|http://codeforces.com/problemset/problem/477/E
+Sorting Permutations|398E|10|http://codeforces.com/problemset/problem/398/E
+Help Greg the Dwarf 2|142E|10|http://codeforces.com/problemset/problem/142/E
+Petya and Rectangle|111E|10|http://codeforces.com/problemset/problem/111/E
+Permanent|468E|9|http://codeforces.com/problemset/problem/468/E

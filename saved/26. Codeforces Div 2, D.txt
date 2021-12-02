@@ -1,0 +1,100 @@
+Flowers|474D|1|http://codeforces.com/problemset/problem/474/D
+Prizes, Prizes, more Prizes|208D|3|http://codeforces.com/problemset/problem/208/D
+Xenia and Bit Operations|339D|4|http://codeforces.com/problemset/problem/339/D
+Vasya and Chess|493D|4|http://codeforces.com/problemset/problem/493/D
+Mashmokh and ACM|414B|3|http://codeforces.com/problemset/problem/414/B
+Multiplication Table|448D|5|http://codeforces.com/problemset/problem/448/D
+Unbearable Controversy of Being|489D|3|http://codeforces.com/problemset/problem/489/D
+Caesar's Legions|118D|4|http://codeforces.com/problemset/problem/118/D
+Colorful Graph|246D|4|http://codeforces.com/problemset/problem/246/D
+Little Girl and Maximum XOR|276D|4|http://codeforces.com/problemset/problem/276/D
+Common Divisors|182D|4|http://codeforces.com/problemset/problem/182/D
+Magic Box|231D|4|http://codeforces.com/problemset/problem/231/D
+Good Sequences|264B|4|http://codeforces.com/problemset/problem/264/B
+Password|126B|4|http://codeforces.com/problemset/problem/126/B
+Greg and Graph|295B|4|http://codeforces.com/problemset/problem/295/B
+Working out|429B|4|http://codeforces.com/problemset/problem/429/B
+Count Good Substrings|451D|5|http://codeforces.com/problemset/problem/451/D
+Good Substrings|271D|5|http://codeforces.com/problemset/problem/271/D
+Long Path|407B|4|http://codeforces.com/problemset/problem/407/B
+Maximum Value|484B|5|http://codeforces.com/problemset/problem/484/B
+Greenhouse Effect|269B|4|http://codeforces.com/problemset/problem/269/B
+Red-Green Towers|478D|5|http://codeforces.com/problemset/problem/478/D
+Maximum Submatrix 2|375B|4|http://codeforces.com/problemset/problem/375/B
+Cow Program|283B|4|http://codeforces.com/problemset/problem/283/B
+Biridian Forest|329B|4|http://codeforces.com/problemset/problem/329/B
+Andrey and Problem|442B|4|http://codeforces.com/problemset/problem/442/B
+DZY Loves Modification|446B|5|http://codeforces.com/problemset/problem/446/B
+Zero Tree|274B|4|http://codeforces.com/problemset/problem/274/B
+Prefixes and Suffixes|432D|5|http://codeforces.com/problemset/problem/432/D
+Queue|91B|4|http://codeforces.com/problemset/problem/91/B
+Chips|333B|4|http://codeforces.com/problemset/problem/333/B
+Valid Sets|486D|5|http://codeforces.com/problemset/problem/486/D
+Pair of Numbers|359D|5|http://codeforces.com/problemset/problem/359/D
+Planets|229B|4|http://codeforces.com/problemset/problem/229/B
+Queue|353D|5|http://codeforces.com/problemset/problem/353/D
+Petya and Divisors|111B|4|http://codeforces.com/problemset/problem/111/B
+Obsessive String|494B|5|http://codeforces.com/problemset/problem/494/B
+Dima and Bacteria|400D|5|http://codeforces.com/problemset/problem/400/D
+Psychos in a Line|319B|4|http://codeforces.com/problemset/problem/319/B
+Ciel and Duel|321B|5|http://codeforces.com/problemset/problem/321/B
+Falling Anvils|77B|4|http://codeforces.com/problemset/problem/77/B
+Hit Ball|203D|4|http://codeforces.com/problemset/problem/203/D
+Toy Sum|405D|4|http://codeforces.com/problemset/problem/405/D
+Lucky Common Subsequence|346B|5|http://codeforces.com/problemset/problem/346/B
+Two Paths|14D|5|http://codeforces.com/problemset/problem/14/D
+Help General|142B|4|http://codeforces.com/problemset/problem/142/B
+Dima and Two Sequences|272D|4|http://codeforces.com/problemset/problem/272/D
+How many trees?|9D|5|http://codeforces.com/problemset/problem/9/D
+Lucky Number 2|145B|5|http://codeforces.com/problemset/problem/145/B
+Cinema|234D|6|http://codeforces.com/problemset/problem/234/D
+Wizards and Huge Prize|167B|5|http://codeforces.com/problemset/problem/167/B
+Apple Tree|348B|5|http://codeforces.com/problemset/problem/348/B
+Yaroslav and Time|301B|5|http://codeforces.com/problemset/problem/301/B
+Numbers|213B|5|http://codeforces.com/problemset/problem/213/B
+Treasure Island|106D|4|http://codeforces.com/problemset/problem/106/D
+Book of Evil|337D|5|http://codeforces.com/problemset/problem/337/D
+Sereja and Periods|314B|5|http://codeforces.com/problemset/problem/314/B
+Infinite Maze|196B|5|http://codeforces.com/problemset/problem/196/B
+Playing with Permutations|251B|5|http://codeforces.com/problemset/problem/251/B
+Doctor|83B|4|http://codeforces.com/problemset/problem/83/B
+Animals|35D|4|http://codeforces.com/problemset/problem/35/D
+Mushroom Scientists|185B|4|http://codeforces.com/problemset/problem/185/B
+Tennis Game|496D|4|http://codeforces.com/problemset/problem/496/D
+Buses|101B|4|http://codeforces.com/problemset/problem/101/B
+String|128B|5|http://codeforces.com/problemset/problem/128/B
+Shifting|286B|5|http://codeforces.com/problemset/problem/286/B
+Boring Partition|238B|4|http://codeforces.com/problemset/problem/238/B
+Analyzing Polyline|195D|5|http://codeforces.com/problemset/problem/195/D
+Vasya and Types|87B|4|http://codeforces.com/problemset/problem/87/B
+Lizards and Basements 2|6D|6|http://codeforces.com/problemset/problem/6/D
+Constellation|32D|5|http://codeforces.com/problemset/problem/32/D
+Pawn|41D|5|http://codeforces.com/problemset/problem/41/D
+Journey|43D|5|http://codeforces.com/problemset/problem/43/D
+Tanya and Password|508D|7|http://codeforces.com/problemset/problem/508/D
+Demonstration|191B|4|http://codeforces.com/problemset/problem/191/B
+Big Maximum Sum|75D|5|http://codeforces.com/problemset/problem/75/D
+The Child and Zoo|437D|4|http://codeforces.com/problemset/problem/437/D
+Mr. Bender and Square|255D|4|http://codeforces.com/problemset/problem/255/D
+Special Grid|435D|5|http://codeforces.com/problemset/problem/435/D
+Name That Tune|498B|6|http://codeforces.com/problemset/problem/498/B
+Ring Road 2|27D|5|http://codeforces.com/problemset/problem/27/D
+Russian Roulette|103C|5|http://codeforces.com/problemset/problem/103/C
+Snake|225D|6|http://codeforces.com/problemset/problem/225/D
+Upgrading Array|402D|5|http://codeforces.com/problemset/problem/402/D
+Edges in MST|160D|6|http://codeforces.com/problemset/problem/160/D
+Fools and Foolproof Roads|362D|6|http://codeforces.com/problemset/problem/362/D
+End of Exams|93B|5|http://codeforces.com/problemset/problem/93/B
+Restoring Numbers|509D|7|http://codeforces.com/problemset/problem/509/D
+Cats Transport|311B|7|http://codeforces.com/problemset/problem/311/B
+Broken Monitor|370D|5|http://codeforces.com/problemset/problem/370/D
+The Minimum Number of Variables|279D|6|http://codeforces.com/problemset/problem/279/D
+Volcanoes|383B|7|http://codeforces.com/problemset/problem/383/B
+Widget Library|89B|5|http://codeforces.com/problemset/problem/89/B
+Misha and Permutations Summation|501D|4|http://codeforces.com/problemset/problem/501/D
+BerDonalds|266D|7|http://codeforces.com/problemset/problem/266/D
+Tower of Hanoi|392B|8|http://codeforces.com/problemset/problem/392/B
+Mr. Kitayuta's Technology|505D|5|http://codeforces.com/problemset/problem/505/D
+Shoe Store|166D|7|http://codeforces.com/problemset/problem/166/D
+Inna and Sweet Matrix|390D|8|http://codeforces.com/problemset/problem/390/D
+Help King|98B|9|http://codeforces.com/problemset/problem/98/B

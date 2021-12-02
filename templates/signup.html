@@ -1,0 +1,193 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Signup · CP Progress Tracker</title>
+    {% include "partials/_head.html" %}
+</head>
+
+  <body>
+    <section
+      class="login-dark"
+      style="
+        background: "{% static 'assets/img/abstract-6047465_1920.jpg' %} "
+          no-repeat;
+        background-size: auto;
+      "
+    >
+      <h1
+        class="text-center"
+        style="
+          color: #f7f7f7;
+          font-family: 'Bebas Neue', serif;
+          letter-spacing: 5px;
+          font-size: 50px;
+        "
+      >
+        Sign Up
+      </h1>
+
+      <form method="post" action="register">
+        {% csrf_token %}
+
+        <h2 class="sr-only">Login Form</h2>
+        <div class="illustration" style="margin-top: -40px">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="1em"
+            height="1em"
+            fill="currentColor"
+            viewBox="0 0 16 16"
+            class="bi bi-person-badge-fill"
+          >
+            <path
+              d="M2 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V2zm4.5 0a.5.5 0 0 0 0 1h3a.5.5 0 0 0 0-1h-3zM8 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm5 2.755C12.146 12.825 10.623 12 8 12s-4.146.826-5 1.755V14a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1v-.245z"
+            ></path>
+          </svg>
+        </div>
+
+        <div class="container">
+          <div class="form-row">
+            <div class="col">
+              <label class="col-form-label">Name:&nbsp;</label>
+            </div>
+            <div class="col">
+              <input
+                class="form-control"
+                type="text"
+                required=""
+                name="full_name"
+                placeholder="John Doe"
+              />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="col">
+              <label class="col-form-label">Create a Username:</label>
+            </div>
+            <div class="col">
+              <input
+                class="form-control"
+                type="text"
+                required=""
+                name="user_name"
+                placeholder="john_doe1"
+              />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="col"><label class="col-form-label">E-Mail:</label></div>
+            <div class="col">
+              <input
+                class="form-control"
+                type="email"
+                required=""
+                name="email"
+                placeholder="john_doe@example.com"
+              />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="col">
+              <label class="col-form-label">Password:</label>
+            </div>
+            <div class="col">
+              <input
+                class="form-control"
+                type="password"
+                required=""
+                name="pass1"
+                placeholder=""
+              />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="col">
+              <label class="col-form-label">Confirm Password:</label>
+            </div>
+            <div class="col">
+              <input
+                class="form-control"
+                type="password"
+                required=""
+                name="pass2"
+                placeholder=""
+              />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="col">
+              <label class="col-form-label">Codeforces Handle:</label>
+            </div>
+            <div class="col">
+              <input
+                class="form-control"
+                type="text"
+                name="cf_handle"
+                placeholder="Required"
+              />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="col">
+              <label class="col-form-label">CodeChef Handle:</label>
+            </div>
+            <div class="col">
+              <input
+                class="form-control"
+                type="text"
+                name="cc_handle"
+                placeholder="Optional"
+              />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="col">
+              <label class="col-form-label">AtCoder Handle:</label>
+            </div>
+            <div class="col">
+              <input
+                class="form-control"
+                type="text"
+                name="ac_handle"
+                placeholder="Optional"
+              />
+            </div>
+          </div>
+        </div>
+
+        <p
+          class="text-center"
+          style="margin-top: 17px; color: red"
+        >
+          {% for message in messages %} {{message}} <br>
+          {% endfor %}
+        </p>
+
+        <p
+          class="text-center"
+          style="margin-top: 17px; color: rgb(95, 106, 117)"
+        >
+          Already have an account?&nbsp;<a
+            href="login"
+            style="color: rgba(0, 123, 255, 0.86)"
+            >Sign In</a>
+        </p>
+        <div class="text-center" style="margin-top: -30px">
+          <button
+            class="btn btn-primary"
+            type="submit"
+            style="text-align: center"
+          >
+            Sign Up
+          </button>
+        </div>
+      </form>
+    </section>
+    <script src="{% static 'assets/js/jquery.min.js' %}"></script>
+    <script src="{% static 'assets/bootstrap/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'assets/js/bs-init.js' %}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+  </body>
+</html>

@@ -1,0 +1,110 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Problems · CP Progress Tracker</title>
+    {% include "partials/_head.html" %}
+  </head>
+
+  <body>
+    {% include "partials/_navbar.html" %}
+    <section id="main-sec">
+      <h1 id="heading">Problems</h1>
+      <div class="container" id="selection" style="margin-top: 12px">
+        <div class="row">
+          {% if user.is_authenticated == False %}
+            <div class="col">
+              <h4 class="text-left contest-table-h4"><strong><a href="/accounts/login">Login</a> For Syncing Your Progress!</strong></h4>
+            </div>
+            {% else %}
+            <div class="col">
+              <h4 class="text-left contest-table-h4"><strong>Current Progress:</strong> {{solved}}/{{total}}</h4>
+            </div>
+          {% endif %}
+          <div class="col">
+            <h4 class="text-right contest-table-h4">Choose the Ladder:</h4>
+          </div>
+          <div class="col-2 align-self-center">
+            <div class="form-group">
+              <form>
+                <div class="dropdown">
+                  <button
+                    class="
+                      btn btn-primary btn-block
+                      dropdown-toggle
+                      reserved-button
+                    "
+                    aria-expanded="false"
+                    data-toggle="dropdown"
+                    type="button"
+                    style="border: 3px solid #000; border-radius: 10px"
+                  >
+                    Rating&nbsp;
+                  </button>
+                  <div
+                    class="dropdown-menu"
+                    style="overflow-y: auto; max-height: 50vh; overflow: auto"
+                  >
+                    {% for item in items %}
+                      <a class="dropdown-item" href="/problems/{{item.1}}">{{item.0}}</a>
+                    {% endfor %}
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container flex-row" id="main-container">
+        <div class="card custom-card">
+          <div
+            class="card-body"
+            style="
+              margin: -10px;
+              margin-top: -21px;
+              margin-right: -25px;
+              margin-bottom: -38px;
+              margin-left: -23px;
+            "
+          >
+            <div
+              class="table-responsive shadow-none table-div"
+              style="border-radius: 0px"
+            >
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th>Problem</th>
+                    <th>Status</th>
+                    <th>Difficulty</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for lad in ladder %}
+                  <tr>
+                    <td>
+                      <a
+                        class="try-link text-decoration-none"
+                        href="{{lad.1}}"
+                        style="color: rgb(254, 152, 78)"
+                        >{{lad.0}}</a
+                      >
+                    </td>
+                    <td>{{lad.2}}<br /></td>
+                    <td>{{lad.3}}</td>
+                  </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    {% include 'partials/_footer.html' %}
+    <script src="{%static 'assets/js/jquery.min.js' %}"></script>
+    <script src="{%static 'assets/bootstrap/js/bootstrap.min.js' %}"></script>
+    <script src="{%static 'assets/js/bs-init.js' %}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+  </body>
+</html>

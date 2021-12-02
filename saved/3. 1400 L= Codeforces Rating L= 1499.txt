@@ -1,0 +1,100 @@
+Choosing Teams|432A|1|http://codeforces.com/problemset/problem/432/A
+Nearly Lucky Number|110A|1|http://codeforces.com/problemset/problem/110/A
+Amusing Joke|141A|1|http://codeforces.com/problemset/problem/141/A
+Drinks|200B|1|http://codeforces.com/problemset/problem/200/B
+Way Too Long Words|71A|1|http://codeforces.com/problemset/problem/71/A
+Presents|136A|1|http://codeforces.com/problemset/problem/136/A
+Lunch Rush|276A|1|http://codeforces.com/problemset/problem/276/A
+Soft Drinking|151A|1|http://codeforces.com/problemset/problem/151/A
+Boy or Girl|236A|1|http://codeforces.com/problemset/problem/236/A
+Dividing Orange|244A|1|http://codeforces.com/problemset/problem/244/A
+Queue at the School|266B|1|http://codeforces.com/problemset/problem/266/B
+HQ9+|133A|1|http://codeforces.com/problemset/problem/133/A
+I_love_\%username\%|155A|1|http://codeforces.com/problemset/problem/155/A
+Cakeminator|330A|1|http://codeforces.com/problemset/problem/330/A
+Word|59A|1|http://codeforces.com/problemset/problem/59/A
+Stones on the Table|266A|1|http://codeforces.com/problemset/problem/266/A
+Beautiful Year|271A|1|http://codeforces.com/problemset/problem/271/A
+Team|231A|1|http://codeforces.com/problemset/problem/231/A
+Insomnia cure|148A|1|http://codeforces.com/problemset/problem/148/A
+Vanya and Cards|401A|1|http://codeforces.com/problemset/problem/401/A
+Tram|116A|1|http://codeforces.com/problemset/problem/116/A
+Petya and Strings|112A|1|http://codeforces.com/problemset/problem/112/A
+Array|300A|2|http://codeforces.com/problemset/problem/300/A
+Little Elephant and Chess|259A|2|http://codeforces.com/problemset/problem/259/A
+Dubstep|208A|2|http://codeforces.com/problemset/problem/208/A
+Permutation|137B|2|http://codeforces.com/problemset/problem/137/B
+Magic Numbers|320A|2|http://codeforces.com/problemset/problem/320/A
+Heads or Tails|242A|2|http://codeforces.com/problemset/problem/242/A
+Present from Lena|118B|2|http://codeforces.com/problemset/problem/118/B
+Marks|152A|2|http://codeforces.com/problemset/problem/152/A
+Xenia and Ringroad|339B|2|http://codeforces.com/problemset/problem/339/B
+Lucky Division|122A|2|http://codeforces.com/problemset/problem/122/A
+Twins|160A|2|http://codeforces.com/problemset/problem/160/A
+Translation|41A|2|http://codeforces.com/problemset/problem/41/A
+Chat room|58A|2|http://codeforces.com/problemset/problem/58/A
+Football|96A|2|http://codeforces.com/problemset/problem/96/A
+Ilya and Bank Account|313A|2|http://codeforces.com/problemset/problem/313/A
+Parallelepiped|224A|2|http://codeforces.com/problemset/problem/224/A
+String Task|118A|2|http://codeforces.com/problemset/problem/118/A
+k-String|219A|2|http://codeforces.com/problemset/problem/219/A
+Dragons|230A|2|http://codeforces.com/problemset/problem/230/A
+Puzzles|337A|2|http://codeforces.com/problemset/problem/337/A
+Playing Cubes|257B|3|http://codeforces.com/problemset/problem/257/B
+Two Bags of Potatoes|239A|3|http://codeforces.com/problemset/problem/239/A
+Big Segment|242B|3|http://codeforces.com/problemset/problem/242/B
+Pashmak and Flowers|459B|3|http://codeforces.com/problemset/problem/459/B
+Building Permutation|285C|3|http://codeforces.com/problemset/problem/285/C
+Boys and Girls|253A|3|http://codeforces.com/problemset/problem/253/A
+Cinema Line|349A|3|http://codeforces.com/problemset/problem/349/A
+Rank List|166A|3|http://codeforces.com/problemset/problem/166/A
+Points on Line|251A|3|http://codeforces.com/problemset/problem/251/A
+Little Girl and Game|276B|3|http://codeforces.com/problemset/problem/276/B
+Little Pony and Expected Maximum|453A|3|http://codeforces.com/problemset/problem/453/A
+Cosmic Tables|222B|3|http://codeforces.com/problemset/problem/222/B
+Lucky Sum of Digits|109A|3|http://codeforces.com/problemset/problem/109/A
+Ice Skating|217A|3|http://codeforces.com/problemset/problem/217/A
+Sereja and Suffixes|368B|3|http://codeforces.com/problemset/problem/368/B
+Free Cash|237A|3|http://codeforces.com/problemset/problem/237/A
+Mashmokh and ACM|414B|3|http://codeforces.com/problemset/problem/414/B
+Domino|353A|3|http://codeforces.com/problemset/problem/353/A
+Hungry Sequence|327B|3|http://codeforces.com/problemset/problem/327/B
+Ilya and Queries|313B|3|http://codeforces.com/problemset/problem/313/B
+Fence|363B|3|http://codeforces.com/problemset/problem/363/B
+T-primes|230B|3|http://codeforces.com/problemset/problem/230/B
+Flipping Game|327A|3|http://codeforces.com/problemset/problem/327/A
+Cut Ribbon|189A|3|http://codeforces.com/problemset/problem/189/A
+Counting Kangaroos is Fun|372A|4|http://codeforces.com/problemset/problem/372/A
+Median|166C|4|http://codeforces.com/problemset/problem/166/C
+Ciel and Flowers|322B|4|http://codeforces.com/problemset/problem/322/B
+Vanya and Exams|492C|4|http://codeforces.com/problemset/problem/492/C
+Fixing Typos|363C|4|http://codeforces.com/problemset/problem/363/C
+LCM Challenge|235A|4|http://codeforces.com/problemset/problem/235/A
+Caesar's Legions|118D|4|http://codeforces.com/problemset/problem/118/D
+Xenia and Bit Operations|339D|4|http://codeforces.com/problemset/problem/339/D
+Little Girl and Maximum Sum|276C|4|http://codeforces.com/problemset/problem/276/C
+Palindrome Transformation|486C|4|http://codeforces.com/problemset/problem/486/C
+Array|224B|4|http://codeforces.com/problemset/problem/224/B
+Factory|485A|4|http://codeforces.com/problemset/problem/485/A
+Ping-Pong (Easy Version)|320B|4|http://codeforces.com/problemset/problem/320/B
+Routine Problem|337B|4|http://codeforces.com/problemset/problem/337/B
+Tourist Problem|340C|4|http://codeforces.com/problemset/problem/340/C
+Color Stripe|219C|4|http://codeforces.com/problemset/problem/219/C
+Maze|377A|4|http://codeforces.com/problemset/problem/377/A
+Valera and Tubes |441C|4|http://codeforces.com/problemset/problem/441/C
+Polo the Penguin and Matrix|289B|4|http://codeforces.com/problemset/problem/289/B
+Boredom|455A|4|http://codeforces.com/problemset/problem/455/A
+Funky Numbers|192A|4|http://codeforces.com/problemset/problem/192/A
+George and Job|467C|4|http://codeforces.com/problemset/problem/467/C
+Xenia and Weights|339C|4|http://codeforces.com/problemset/problem/339/C
+Physics Practical|253B|4|http://codeforces.com/problemset/problem/253/B
+Little Pony and Sort by Shift|454B|4|http://codeforces.com/problemset/problem/454/B
+Bombs|350C|4|http://codeforces.com/problemset/problem/350/C
+Number of Ways|466C|4|http://codeforces.com/problemset/problem/466/C
+Team|401C|4|http://codeforces.com/problemset/problem/401/C
+Another Problem on Strings|165C|4|http://codeforces.com/problemset/problem/165/C
+Color the Fence|349B|4|http://codeforces.com/problemset/problem/349/B
+Tetrahedron|166E|4|http://codeforces.com/problemset/problem/166/E
+k-Tree|431C|4|http://codeforces.com/problemset/problem/431/C
+Vasya and Basketball|493C|5|http://codeforces.com/problemset/problem/493/C
+Gargari and Bishops|463C|5|http://codeforces.com/problemset/problem/463/C

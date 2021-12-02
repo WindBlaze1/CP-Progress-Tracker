@@ -1,0 +1,100 @@
+Arrival of the General|144A|1|http://codeforces.com/problemset/problem/144/A
+Beautiful Matrix|263A|1|http://codeforces.com/problemset/problem/263/A
+Ultra-Fast Mathematician|61A|1|http://codeforces.com/problemset/problem/61/A
+Blackjack|104A|1|http://codeforces.com/problemset/problem/104/A
+HQ9+|133A|1|http://codeforces.com/problemset/problem/133/A
+I_love_\%username\%|155A|1|http://codeforces.com/problemset/problem/155/A
+Petya and Strings|112A|1|http://codeforces.com/problemset/problem/112/A
+Cookies|129A|1|http://codeforces.com/problemset/problem/129/A
+Candy Bags|334A|1|http://codeforces.com/problemset/problem/334/A
+Drinks|200B|1|http://codeforces.com/problemset/problem/200/B
+Vasily the Bear and Triangle|336A|1|http://codeforces.com/problemset/problem/336/A
+Lunch Rush|276A|1|http://codeforces.com/problemset/problem/276/A
+Cakeminator|330A|1|http://codeforces.com/problemset/problem/330/A
+Stones on the Table|266A|1|http://codeforces.com/problemset/problem/266/A
+Bit++|282A|1|http://codeforces.com/problemset/problem/282/A
+Levko and Table|361A|1|http://codeforces.com/problemset/problem/361/A
+Young Physicist|69A|1|http://codeforces.com/problemset/problem/69/A
+Chips|92A|1|http://codeforces.com/problemset/problem/92/A
+Tram|116A|1|http://codeforces.com/problemset/problem/116/A
+Queue at the School|266B|1|http://codeforces.com/problemset/problem/266/B
+Way Too Long Words|71A|1|http://codeforces.com/problemset/problem/71/A
+Present from Lena|118B|2|http://codeforces.com/problemset/problem/118/B
+Jeff and Digits|352A|2|http://codeforces.com/problemset/problem/352/A
+Slightly Decreasing Permutations|285A|2|http://codeforces.com/problemset/problem/285/A
+Sale|34B|2|http://codeforces.com/problemset/problem/34/B
+Fancy Fence|270A|2|http://codeforces.com/problemset/problem/270/A
+Dragons|230A|2|http://codeforces.com/problemset/problem/230/A
+The number of positions|124A|2|http://codeforces.com/problemset/problem/124/A
+Translation|41A|2|http://codeforces.com/problemset/problem/41/A
+Wizards and Demonstration|168A|2|http://codeforces.com/problemset/problem/168/A
+Xenia and Ringroad|339B|2|http://codeforces.com/problemset/problem/339/B
+Little Elephant and Rozdil|205A|2|http://codeforces.com/problemset/problem/205/A
+Life Without Zeros|75A|2|http://codeforces.com/problemset/problem/75/A
+Football|43A|2|http://codeforces.com/problemset/problem/43/A
+Dubstep|208A|2|http://codeforces.com/problemset/problem/208/A
+Magic Numbers|320A|2|http://codeforces.com/problemset/problem/320/A
+String Task|118A|2|http://codeforces.com/problemset/problem/118/A
+Lucky Division|122A|2|http://codeforces.com/problemset/problem/122/A
+Array|300A|2|http://codeforces.com/problemset/problem/300/A
+Sum of Digits|102B|2|http://codeforces.com/problemset/problem/102/B
+k-String|219A|2|http://codeforces.com/problemset/problem/219/A
+Puzzles|337A|2|http://codeforces.com/problemset/problem/337/A
+Next Test|27A|3|http://codeforces.com/problemset/problem/27/A
+Laptops|456A|3|http://codeforces.com/problemset/problem/456/A
+Pashmak and Garden|459A|3|http://codeforces.com/problemset/problem/459/A
+Lucky Sum|121A|3|http://codeforces.com/problemset/problem/121/A
+Kuriyama Mirai's Stones|433B|3|http://codeforces.com/problemset/problem/433/B
+Kitahara Haruki's Gift|433A|3|http://codeforces.com/problemset/problem/433/A
+The Fibonacci Segment|365B|3|http://codeforces.com/problemset/problem/365/B
+Difference Row|347A|3|http://codeforces.com/problemset/problem/347/A
+Little Pigs and Wolves|116B|3|http://codeforces.com/problemset/problem/116/B
+T-primes|230B|3|http://codeforces.com/problemset/problem/230/B
+Xenia and Divisors|342A|3|http://codeforces.com/problemset/problem/342/A
+Learning Languages|277A|3|http://codeforces.com/problemset/problem/277/A
+The Child and Toy|437C|3|http://codeforces.com/problemset/problem/437/C
+Sail|298B|3|http://codeforces.com/problemset/problem/298/B
+Find Marble|285B|3|http://codeforces.com/problemset/problem/285/B
+Free Cash|237A|3|http://codeforces.com/problemset/problem/237/A
+Roma and Changing Signs|262B|3|http://codeforces.com/problemset/problem/262/B
+Dreamoon and WiFi|476B|3|http://codeforces.com/problemset/problem/476/B
+Dima and Staircase|272C|3|http://codeforces.com/problemset/problem/272/C
+Comparing Strings|186A|3|http://codeforces.com/problemset/problem/186/A
+Sereja and Array|315B|3|http://codeforces.com/problemset/problem/315/B
+Sereja and Suffixes|368B|3|http://codeforces.com/problemset/problem/368/B
+Pashmak and Flowers|459B|3|http://codeforces.com/problemset/problem/459/B
+Simple Molecules|344B|3|http://codeforces.com/problemset/problem/344/B
+DZY Loves Chessboard|445A|3|http://codeforces.com/problemset/problem/445/A
+Fixed Points|347B|3|http://codeforces.com/problemset/problem/347/B
+Hungry Sequence|327B|3|http://codeforces.com/problemset/problem/327/B
+Building Permutation|285C|3|http://codeforces.com/problemset/problem/285/C
+Road Construction|330B|3|http://codeforces.com/problemset/problem/330/B
+Little Girl and Game|276B|3|http://codeforces.com/problemset/problem/276/B
+Fence|363B|3|http://codeforces.com/problemset/problem/363/B
+Flipping Game|327A|3|http://codeforces.com/problemset/problem/327/A
+Cut Ribbon|189A|3|http://codeforces.com/problemset/problem/189/A
+Ilya and Queries|313B|3|http://codeforces.com/problemset/problem/313/B
+Little Dima and Equation|460B|4|http://codeforces.com/problemset/problem/460/B
+George and Job|467C|4|http://codeforces.com/problemset/problem/467/C
+Sereja and Bottles|315A|4|http://codeforces.com/problemset/problem/315/A
+Routine Problem|337B|4|http://codeforces.com/problemset/problem/337/B
+Hamburgers|371C|4|http://codeforces.com/problemset/problem/371/C
+Jzzhu and Sequences|450B|4|http://codeforces.com/problemset/problem/450/B
+Flag Day|357B|4|http://codeforces.com/problemset/problem/357/B
+Valera and Fruits|441B|4|http://codeforces.com/problemset/problem/441/B
+Fox Dividing Cheese|371B|4|http://codeforces.com/problemset/problem/371/B
+Dima and Continuous Line|358A|4|http://codeforces.com/problemset/problem/358/A
+Lucky Numbers (easy)|96B|4|http://codeforces.com/problemset/problem/96/B
+Coach|300B|4|http://codeforces.com/problemset/problem/300/B
+Ciel and Flowers|322B|4|http://codeforces.com/problemset/problem/322/B
+k-Tree|431C|4|http://codeforces.com/problemset/problem/431/C
+Maximum Absurdity|332B|4|http://codeforces.com/problemset/problem/332/B
+Fixing Typos|363C|4|http://codeforces.com/problemset/problem/363/C
+Exams|479C|4|http://codeforces.com/problemset/problem/479/C
+Boredom|455A|4|http://codeforces.com/problemset/problem/455/A
+Prime Matrix|271B|4|http://codeforces.com/problemset/problem/271/B
+Books|279B|4|http://codeforces.com/problemset/problem/279/B
+Little Girl and Maximum Sum|276C|4|http://codeforces.com/problemset/problem/276/C
+Tetrahedron|166E|4|http://codeforces.com/problemset/problem/166/E
+XOR and OR|282C|4|http://codeforces.com/problemset/problem/282/C
+Painting Eggs|282B|4|http://codeforces.com/problemset/problem/282/B

@@ -1,0 +1,100 @@
+Pangram|520A|1|http://codeforces.com/problemset/problem/520/A
+Fox And Snake|510A|1|http://codeforces.com/problemset/problem/510/A
+Insomnia cure|148A|1|http://codeforces.com/problemset/problem/148/A
+Watching a movie|499A|2|http://codeforces.com/problemset/problem/499/A
+Dreamoon and WiFi|476B|3|http://codeforces.com/problemset/problem/476/B
+Playing with Paper|527A|3|http://codeforces.com/problemset/problem/527/A
+Link/Cut Tree|614A|4|http://codeforces.com/problemset/problem/614/A
+Crazy Town|498A|4|http://codeforces.com/problemset/problem/498/A
+Mr. Kitayuta, the Treasure Hunter|505C|4|http://codeforces.com/problemset/problem/505/C
+Tennis Game|496D|4|http://codeforces.com/problemset/problem/496/D
+Number of Ways|466C|4|http://codeforces.com/problemset/problem/466/C
+Error Correct System|527B|4|http://codeforces.com/problemset/problem/527/B
+Fight the Monster|487A|4|http://codeforces.com/problemset/problem/487/A
+Skills|613B|4|http://codeforces.com/problemset/problem/613/B
+Clique Problem|527D|4|http://codeforces.com/problemset/problem/527/D
+Glass Carving|527C|4|http://codeforces.com/problemset/problem/527/C
+Edo and Magnets|594C|5|http://codeforces.com/problemset/problem/594/C
+Appleman and a Sheet of Paper|461C|5|http://codeforces.com/problemset/problem/461/C
+Numbers|128D|5|http://codeforces.com/problemset/problem/128/D
+Greg and Friends|295C|5|http://codeforces.com/problemset/problem/295/C
+Watto and Mechanism|514C|5|http://codeforces.com/problemset/problem/514/C
+Jeff and Permutation|351E|5|http://codeforces.com/problemset/problem/351/E
+Sereja and Brackets|380C|5|http://codeforces.com/problemset/problem/380/C
+Freelancer's Dreams|605C|5|http://codeforces.com/problemset/problem/605/C
+Hexagons|615E|5|http://codeforces.com/problemset/problem/615/E
+Valid Sets|486D|5|http://codeforces.com/problemset/problem/486/D
+Multipliers|615D|5|http://codeforces.com/problemset/problem/615/D
+Top Secret Task|590D|5|http://codeforces.com/problemset/problem/590/D
+Characteristics of Rectangles|333D|5|http://codeforces.com/problemset/problem/333/D
+Tavas and Malekas|535D|5|http://codeforces.com/problemset/problem/535/D
+Destroying Roads|543B|5|http://codeforces.com/problemset/problem/543/B
+Mr. Kitayuta's Technology|505D|5|http://codeforces.com/problemset/problem/505/D
+Maximum Value|484B|5|http://codeforces.com/problemset/problem/484/B
+Three States|590C|5|http://codeforces.com/problemset/problem/590/C
+Antimatter|383D|6|http://codeforces.com/problemset/problem/383/D
+Dreamoon and Strings|476E|6|http://codeforces.com/problemset/problem/476/E
+Necklace|613C|6|http://codeforces.com/problemset/problem/613/C
+Number Transformation II|346C|6|http://codeforces.com/problemset/problem/346/C
+Tricky Function|429D|6|http://codeforces.com/problemset/problem/429/D
+REQ|594D|6|http://codeforces.com/problemset/problem/594/D
+Soldier and Traveling|546E|6|http://codeforces.com/problemset/problem/546/E
+Board Game|605D|6|http://codeforces.com/problemset/problem/605/D
+Jzzhu and Numbers|449D|6|http://codeforces.com/problemset/problem/449/D
+Name That Tune|498B|6|http://codeforces.com/problemset/problem/498/B
+Zip-line|650D|6|http://codeforces.com/problemset/problem/650/D
+Nudist Beach|553D|6|http://codeforces.com/problemset/problem/553/D
+Mr. Kitayuta's Colorful Graph|506D|6|http://codeforces.com/problemset/problem/506/D
+Fox And Dinner|510E|6|http://codeforces.com/problemset/problem/510/E
+Traffic Jams in the Land|498D|6|http://codeforces.com/problemset/problem/498/D
+Mike and Frog|547A|6|http://codeforces.com/problemset/problem/547/A
+Prefix Product Sequence|487C|6|http://codeforces.com/problemset/problem/487/C
+Road Improvement|543D|6|http://codeforces.com/problemset/problem/543/D
+Ann and Half-Palindrome|557E|7|http://codeforces.com/problemset/problem/557/E
+Tanya and Password|508D|7|http://codeforces.com/problemset/problem/508/D
+Tree and Queries|375D|7|http://codeforces.com/problemset/problem/375/D
+Cats Transport|311B|7|http://codeforces.com/problemset/problem/311/B
+Greg and Caves|295D|7|http://codeforces.com/problemset/problem/295/D
+Jzzhu and Apples|449C|7|http://codeforces.com/problemset/problem/449/C
+Developing Game|377D|7|http://codeforces.com/problemset/problem/377/D
+Fuzzy Search|528D|7|http://codeforces.com/problemset/problem/528/D
+Case of a Top Secret|555D|7|http://codeforces.com/problemset/problem/555/D
+CNF 2|571C|7|http://codeforces.com/problemset/problem/571/C
+GukiZ and GukiZiana|551E|7|http://codeforces.com/problemset/problem/551/E
+Arthur and Walls|525D|7|http://codeforces.com/problemset/problem/525/D
+Kingdom and its Cities|613D|7|http://codeforces.com/problemset/problem/613/D
+Tavas and Pashmaks|535E|7|http://codeforces.com/problemset/problem/535/E
+Data Center Drama|527E|7|http://codeforces.com/problemset/problem/527/E
+Hack it!|468C|7|http://codeforces.com/problemset/problem/468/C
+Remembering Strings|543C|7|http://codeforces.com/problemset/problem/543/C
+Kindergarten|484D|7|http://codeforces.com/problemset/problem/484/D
+DZY Loves Planting|444E|8|http://codeforces.com/problemset/problem/444/E
+Tavas in Kansas|536D|8|http://codeforces.com/problemset/problem/536/D
+Intergalaxy Trips|605E|8|http://codeforces.com/problemset/problem/605/E
+Largest Submatrix 3|407D|8|http://codeforces.com/problemset/problem/407/D
+Serega and Fun|455D|8|http://codeforces.com/problemset/problem/455/D
+Sign on Fence|484E|8|http://codeforces.com/problemset/problem/484/E
+Ciel and Gondolas|321E|8|http://codeforces.com/problemset/problem/321/E
+Sign Posts|568D|8|http://codeforces.com/problemset/problem/568/D
+Positions in Permutations|285E|8|http://codeforces.com/problemset/problem/285/E
+Mike and Friends|547E|8|http://codeforces.com/problemset/problem/547/E
+Appleman and Complicated Task|461D|8|http://codeforces.com/problemset/problem/461/D
+Stairs and Lines|498E|8|http://codeforces.com/problemset/problem/498/E
+Helping People|494C|8|http://codeforces.com/problemset/problem/494/C
+Birthday|494D|8|http://codeforces.com/problemset/problem/494/D
+Dreamoon and Binary|477D|8|http://codeforces.com/problemset/problem/477/D
+Conveyor Belts|487D|8|http://codeforces.com/problemset/problem/487/D
+Mr. Kitayuta vs. Bamboos|505E|8|http://codeforces.com/problemset/problem/505/E
+A Museum Robbery|601E|8|http://codeforces.com/problemset/problem/601/E
+Fox And Travelling|512D|8|http://codeforces.com/problemset/problem/512/D
+Little Elephant and Broken Sorting|258D|8|http://codeforces.com/problemset/problem/258/D
+Mike and Fish|547D|8|http://codeforces.com/problemset/problem/547/D
+Strange Sorting|484C|8|http://codeforces.com/problemset/problem/484/C
+Case of Computer Network|555E|8|http://codeforces.com/problemset/problem/555/E
+Shop|521D|8|http://codeforces.com/problemset/problem/521/D
+Gerald and Path|559E|9|http://codeforces.com/problemset/problem/559/E
+Tavas on the Path|536E|9|http://codeforces.com/problemset/problem/536/E
+Polo the Penguin and Lucky Numbers|288E|9|http://codeforces.com/problemset/problem/288/E
+Ghd|364D|9|http://codeforces.com/problemset/problem/364/D
+Warrior and Archer|594A|9|http://codeforces.com/problemset/problem/594/A
+Birthday|590E|10|http://codeforces.com/problemset/problem/590/E

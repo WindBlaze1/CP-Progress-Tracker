@@ -1,0 +1,72 @@
+.navbar.navbar-light.navbar-expand-md {
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+}
+
+@media (max-width: 500px) {
+  .dropdown-menu {
+    height: 200px;
+    overflow-y: auto;
+  }
+}
+
+#heading {
+  text-align: center;
+  margin-top: 40px;
+  font-weight: 200;
+  letter-spacing: 7px;
+  font-family: "Bebas Neue", serif;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+#nav-bar {
+  color: white;
+  background: rgb(30, 34, 37);
+}
+
+#main-container thead {
+  font-family: "Bebas Neue", serif;
+  letter-spacing: 3px;
+  text-align: left;
+}
+
+.rwd-table {
+  background: #34495e;
+  color: #fff;
+  border-radius: 0.4em;
+  overflow: hidden;
+}
+
+.reserved-button {
+  background: rgba(0, 98, 204, 0);
+  color: #000000;
+}
+
+.try-link:hover,
+.try-link:active,
+.try-link:link .try-link:visited {
+  text-decoration: none;
+}
+
+.try-link:visited,
+.try-link:link {
+  text-decoration: none;
+}
+
+
+
+.contest-table-h4 {
+  font-family: Montserrat, sans-serif;
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+
+.card.custom-card {
+  transform-style: preserve-3d;
+  border-radius: 30px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2), 0px 0px 25px rgba(0, 0, 0, 0.2);
+}

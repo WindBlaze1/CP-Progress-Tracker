@@ -1,0 +1,100 @@
+Candy Bags|334A|1|http://codeforces.com/problemset/problem/334/A
+Word|59A|1|http://codeforces.com/problemset/problem/59/A
+Dreamoon and Stairs|476A|2|http://codeforces.com/problemset/problem/476/A
+Cut Ribbon|189A|3|http://codeforces.com/problemset/problem/189/A
+T-primes|230B|3|http://codeforces.com/problemset/problem/230/B
+Ice Skating|217A|3|http://codeforces.com/problemset/problem/217/A
+Little Elephant and Bits|258A|3|http://codeforces.com/problemset/problem/258/A
+Dreamoon and WiFi|476B|3|http://codeforces.com/problemset/problem/476/B
+Party|115A|3|http://codeforces.com/problemset/problem/115/A
+Greg and Array|295A|3|http://codeforces.com/problemset/problem/295/A
+Table Decorations|478C|4|http://codeforces.com/problemset/problem/478/C
+Checkposts|427C|4|http://codeforces.com/problemset/problem/427/C
+Valera and Elections|369C|4|http://codeforces.com/problemset/problem/369/C
+Psychos in a Line|319B|4|http://codeforces.com/problemset/problem/319/B
+Counting Rectangles is Fun|372B|4|http://codeforces.com/problemset/problem/372/B
+Greg and Graph|295B|4|http://codeforces.com/problemset/problem/295/B
+Little Girl and Maximum Sum|276C|4|http://codeforces.com/problemset/problem/276/C
+Renting Bikes|363D|4|http://codeforces.com/problemset/problem/363/D
+Treasure|494A|4|http://codeforces.com/problemset/problem/494/A
+DZY Loves Sequences|446A|4|http://codeforces.com/problemset/problem/446/A
+Color the Fence|349B|4|http://codeforces.com/problemset/problem/349/B
+Colorful Graph|246D|4|http://codeforces.com/problemset/problem/246/D
+Zero Tree|274B|4|http://codeforces.com/problemset/problem/274/B
+King's Path|242C|4|http://codeforces.com/problemset/problem/242/C
+Interesting Array|482B|4|http://codeforces.com/problemset/problem/482/B
+Greenhouse Effect|269B|4|http://codeforces.com/problemset/problem/269/B
+The Brand New Function|243A|4|http://codeforces.com/problemset/problem/243/A
+Caesar's Legions|118D|4|http://codeforces.com/problemset/problem/118/D
+Dima and Hares|358D|4|http://codeforces.com/problemset/problem/358/D
+Almost Arithmetical Progression|255C|4|http://codeforces.com/problemset/problem/255/C
+Hamburgers|371C|4|http://codeforces.com/problemset/problem/371/C
+Petya and Divisors|111B|4|http://codeforces.com/problemset/problem/111/B
+Matrix|364A|4|http://codeforces.com/problemset/problem/364/A
+Xenia and Weights|339C|4|http://codeforces.com/problemset/problem/339/C
+Barcode|225C|4|http://codeforces.com/problemset/problem/225/C
+Color Stripe|219C|4|http://codeforces.com/problemset/problem/219/C
+Xenia and Bit Operations|339D|4|http://codeforces.com/problemset/problem/339/D
+Ciel and Robot|321A|4|http://codeforces.com/problemset/problem/321/A
+Little Elephant and Interval|204A|4|http://codeforces.com/problemset/problem/204/A
+Little Elephant and Cards|204B|4|http://codeforces.com/problemset/problem/204/B
+Good Sequences|264B|4|http://codeforces.com/problemset/problem/264/B
+k-Tree|431C|4|http://codeforces.com/problemset/problem/431/C
+Mike and Feet|547B|4|http://codeforces.com/problemset/problem/547/B
+Andrey and Problem|442B|4|http://codeforces.com/problemset/problem/442/B
+Maximum Submatrix 2|375B|4|http://codeforces.com/problemset/problem/375/B
+Password|126B|4|http://codeforces.com/problemset/problem/126/B
+Good Substrings|271D|5|http://codeforces.com/problemset/problem/271/D
+GukiZ hates Boxes|551C|5|http://codeforces.com/problemset/problem/551/C
+Regular Bridge|550D|5|http://codeforces.com/problemset/problem/550/D
+MUH and Cube Walls|471D|5|http://codeforces.com/problemset/problem/471/D
+Little Pony and Harmony Chest|453B|5|http://codeforces.com/problemset/problem/453/B
+Sereja and Brackets|380C|5|http://codeforces.com/problemset/problem/380/C
+Obsessive String|494B|5|http://codeforces.com/problemset/problem/494/B
+Gargari and Bishops|463C|5|http://codeforces.com/problemset/problem/463/C
+Appleman and Tree|461B|5|http://codeforces.com/problemset/problem/461/B
+Soldier and Number Game|546D|5|http://codeforces.com/problemset/problem/546/D
+Lucky Tree|109C|5|http://codeforces.com/problemset/problem/109/C
+Missile Silos|144D|5|http://codeforces.com/problemset/problem/144/D
+Sereja and the Arrangement of Numbers|367C|5|http://codeforces.com/problemset/problem/367/C
+Enemy is weak|61E|5|http://codeforces.com/problemset/problem/61/E
+A and B and Interesting Substrings|519D|5|http://codeforces.com/problemset/problem/519/D
+Equivalent Strings|559B|5|http://codeforces.com/problemset/problem/559/B
+Book of Evil|337D|5|http://codeforces.com/problemset/problem/337/D
+Dima and Bacteria|400D|5|http://codeforces.com/problemset/problem/400/D
+Present|460C|5|http://codeforces.com/problemset/problem/460/C
+Ciel the Commander|321C|5|http://codeforces.com/problemset/problem/321/C
+Pashmak and Buses|459C|5|http://codeforces.com/problemset/problem/459/C
+Pashmak and Parmida's problem|459D|5|http://codeforces.com/problemset/problem/459/D
+Count Good Substrings|451D|5|http://codeforces.com/problemset/problem/451/D
+Book of Evil|337D|5|http://codeforces.com/problemset/problem/337/D
+Civilization|455C|5|http://codeforces.com/problemset/problem/455/C
+Painting Fence|448C|5|http://codeforces.com/problemset/problem/448/C
+A and B and Lecture Rooms|519E|5|http://codeforces.com/problemset/problem/519/E
+Water Tree|343D|5|http://codeforces.com/problemset/problem/343/D
+Choosing Balls|264C|5|http://codeforces.com/problemset/problem/264/C
+Watto and Mechanism|514C|5|http://codeforces.com/problemset/problem/514/C
+Multiplication Table|448D|5|http://codeforces.com/problemset/problem/448/D
+Characteristics of Rectangles|333D|5|http://codeforces.com/problemset/problem/333/D
+Lucky Common Subsequence|346B|5|http://codeforces.com/problemset/problem/346/B
+Prefixes and Suffixes|432D|5|http://codeforces.com/problemset/problem/432/D
+Sereja ans Anagrams|367B|5|http://codeforces.com/problemset/problem/367/B
+XOR on Segment|242E|5|http://codeforces.com/problemset/problem/242/E
+Porcelain|148E|5|http://codeforces.com/problemset/problem/148/E
+Devu and his Brother|439D|5|http://codeforces.com/problemset/problem/439/D
+Eternal Victory|61D|5|http://codeforces.com/problemset/problem/61/D
+Red-Green Towers|478D|5|http://codeforces.com/problemset/problem/478/D
+Choosing Capital for Treeland|219D|5|http://codeforces.com/problemset/problem/219/D
+Roman and Numbers|401D|5|http://codeforces.com/problemset/problem/401/D
+Vessels|371D|5|http://codeforces.com/problemset/problem/371/D
+Propagating tree|383C|5|http://codeforces.com/problemset/problem/383/C
+Bag of mice|148D|5|http://codeforces.com/problemset/problem/148/D
+A Lot of Games|455B|5|http://codeforces.com/problemset/problem/455/B
+Pair of Numbers|359D|5|http://codeforces.com/problemset/problem/359/D
+Pashmak and Graph|459E|5|http://codeforces.com/problemset/problem/459/E
+Petr#|113B|6|http://codeforces.com/problemset/problem/113/B
+The Child and Sequence|438D|6|http://codeforces.com/problemset/problem/438/D
+Vasya and Beautiful Arrays|354C|6|http://codeforces.com/problemset/problem/354/C
+Little Girl and Problem on Trees|276E|6|http://codeforces.com/problemset/problem/276/E
+Antimatter|383D|6|http://codeforces.com/problemset/problem/383/D
+Tree Requests|570D|6|http://codeforces.com/problemset/problem/570/D
