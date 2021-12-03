@@ -2,12 +2,13 @@ from django.shortcuts import render, redirect
 from django.contrib.auth.models import User, auth
 from django.contrib import messages
 from .models import UserData
+import requests
 
 # Create your views here.
 def register(request):
 
 	if request.method == 'POST':
-		first_name = request.POST['full_name'].split(" ")
+		first_name = request.POST['full_name'].split(" ")[0]
 		# first_name = request.POST['full_name'].split(" ")[0]
 		# if len(name) >= 2:
 		# 	last_name = request.POST['full_name'].split(" ")[1]
@@ -22,7 +23,7 @@ def register(request):
 		ac_handle = request.POST['ac_handle']
 
 		if User.objects.filter(username=username).exists():
-			messages.info(request, 'Username already exists!!')
+			messages.info(request, 'Username already exists')
 			return redirect('register')
 
 		if ' ' in username:
@@ -30,13 +31,19 @@ def register(request):
 			return redirect('register')
 
 		if User.objects.filter(email=email).exists():
-			messages.info(request, 'Email already used!!')
+			messages.info(request, 'Email already used')
 			return redirect('register')
 		
 		if pass1 != pass2:
-			messages.info(request, 'Passwords are not matching!!')
+			messages.info(request, 'Passwords are not matching')
 			return redirect('register')
-		
+
+		# if req.get('https://codeforces.com/api/user.info?handles=' + username).json()['status'] == 'FAILED':
+		req = requests.get('https://codeforces.com/api/user.info?handles=' + cf_handle).json()
+
+		if req['status']=='FAILED':
+			messages.info(request,req['status'])
+			return redirect('register')
 
 		user = User.objects.create_user(
 			username=username,
@@ -54,7 +61,7 @@ def register(request):
 		)
 		user1.save()
 
-		# messages.success(request, 'Account created!!')
+		messages.success(request, 'Account created!!')
 
 		print('user created')
 		return redirect('login')
@@ -83,10 +90,10 @@ def login(request):
 			return render(request, "userProfile", {'username': user.username})
 	
 		else:
-			messages.error(request,'invalid credentials')
+			messages.error(request,'Invalid Credentials')
 			# messages.info(request,'invalid credentials')
-			print('invalid credentials')
-			return redirect('/')
+			print('Invalid Credentials')
+			return redirect('/accounts/login')
 
 	else:
 		return render(request, 'login.html')
