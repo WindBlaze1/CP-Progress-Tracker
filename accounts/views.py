@@ -42,7 +42,7 @@ def register(request):
 		req = requests.get('https://codeforces.com/api/user.info?handles=' + cf_handle).json()
 
 		if req['status']=='FAILED':
-			messages.info(request,req['status'])
+			messages.info(request, req['status'])
 			return redirect('register')
 
 		user = User.objects.create_user(
@@ -52,20 +52,17 @@ def register(request):
 			password=pass1
 		)
 		user.save()
-
-		user1 = UserData(
+		user1 = user.userdata_set.create(
 			user_id=user.id,
-			codechef_handle=cf_handle,
-			codeforces_handle=cc_handle,
+			codechef_handle=cc_handle,
+			codeforces_handle=cf_handle,
 			atcoder_handle=ac_handle,
 		)
-		user1.save()
 
 		messages.success(request, 'Account created!!')
 
 		print('user created')
 		return redirect('login')
-
 
 	else:
 		system_messages = messages.get_messages(request)
@@ -75,7 +72,6 @@ def register(request):
 
 
 def login(request):
-
 	if request.method == 'POST':
 		username = request.POST['username']
 		password = request.POST['password']

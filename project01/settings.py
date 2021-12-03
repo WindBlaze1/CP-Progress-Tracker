@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-*boi*z*q(bso!wc510ez274j(myv5!lysknveb-nnyei(&+z^h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1']
 
 
 # Application definition
@@ -41,11 +41,11 @@ INSTALLED_APPS = [
     'problems.apps.ProblemsConfig',
     'contest.apps.ContestConfig',
     'accounts.apps.AccountsConfig',
+    'utils.apps.UtilsConfig',
     'userProfile.apps.UserprofileConfig',
     'django_plotly_dash.apps.DjangoPlotlyDashConfig',
     'channels',
     'channels_redis',
-
 ]
 
 MIDDLEWARE = [
