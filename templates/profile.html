@@ -2,5 +2,9 @@
 
 {% load plotly_dash %}
 {% block ratingChart %}
-{% plotly_app name='RatingsApp' ratio=1%}
+    {% plotly_app name='RatingsApp' ratio=1%}
+{% endblock %}
+
+{% block acceptanceChart %}
+    {% plotly_app name='' %}
 {% endblock %}
