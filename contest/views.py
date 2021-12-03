@@ -5,7 +5,7 @@ from .models import Event
 import requests
 import datetime
 
-list_of_events = []
+
 selected_Hosts = []
 
 list_of_sites = [
@@ -27,16 +27,17 @@ selected_HostsDict = {
 }
 
 host_num = {
-	0:'codechef_com',
-	2:'codeforces_com',
-	4:'hackerearth_com',
-	8:'leetcode_com',
-	16:'atcoder_jp',
-	32:'google_com'
+	'codechef.com':0,
+	'codeforces.com':1,
+	'hackerearth.com':2,
+	'leetcode.com':3,
+	'atcoder.jp':4,
+	'codingcompetitions.withgoogle.com/kickstart':5,
+	'codingcompetitions.withgoogle.com':5
 }
 
 # to display the list_of_events in tabular form:
-def displayContest(request, flagFilter,hosts):
+def displayContest(request, list_of_events, hosts):
 
 	template = 'contests.html'
 	# if (flagFilter):
@@ -67,22 +68,29 @@ def durationConvert(sec):
 
 
 # main:
-def contest(request,contest_id=0):
+def contest(request,contest_id='1'*6):
+
+	# error handling is left
 	try:
 		response = requests.get('https://clist.by:443/api/v2/contest/?format=json&username=kartik_003&api_key=4ea81c7ab9aff64629287c2982b6ac14b0159e43&order_by=-start')
 	except:
 		return render(request, 'contests.html')
 
 
+	list_of_events = []
 	url = response.json()
 	# url = requests.get('https://clist.by:443/api/v2/contest/?format=json&username=kartik_003&api_key=4ea81c7ab9aff64629287c2982b6ac14b0159e43&order_by=-start').json()
 
 	format = "%Y-%m-%d %H:%M:%S"
 	
 	for c_list in url['objects']:
+		
+		if (c_list['host'] not in host_num.keys() or contest_id[host_num[c_list['host']]] == '0'):
+			continue
+		
 		tempEvent = Event()
 
-		tempEvent.host = c_list['host']
+		tempEvent.host = "https://www." + c_list['host']
 		tempEvent.name = c_list['event']
 
 		# time:
@@ -93,24 +101,34 @@ def contest(request,contest_id=0):
 
 		tempEvent.duration = durationConvert(c_list['duration'])
 		tempEvent.clink = c_list['href']
+
+		ctime_start = c_list['start'].translate({ord('-'): None, ord(':'): None})
+		ctime_end = c_list['start'].translate({ord('-'): None, ord(':'): None})
+
+		tempEvent.calendar = "https://www.google.com/calendar/render?action=TEMPLATE&text="
+		tempEvent.calendar += tempEvent.name
+		tempEvent.calendar += "&details=Contest Uploaded by CP Progress Tracker"
+		tempEvent.calendar += "&location=" + tempEvent.clink
+		tempEvent.calendar += "&dates=" + ctime_start + "Z%2F" + ctime_end + "Z"
+
+		
+		# if (check(tempEvent.host, contest_id)):
 		list_of_events.append(tempEvent)
+
 
 	# sort according to time
 	list_of_events.sort(key = lambda x : x.time)
 	
-	contests = str(contest_id)
-	while len(contests) < 6:
-		contests = '0' + contests
 
 	pass_val = []
 
-	for k in (list_of_sites):
+	for k in (contest_id):
 		if(k == '0'):
 			pass_val.append('')
 		else:
 			pass_val.append('checked')
 
-	return displayContest(request, False,pass_val)
+	return displayContest(request, list_of_events, pass_val)
 
 
 def filter(request):
@@ -126,32 +144,32 @@ def filter(request):
 	checkVar = 'checked'
 	# checkVar = str(checkVar, 'utf-8')
 
-	if request.method == 'GET':
-		if (request.GET.get('codechef.com') == "True"):
+	if request.method == 'POST':
+		if (request.POST.get('codechef.com') == "True"):
 			selected_Hosts.append("codechef.com")
 			selected_HostsDict['codechef_com'] = True
-			print("1: ", request.GET.get('codechef.com'))
+			print("1: ", request.POST.get('codechef.com'))
 
-		if (request.GET.get('codeforces.com', False)):
+		if (request.POST.get('codeforces.com', False)):
 			selected_Hosts.append("codeforces.com")
 			selected_HostsDict['codeforces_com'] = True
-			print("2: ", request.GET.get('codeforces.com', False))
+			print("2: ", request.POST.get('codeforces.com', False))
 
-		if (request.GET.get('hackerearth.com', False)):
+		if (request.POST.get('hackerearth.com', False)):
 			selected_Hosts.append("hackerearth.com")
 			selected_HostsDict['hackerearth_com'] = True
 		
-		# print("3: ", request.GET.get('hackerearth.com', False))
+		# print("3: ", request.POST.get('hackerearth.com', False))
 
-		if (request.GET.get('leetcode.com', False)):
+		if (request.POST.get('leetcode.com', False)):
 			selected_Hosts.append("leetcode.com")
 			selected_HostsDict['leetcode_com'] = True
 
-		if (request.GET.get('atcoder.jp', False)):
+		if (request.POST.get('atcoder.jp', False)):
 			selected_Hosts.append("atcoder.jp")
 			selected_HostsDict['atcoder_jp'] = True
 
-		if (request.GET.get('google.com', False)):
+		if (request.POST.get('google.com', False)):
 			selected_Hosts.append("codingcompetitions.withgoogle.com/kickstart")
 			selected_Hosts.append("codingcompetitions.withgoogle.com")
 			selected_HostsDict['google_com'] = True
@@ -172,9 +190,10 @@ def form(request):
 	# if request.method == 'POST':
 	
 	for i in list_of_sites:
-		if request.GET.get(i) == 'on':
-			val = '1' + val
+		if request.POST.get(i) == 'True':
+			val += '1'
 		else:
-			val = '0' + val
+			val += '0'
 	print(val)
-	return contest(request,int(val))
+	# print(int(val))
+	return contest(request,val)

@@ -51,31 +51,22 @@
 
                                             {% for event in events %}
 
-                                            {% if sites and event.host in sites or not sites %}
                                             <tr>
                                                 <td>
-                                                    <a class="try-link text-decoration-none" href="{{event.clink}}" style="color: rgb(78, 81, 254);">{{event.name}}<br></a>
-                                                    <small class="d-block"><a href="{{event.host}}" style="color:darkgrey">{{event.host}}</small>
+                                                    <a class="try-link text-decoration-none" href="{{event.clink}}" style="color: rgb(78, 81, 254);" target="_blank">{{event.name}}<br></a>
+                                                    <small class="d-block"><a href="{{event.host}}" style="color:darkgrey"  target="_blank">{{event.host}}</small>
                                                 </td>
                                                 <td>{{event.time}}<br></td>
                                                 <td>{{event.duration}}<br></td>
                                                 <td>
-                                                        <div title="Add to Calendar" class="addeventatc" data-styling="none">
-                                                            <i class="fa fa-calendar-plus-o" style="color: rgb(66,131,201);"></i>
-                                                            <span class="start">06/18/2015 09:00 AM</span>
-                                                            <span class="end">06/18/2015 11:00 AM</span>
-                                                            <span class="timezone">Europe/Paris</span>
-                                                            <span class="title">Summary of the event</span>
-                                                            <span class="description">Description of the event</span>
-                                                            <span class="location">Location of the event</span>
-                                                            <span class="organizer">Organizer</span>
-                                                            <span class="organizer_email">Organizer e-mail</span>
-                                                            <span class="all_day_event">false</span>
-                                                        </div>                                                    
+                                                        <!-- <div title="Add to Calendar" class="addeventatc" data-styling="none"> -->
+                                                            <a href="{{event.calendar}}" target="_blank">
+                                                                <i class="fa fa-calendar-plus-o" style="color: rgb(66,131,201);"></i>
+                                                            </a>
+                                                        <!-- </div>                           -->
                                                     <br>
                                                 </td>
                                             </tr>
-                                            {% endif %}
                                             {% endfor %}
 
                                         </tbody>
@@ -92,53 +83,17 @@
                             <h6 class="text-muted card-subtitle mb-2">Select your favourite site(s):</h6>
                             <div>
                                 <!-- {{cfSitesFilter.form.choices}} -->
-                                <form method="get" action="form">
-
-                                    {% comment %}
+                                <form method="post" action="form">
 
                                     {% csrf_token %}
-
-                                    <!-- {% if sitesCheck.codechef_com %}
-                                        <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="codechef.com" value="True" checked>Codechef</div>
-                                    {% else %}
-                                        <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="codechef.com" value="True">Codechef</div>
-                                    {% endif %}
-
-                                    {% if sitesCheck.codeforces_com %}
-                                        <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="codechef.com" checked>Codeforces</div>
-                                    {% else %}
-                                        <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="codechef.com">Codeforces</div>
-                                    {% endif %}
-
-                                    {% if sitesCheck.hackerearth_com %}
-                                        <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="codechef.com" checked>Hackerearth</div>
-                                    {% else %}
-                                        <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="codechef.com">Hackerearth</div>
-                                    {% endif %}
-
-                                    {% if sitesCheck.leetcode_com %}
-                                        <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="codechef.com" checked>Leetcode</div>
-                                    {% else %}
-                                        <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="codechef.com">Leetcode</div>
-                                    {% endif %}
-
-                                    {% if sitesCheck.atcoder_jp %}
-                                        <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="codechef.com" checked>Atcoder</div>
-                                    {% else %}
-                                        <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="codechef.com">Atcoder</div>
-                                    {% endif %} -->
-
-                                    {% endcomment %}
-                                        {% csrf_token %}
                                     <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="codechef.com" value="True" {{list1.0}}>Codechef</div>
-                                    <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="codeforces.com" {{list1.0}}>Codeforces</div>
-                                    <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="hackerearth.com" {{list1.0}}>Hackerearth</div>
-                                    <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="leetcode.com" {{list1.0}}>Leetcode</div>
-                                    <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="atcoder.jp" {{list1.0}}>Atcoder</div>
-                                    <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="google.com" {{list1.0}}>Google</div>
+                                    <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="codeforces.com" value="True" {{list1.1}}>Codeforces</div>
+                                    <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="hackerearth.com" value="True" {{list1.2}}>Hackerearth</div>
+                                    <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="leetcode.com" value="True" {{list1.3}}>Leetcode</div>
+                                    <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="atcoder.jp" value="True" {{list1.4}}>Atcoder</div>
+                                    <div class="form-check custom-checkbox"><input class="form-check-input" type="checkbox" name="google.com" value="True" {{list1.5}}>Google</div>
 
                                     <br>
-                                    <!-- <input type="submit"> -->
                                     <button type="submit" class="btn btn-dark btn-sm">Apply</button>
                                 </form> 
                             </div>
@@ -152,7 +107,7 @@
     <script src="{% static 'assets/js/jquery.min.js'' %}"></script>
     <script src="{% static 'assets/bootstrap/js/bootstrap.min.js' %}"></script>
     <script src="{% static 'assets/js/bs-init.js' %}"></script>
-    <script src="{% static 'https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js' %}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
 </body>
 
 </html>
