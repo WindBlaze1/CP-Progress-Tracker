@@ -18,6 +18,8 @@
             </div>
             {% else %}
             <div class="col">
+              {% for message in messages %} {{message}} <br>
+              {% endfor %}
               <h4 class="text-left contest-table-h4"><strong>Current Progress:</strong> {{solved}}/{{total}}</h4>
             </div>
           {% endif %}
