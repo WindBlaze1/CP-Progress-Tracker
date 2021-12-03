@@ -1,9 +1,10 @@
-from django.shortcuts import render
+from django.shortcuts import redirect, render
 import requests as req
 import os
 from .models import Ladder
 # from ..accounts/models import accounts_userdata
 from django.contrib.auth.models import User
+from django.contrib import messages
 # Create your views here.
 
 
@@ -75,15 +76,22 @@ def get_problems(request, prob_id=0):
     # Make a list of list to pass in render function
     print_ladder = []
     ak = Ladder.objects.get(pk=prob_id+1).problem_set.all()
+    solved = 0
 
     if User.is_authenticated:
 
         # handle = accounts_userdata.objects.filter()
-        while(1):
-            obj = req.get(
-                'https://codeforces.com/api/user.status?handle=' + handle).json()
-            if obj['status'] == 'OK':
-                break
+        if req.get('https://codeforces.com/api/user.status?handle=' + handle).json()['status'] == 'FAILED':
+            msg = req.get('https://codeforces.com/api/user.status?handle=' + handle).json()['result']
+            messages.error(request,msg)
+            return redirect('/problems')
+        else:
+            obj = req.get('https://codeforces.com/api/user.status?handle=' + handle)
+        # while(1):
+        #     obj = req.get(
+        #         'https://codeforces.com/api/user.status?handle=' + handle).json()
+        #     if obj['status'] == 'OK':
+        #         break
 
         # print(obj['result'][0]['problem'])
 
@@ -99,7 +107,6 @@ def get_problems(request, prob_id=0):
 
             if verdict not in all_problems_verdict[id]:
                 all_problems_verdict[id].append(verdict)
-        solved = 0
         for k in ak:
             if k.pid in all_problems_verdict:
                 if 'OK' in all_problems_verdict[k.pid]:
