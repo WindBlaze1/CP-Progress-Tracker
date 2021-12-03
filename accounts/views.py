@@ -53,13 +53,12 @@ def register(request):
 		)
 		user.save()
 		user1 = user.userdata_set.create(
-			user_id=user.id,
 			codechef_handle=cc_handle,
 			codeforces_handle=cf_handle,
 			atcoder_handle=ac_handle,
 		)
 
-		messages.success(request, 'Account created!!')
+		# messages.success(request, 'Account created!!')
 
 		print('user created')
 		return redirect('login')

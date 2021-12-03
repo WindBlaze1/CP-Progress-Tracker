@@ -92,7 +92,13 @@
                         >{{lad.0}}</a
                       >
                     </td>
-                    <td>{{lad.2}}<br /></td>
+                    {%if lad.4 == 0 %}
+                      <td style="color:red">{{lad.2}}<br></td>
+                    {% elif lad.4 == 1 %}
+                      <td style="color:green">{{lad.2}}<br></td>
+                    {% else %}
+                      <td style="color:blue">{{lad.2}}<br></td>
+                    {% endif %}
                     <td>{{lad.3}}</td>
                   </tr>
                   {% endfor %}

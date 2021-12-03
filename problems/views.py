@@ -27,6 +27,14 @@ def export_ladders():
             'G', '>').replace(' ', '_') + '.' + t[2]
         print(dirs[int(t[0])])
 
+    dir2 = dirs
+    print(dirs, '\n\n\n\n\n')
+    dirs = {}
+    for i in sorted(dir2):
+        dirs[i] = dir2[i]
+
+    print(dirs)
+
     for l_num in (dirs):
 
         l_name = dirs[l_num].replace('_', ' ')
@@ -67,7 +75,7 @@ def export_ladders():
     return for_dropdown
 
 
-def get_problems(request, prob_id=0):
+def get_problems(request, prob_id=1):
     dropdown = export_ladders()
 
     # To be commented after getting dynamic input
@@ -75,18 +83,23 @@ def get_problems(request, prob_id=0):
 
     # Make a list of list to pass in render function
     print_ladder = []
-    ak = Ladder.objects.get(pk=prob_id+1).problem_set.all()
+    ak = Ladder.objects.get(pk=prob_id).problem_set.all()
     solved = 0
 
-    if User.is_authenticated == True:
-        
-        # handle = accounts_userdata.objects.filter()
+    if request.user.is_authenticated == True:
+
+        user = User.objects.get(username=request.user.username)
+
+        handle = user.userdata_set.filter(user_id=user.id)[0].codeforces_handle
+        print(handle)
         if req.get('https://codeforces.com/api/user.status?handle=' + handle).json()['status'] == 'FAILED':
-            msg = req.get('https://codeforces.com/api/user.status?handle=' + handle).json()['result']
-            messages.error(request,msg)
+            msg = req.get(
+                'https://codeforces.com/api/user.status?handle=' + handle).json()['result']
+            messages.error(request, msg)
             return redirect('/problems')
         else:
-            obj = req.get('https://codeforces.com/api/user.status?handle=' + handle).json()
+            obj = req.get(
+                'https://codeforces.com/api/user.status?handle=' + handle).json()
         # while(1):
         #     obj = req.get(
         #         'https://codeforces.com/api/user.status?handle=' + handle).json()
@@ -108,15 +121,18 @@ def get_problems(request, prob_id=0):
             if verdict not in all_problems_verdict[id]:
                 all_problems_verdict[id].append(verdict)
         for k in ak:
+            var = 0
             if k.pid in all_problems_verdict:
                 if 'OK' in all_problems_verdict[k.pid]:
                     status = 'Accepted'
                     solved += 1
+                    var = 1
                 else:
                     status = all_problems_verdict[k.pid][0]
+                    var = 2
             else:
                 status = 'Not Attempted'
-            print_ladder.append([k.name, k.link, status, k.difficulty])
+            print_ladder.append([k.name, k.link, status, k.difficulty, var])
     else:
         for k in ak:
             print_ladder.append(
@@ -124,4 +140,4 @@ def get_problems(request, prob_id=0):
     dropdown.sort(key=lambda x: x[1])
     print(print_ladder)
     print(dropdown)
-    return render(request, 'problems.html', {'ladder': print_ladder, 'items': dropdown, 'solved': solved, 'total': Ladder.objects.get(pk=prob_id+1).total_q})
+    return render(request, 'problems.html', {'ladder': print_ladder, 'items': dropdown, 'solved': solved, 'total': Ladder.objects.get(pk=prob_id).total_q})
