@@ -79,7 +79,7 @@ def get_problems(request, prob_id=0):
     solved = 0
 
     if User.is_authenticated == True:
-
+        
         # handle = accounts_userdata.objects.filter()
         if req.get('https://codeforces.com/api/user.status?handle=' + handle).json()['status'] == 'FAILED':
             msg = req.get('https://codeforces.com/api/user.status?handle=' + handle).json()['result']

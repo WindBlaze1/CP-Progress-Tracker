@@ -169,11 +169,12 @@ def form(request):
 
 	val = ''
 
-	if request.method == 'POST':
-		
-		for i in list_of_sites:
-			if request.POST.get(i) == True:
-				val = '1' + val
-			else:
-				val = '0' + val
+	# if request.method == 'POST':
+	
+	for i in list_of_sites:
+		if request.GET.get(i) == 'on':
+			val = '1' + val
+		else:
+			val = '0' + val
+	print(val)
 	return contest(request,int(val))
