@@ -28,7 +28,7 @@
         Sign Up
       </h1>
 
-      <form method="post" action="register">
+      <form method="post" action="#">
         {% csrf_token %}
 
         <h2 class="sr-only">Login Form</h2>
@@ -171,7 +171,7 @@
           style="margin-top: 17px; color: rgb(95, 106, 117)"
         >
           Already have an account?&nbsp;<a
-            href="login"
+            href="/accounts/login"
             style="color: rgba(0, 123, 255, 0.86)"
             >Sign In</a>
         </p>

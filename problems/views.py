@@ -30,7 +30,7 @@ def export_ladders():
     for l_num in (dirs):
 
         l_name = dirs[l_num].replace('_', ' ')
-        for_dropdown.append([dirs[l_num].replace('_', ' ')[0:-4], l_num+1])
+        for_dropdown.append([dirs[l_num].replace('_', ' ')[0:-4], l_num])
 
         # Name in saved folder
         fname = os.path.join(('saved'), (str(
@@ -78,7 +78,7 @@ def get_problems(request, prob_id=0):
     ak = Ladder.objects.get(pk=prob_id+1).problem_set.all()
     solved = 0
 
-    if User.is_authenticated:
+    if User.is_authenticated == True:
 
         # handle = accounts_userdata.objects.filter()
         if req.get('https://codeforces.com/api/user.status?handle=' + handle).json()['status'] == 'FAILED':
@@ -86,7 +86,7 @@ def get_problems(request, prob_id=0):
             messages.error(request,msg)
             return redirect('/problems')
         else:
-            obj = req.get('https://codeforces.com/api/user.status?handle=' + handle)
+            obj = req.get('https://codeforces.com/api/user.status?handle=' + handle).json()
         # while(1):
         #     obj = req.get(
         #         'https://codeforces.com/api/user.status?handle=' + handle).json()
