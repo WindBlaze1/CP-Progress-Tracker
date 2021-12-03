@@ -19,3 +19,4 @@ class Event(models.Model):
 	clink : str
 	# host = MultiSelectField(choices = SITES)
 	host : str
+	calendar : str
