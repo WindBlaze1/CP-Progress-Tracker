@@ -18,10 +18,11 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',include('utils.urls'), name="index"),
-    path('problems/',include('problems.urls')),
+    path('', include('utils.urls'), name="index"),
+    path('problems/', include('problems.urls')),
     path('contest/', include('contest.urls')),
     path('accounts/', include('accounts.urls')),
     path('django_plotly_dash/', include('django_plotly_dash.urls')),
-    path('profile/',include('userProfile.urls'),name='profile'),
+    path('profile/', include('userProfile.urls'), name='profile'),
+    path('leaderboard/', include('leaderboard.urls')),
 ]

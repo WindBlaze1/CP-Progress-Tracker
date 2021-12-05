@@ -1,10 +1,19 @@
 {% extends 'dashboard.html' %}
 
+{% for abc in handles %}
+    {{ abc }}
+{% endfor %}
+
+
 {% load plotly_dash %}
 {% block ratingChart %}
-    {% plotly_app name='RatingsApp' ratio=1%}
+    {% plotly_app name='RatingsApp' ratio=1 initial_arguments='{"cf_username": {"value": "coding.is.passion.for.me" }}'%}
 {% endblock %}
 
-{% block acceptanceChart %}
-    {% plotly_app name='' %}
+{% block gg %}
+    {% for user in handles %}
+        {{ user }}
+        <br>
+        {{ handles.user }}
+    {% endfor %}
 {% endblock %}

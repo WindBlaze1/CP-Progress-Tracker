@@ -4,17 +4,65 @@ from django.contrib import messages
 from .models import UserData
 import requests
 
+
+def codechef_check(username):
+    r = req.get('https://www.codechef.com/users/' + username)
+    soup = BeautifulSoup(r.text, 'html.parser')
+    page_title = str(soup.find_all('title')[0])
+    if username in page_title:
+        return True
+    else:
+        return False
+
+
+def atcoder_check(username):
+    r = req.get('https://atcoder.jp/users/' + username)
+    soup = BeautifulSoup(r.text, 'html.parser')
+    page_title = str(soup.find_all('title')[0])
+    if username in page_title:
+        return True
+    else:
+        return False
+
+
+
+def codeforces_questions(username):
+    problems_data = requests.get('https://codeforces.com/api/user.status?handle=' + username).json()['result']
+    problems_with_verdict = dict()
+
+    for i in problems_data:
+        if i['problem']['name'] in problems_with_verdict.keys() and i['verdict'] == 'OK':
+            problems_with_verdict[str(i['problem']['contestId']) + i['problem']['index']] = 'OK'
+        else:
+            if str(i['problem']['contestId']) + i['problem']['index'] not in problems_with_verdict.keys():
+                problems_with_verdict[str(i['problem']['contestId']) + i['problem']['index']] = dict()
+                problems_with_verdict[str(i['problem']['contestId']) + i['problem']['index']] = i['verdict']
+            else:
+                problems_with_verdict[str(i['problem']['contestId']) + i['problem']['index']] = i['verdict']
+
+    total_problems = len(problems_with_verdict)
+    problems_solved = 0
+
+    for i in problems_with_verdict:
+        if problems_with_verdict[i] == 'OK':
+            problems_solved += 1
+
+    return problems_solved, total_problems
+
+
+def user_info(request):
+    abc = UserData.objects.get(user_id=request.user.id)
+    solved, attempted = codeforces_questions(abc.codeforces_handle)
+    abc.num_ques_att = attempted
+    abc.num_ques_solved = solved
+    abc.save()
+
+
 # Create your views here.
 def register(request):
-
 	if request.method == 'POST':
 		first_name = request.POST['full_name'].split(" ")[0]
-		# first_name = request.POST['full_name'].split(" ")[0]
-		# if len(name) >= 2:
-		# 	last_name = request.POST['full_name'].split(" ")[1]
-
 		username = request.POST['user_name']
-		
 		email = request.POST['email']
 		pass1 = request.POST['pass1']
 		pass2 = request.POST['pass2']
@@ -38,29 +86,39 @@ def register(request):
 			messages.info(request, 'Passwords are not matching')
 			return redirect('register')
 
-		# if req.get('https://codeforces.com/api/user.info?handles=' + username).json()['status'] == 'FAILED':
 		req = requests.get('https://codeforces.com/api/user.info?handles=' + cf_handle).json()
 
-		if req['status']=='FAILED':
+		if req['status'] == 'FAILED':
 			messages.info(request, req['status'])
+			return redirect('register')
+
+		if len(cc_handle) and (not codechef_check(cc_handle)):
+			messages.info(request, 'Wrong codechef username')
+			return redirect('register')
+
+		if (len(ac_handle)) and (not atcoder_check(ac_handle)):
+			messages.info(request, 'Wrong atcoder username')
 			return redirect('register')
 
 		user = User.objects.create_user(
 			username=username,
 			first_name=first_name,
 			email=email,
-			password=pass1
+			password=pass1,
 		)
 		user.save()
+
+		solved, attempted = codeforces_questions(cf_handle)
+
 		user1 = user.userdata_set.create(
 			codechef_handle=cc_handle,
 			codeforces_handle=cf_handle,
 			atcoder_handle=ac_handle,
+			num_ques_att=attempted,
+			num_ques_solved=solved,
 		)
+		user1.save()
 
-		# messages.success(request, 'Account created!!')
-
-		print('user created')
 		return redirect('login')
 
 	else:
@@ -74,28 +132,20 @@ def login(request):
 	if request.method == 'POST':
 		username = request.POST['username']
 		password = request.POST['password']
-
 		user = auth.authenticate(username=username, password=password)
 
 		if user is not None:
 			auth.login(request, user)
-			print('authenticated!!')
-			# should call the profile page
 			return redirect('/profile')
-			return render(request, "userProfile", {'username': user.username})
 	
 		else:
-			messages.error(request,'Invalid Credentials')
-			# messages.info(request,'invalid credentials')
-			print('Invalid Credentials')
+			messages.error(request, 'Invalid Credentials')
 			return redirect('/accounts/login')
 
 	else:
 		return render(request, 'login.html')
 
+
 def signout(request):
 	auth.logout(request)
-	print('User Logged out!!')
-	
-	# under construction:
 	return redirect('/')

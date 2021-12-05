@@ -9,25 +9,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-light navbar-expand-md" id="nav-bar" style="font-family: Montserrat, sans-serif;font-size: 14px;">
-        <div class="container"><a class="navbar-brand" href="index.html"><i class="fa fa-home" style="font-size: 30px;color: rgba(255,255,255,0.9);"></i></a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1" style="background: rgba(255,255,255,0.42);"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-            <div class="collapse navbar-collapse" id="navcol-1">
-                <ul class="navbar-nav mx-auto">
-                    <li class="nav-item"><i class="fa fa-code" style="font-size: 18px;"></i><a class="nav-link active" href="/problems" style="color: rgba(255,255,255,0.9);">Practice</a></li>
-                    <li class="nav-item"><i class="fa fa-calendar" style="font-size: 18px;"></i><a class="nav-link active" href="/contests" style="color: rgba(255,255,255,0.9);">Contests</a></li>
-                    <li class="nav-item"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-graph-up" style="font-size: 18px;">
-                            <path fill-rule="evenodd" d="M0 0h1v15h15v1H0V0Zm14.817 3.113a.5.5 0 0 1 .07.704l-4.5 5.5a.5.5 0 0 1-.74.037L7.06 6.767l-3.656 5.027a.5.5 0 0 1-.808-.588l4-5.5a.5.5 0 0 1 .758-.06l2.609 2.61 4.15-5.073a.5.5 0 0 1 .704-.07Z"></path>
-                        </svg><a class="nav-link active" href="/leaderboard" style="color: rgba(255,255,255,0.9);">Leaderboard</a></li>
-                </ul>
-                <ul class="navbar-nav">
-                    <li class="nav-item"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-person-circle" style="font-size: 18px;">
-                            <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"></path>
-                            <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"></path>
-                        </svg><a class="nav-link active" href="/accounts/register" style="color: rgba(255,255,255,0.9);">Sign In</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+    {% include 'partials/_navbar.html' %}
     <section id="main-sec">
         <h1 id="heading">Contests</h1>
         <div class="container flex-row" id="main-container">
@@ -44,7 +26,7 @@
                                                 <th scope="col">Contest Name</th>
                                                 <th scope="col">Start Time</th>
                                                 <th scope="col">Duration</th>
-                                                <th scope="col"></th>
+                                                <th scope="col"> </th>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -104,7 +86,7 @@
         </div>
     </section>
     {% include 'partials/_footer.html' %}
-    <script src="{% static 'assets/js/jquery.min.js'' %}"></script>
+    <script src="{% static 'assets/js/jquery.min.js' %}"></script>
     <script src="{% static 'assets/bootstrap/js/bootstrap.min.js' %}"></script>
     <script src="{% static 'assets/js/bs-init.js' %}"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>

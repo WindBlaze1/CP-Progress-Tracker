@@ -1,74 +1,68 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <title>cp-progress-tracker</title>
-    {% include "partials/_head.html" %}    
-</head>
-
-<body>
-    {% include "partials/_navbar.html" %}
-    <section id="main-sec">
-        <h1 id="heading">Leaderboard</h1>
-        <div class="container" id="selection" style="margin-top: 12px;">
-            <div class="row">
-                <div class="col">
-                    <h4 class="text-right contest-table-h4">Find by Username:&nbsp;</h4>
-                </div>
-                <div class="col-3">
-                    <div class="form-group">
-                        <form>
-                            <div><input class="form-control" type="search"></div>
-                            <div style="text-align: right;margin-top: -36px;margin-right: -26px;"><button class="btn btn-primary" type="button" style="color: rgb(0,0,0);border: 0px;border-radius: 50px;background: rgba(0,123,255,0);padding-top: 0px;padding-bottom: 0px;padding-right: 3px;padding-left: 3px;"><i class="fa fa-search"></i></button></div>
-                        </form>
+    <head>
+        <title>cp-progress-tracker</title>
+        {% include "partials/_head.html" %}
+    </head>
+    <body>
+        {% include "partials/_navbar.html" %}
+        <section id="main-sec">
+            <h1 id="heading">Leaderboard</h1>
+{#            <div class="container" id="selection" style="margin-top: 12px;">#}
+{#                <div class="row">#}
+{#                    <div class="col">#}
+{#                        <h4 class="text-right contest-table-h4">Find by Username:&nbsp;</h4>#}
+{#                    </div>#}
+{#                    <div class="col-3">#}
+{#                        <div class="form-group">#}
+{#                            <form>#}
+{#                                <div><input class="form-control" type="search"></div>#}
+{#                                <div style="text-align: right;margin-top: -36px;margin-right: -26px;"><button class="btn btn-primary" type="button" style="color: rgb(0,0,0);border: 0px;border-radius: 50px;background: rgba(0,123,255,0);padding-top: 0px;padding-bottom: 0px;padding-right: 3px;padding-left: 3px;"><i class="fa fa-search"></i></button></div>#}
+{#                            </form>#}
+{#                        </div>#}
+{#                    </div>#}
+{#                </div>#}
+{#            </div>#}
+            <div class="container flex-row" id="main-container">
+                <div class="card custom-card">
+                    <div class="card-body" style="margin: -10px;margin-top: -21px;margin-right: -25px;margin-bottom: -38px;margin-left: -23px;">
+                        <div class="table-responsive shadow-none table-div" style="border-radius: 0px;">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th class="text-center">Rank</th>
+                                        <th>Username</th>
+                                        <th>#Solved</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% for val in ranks %}
+                                        {% if val.2 == 1 %}
+                                            <tr style="color: gold">
+                                        {% elif val.2 == 2%}
+                                            <tr style="color: silver">
+                                        {% elif val.2 == 3%}
+                                            <tr style="color: saddlebrown">
+                                        {% else %}
+                                            <tr>
+                                        {% endif %}
+                                            <td class="text-center">{{ val.2 }}</td>
+                                            <td>{{ val.1 }}</td>
+                                            <td>{{ val.0 }}</td>
+                                        </tr>
+                                    {% endfor %}
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="container flex-row" id="main-container">
-            <div class="card custom-card">
-                <div class="card-body" style="margin: -10px;margin-top: -21px;margin-right: -25px;margin-bottom: -38px;margin-left: -23px;">
-                    <div class="table-responsive shadow-none table-div" style="border-radius: 0px;">
-                        <table class="table">
-                            <thead>
-                                <tr>
-                                    <th class="text-center">Rank</th>
-                                    <th>Username</th>
-                                    <th>Rating</th>
-                                    <th>#Solved</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td class="text-center">1</td>
-                                    <td><a class="try-link text-decoration-none" href="#" style="color: rgb(254,152,78);">The Stoner</a></td>
-                                    <td>1209<br></td>
-                                    <td>3</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-center">2</td>
-                                    <td><a class="try-link text-decoration-none" href="#" style="color: rgb(254,152,78);">The Stoner</a></td>
-                                    <td>1840</td>
-                                    <td>3</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-center">3</td>
-                                    <td><a class="try-link text-decoration-none" href="#" style="color: rgb(254,152,78);">The Stoner</a></td>
-                                    <td>1730<br></td>
-                                    <td>3</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    {% include 'partials/_footer.html' %}
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="assets/js/bs-init.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
-</body>
-
+        </section>
+        {% include 'partials/_footer.html' %}
+        <script src="{% static 'assets/js/jquery.min.js' %}"></script>
+        <script src="{% static 'assets/bootstrap/js/bootstrap.min.js' %}"></script>
+        <script src="{% static 'assets/js/bs-init.js' %}"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    </body>
 </html>

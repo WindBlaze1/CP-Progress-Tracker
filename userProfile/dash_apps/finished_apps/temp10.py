@@ -10,16 +10,14 @@ import pandas as pd
 import re
 import requests as req
 import datetime
+from accounts.models import UserData
 
 app = DjangoDash('RatingsApp')
 
-figure = px.line(x=[i for i in range(0, 1001, 100)], y=[i for i in range(0, 1001, 100)])
+figure = px.line()
 
-# app.layout = html.Div([
-#     dcc.Graph(id='some', figure=figure)
-# ])
 
-app.layout = html.Div([
+app.layout = html.Div(children=[
     dcc.Dropdown(
         options=[
             {'label': 'Codeforces', 'value': 'codeforces'},
@@ -28,19 +26,6 @@ app.layout = html.Div([
         ],
         value='codeforces',
         id='platform',
-    ),
-    html.Br(),
-    dcc.Input(
-        id='username',
-        type='text',
-        placeholder='Your handle',
-        value=''
-    ),
-    html.Br(),
-    html.Button(
-        id='submit-button',
-        n_clicks=0,
-        children='Submit'
     ),
     html.Br(),
     html.P(
@@ -54,50 +39,33 @@ app.layout = html.Div([
 
 
 @app.callback(
-    Output('handle', 'children'),
-    Input('platform', 'value')
-)
-def handle_name(value):
-    if value == 'codeforces':
-        return 'Enter Codeforces handle: '
-    elif value == 'codechef':
-        return 'Enter Codechef handle: '
-    elif value == 'atcoder':
-        return 'Enter Atcoder handle: '
-    else:
-        return 'Enter handle: '
-
-
-@app.callback(
     Output('ratings-chart', 'figure'),
     Output('err', 'children'),
-    Input('submit-button', 'n_clicks'),
-    State('username', 'value'),
-    State('platform', 'value'),
+    Input('platform', 'value'),
 )
-def display_ratings_chart(n_clicks, username, platform):
-    if n_clicks is None or 0:
-        raise PreventUpdate
-    else:
-        if platform == 'codeforces':
-            if req.get('https://codeforces.com/api/user.info?handles=' + username).json()['status'] == 'FAILED':
+def display_ratings_chart(platform, *args, **kwargs):
+    abc = UserData.objects.get(id=kwargs['user'].id)
+    cf_username = abc.codeforces_handle
+    cc_username = abc.codechef_handle
+    at_username = abc.atcoder_handle
+    if platform == 'codeforces':
+        ratings_data = req.get('https://codeforces.com/api/user.rating?handle=' + cf_username).json()
+        print(ratings_data)
+        name= []
+        times = []
+        ratings = []
+        for i in range(len(ratings_data['result'])):
+            times.append(datetime.datetime.fromtimestamp(ratings_data['result'][i]['ratingUpdateTimeSeconds']).strftime(
+                '%Y-%m-%d %H:%M:%S'))
+            ratings.append(ratings_data['result'][i]['newRating'])
+            name.append(ratings_data['result'][i]['contestName'])
+        return px.line(x=times, y=ratings, hover_name=name), ''
+    elif platform == 'codechef':
+        if len(cc_username):
+            if req.get('https://www.codechef.com/users/' + cc_username).status_code != req.codes.ok:
                 return dash.no_update, 'Please enter a valid username...'
             else:
-                # user_details = req.get('https://codeforces.com/api/user.info?handles=' + username).json()
-                ratings_data = req.get('https://codeforces.com/api/user.rating?handle=' + username).json()
-                # print(ratings_data)
-                times = []
-                ratings = []
-                for i in range(len(ratings_data['result'])):
-                    times.append(datetime.datetime.fromtimestamp(ratings_data['result'][i]['ratingUpdateTimeSeconds']).strftime(
-                        '%Y-%m-%d %H:%M:%S'))
-                    ratings.append(ratings_data['result'][i]['newRating'])
-                return px.line(x=times, y=ratings), ''
-        elif platform == 'codechef':
-            if req.get('https://www.codechef.com/users/' + username).status_code != req.codes.ok:
-                return dash.no_update, 'Please enter a valid username...'
-            else:
-                r = req.get('https://www.codechef.com/users/sparsh_1234')
+                r = req.get('https://www.codechef.com/users/' + cc_username)
                 soup = BeautifulSoup(r.text, 'html.parser')
                 raw_text = str(soup.find_all('script', type='text/javascript', text=re.compile('all_rating')))
                 print(re.compile('all_rating').search(raw_text))
@@ -139,11 +107,14 @@ def display_ratings_chart(n_clicks, username, platform):
                     x.append(contest[i]['"end_date"'][1:len(contest[i]['"end_date"']) - 1])
                     y.append(int(contest[i]['"rating"'][1:len(contest[i]['"rating"']) - 1]))
             return px.line(x=x, y=y), ''
-        elif platform == 'atcoder':
-            if req.get('https://atcoder.jp/users/' + username).status_code != req.codes.ok:
+        else:
+            return figure, 'Please enter a valid username...'
+    elif platform == 'atcoder':
+        if len(at_username):
+            if req.get('https://atcoder.jp/users/' + at_username).status_code != req.codes.ok:
                 return dash.no_update, 'Please enter a valid username...'
             else:
-                r = req.get('https://atcoder.jp/users/' + username)
+                r = req.get('https://atcoder.jp/users/' + at_username)
                 soup = BeautifulSoup(r.text, 'html.parser')
                 participated_contests = str(soup.find_all('script', text=re.compile('rating_history')))
                 participated_contests = participated_contests[28:len(participated_contests) - 11]
@@ -181,4 +152,6 @@ def display_ratings_chart(n_clicks, username, platform):
             print(x)
             return px.line(x=x, y=y), ''
         else:
-            return dash.no_update, dash.no_update
+            return figure, 'Please enter a valid username...'
+    else:
+        return figure, 'No platform selected'

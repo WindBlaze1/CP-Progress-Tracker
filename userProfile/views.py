@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from userProfile.dash_apps.finished_apps import temp10
+from userProfile.dash_apps.finished_apps import temp10, temp9, temp8
 from accounts.models import UserData
 import requests as req
 
@@ -31,8 +31,16 @@ def codeforces_questions(username):
 def user_info(request):
     abc = UserData.objects.get(user_id=request.user.id)
     solved, attempted = codeforces_questions(abc.codeforces_handle)
+    abc.num_ques_att = attempted
+    abc.num_ques_solved = solved
+    abc.save()
 
 
 def home(request):
     user_info(request)
-    return render(request, 'profile.html')
+    handles = {'cf_username': UserData.objects.get(user_id=request.user.id).codeforces_handle,
+               'cc_username': UserData.objects.get(user_id=request.user.id).codechef_handle,
+               'at_username': UserData.objects.get(user_id=request.user.id).atcoder_handle, }
+    print(handles)
+
+    return render(request, 'dashboard.html', handles)
