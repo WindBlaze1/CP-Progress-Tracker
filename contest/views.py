@@ -1,6 +1,4 @@
-from django.http.response import HttpResponse
 from django.shortcuts import render
-
 from .models import Event
 import requests
 import datetime
@@ -36,12 +34,11 @@ host_num = {
 	'codingcompetitions.withgoogle.com':5
 }
 
+
 # to display the list_of_events in tabular form:
 def displayContest(request, list_of_events, hosts):
 
 	template = 'contests.html'
-	# if (flagFilter):
-	# 	template = 'filteredContests.html'
 
 	return render(request, template, {
 		'events': list_of_events, 

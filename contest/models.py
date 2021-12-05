@@ -1,9 +1,8 @@
 from django.db import models
-# from multiselectfield import MultiSelectField
+
 
 # Create your models here.
 class Event(models.Model):
-
 	SITES = (
 		('codechef.com', 'Codechef'),
 		('codeforces.com', 'Codeforces'),
@@ -13,10 +12,9 @@ class Event(models.Model):
 		('codingcompetitions.withgoogle.com', 'Google')
 	)
 
-	name : str
-	time : str
-	duration : str
-	clink : str
-	# host = MultiSelectField(choices = SITES)
-	host : str
-	calendar : str
+	name: str
+	time: str
+	duration: str
+	clink: str
+	host: str
+	calendar: str

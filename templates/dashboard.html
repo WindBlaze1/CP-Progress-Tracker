@@ -1,82 +1,64 @@
 {% load static %}
+{% load plotly_dash %}
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <title>User Profile</title>
-    {% include "partials/_head.html" %}
-</head>
-
-<body style="background: rgba(239,239,239,0.91);">
-    <!-- Navbar -->
-    {% include 'partials/_navbar.html' %}
-    <!-- -->
-    <section id="main-sec">
-        <h1 id="heading" style="margin-bottom: 51px;">Welcome [name]</h1>
-        <div class="container">
-            <div class="row justify-content-center" style="padding: 5px;">
-                <div class="col-8 align-self-start">
-                    <div class="card custom-card" style="box-shadow: 0px 0px 3px;">
-                        <div class="card-body">
-                            {% block ratingChart %}
-                            {% endblock %}
+    <head>
+        <title>{{ user.first_name }}'s Profile</title>
+        {% include "partials/_head.html" %}
+    </head>
+    <body style="background: rgba(239,239,239,0.91);">
+        {% include 'partials/_navbar.html' %}
+        <section id="main-sec">
+            <h1 id="heading" style="margin-bottom: 51px;">Welcome {{ user.first_name }}</h1>
+            <div class="container">
+                <div class="row justify-content-center" style="padding: 5px;">
+                    <div class="col-7 align-self-start" style="height: 100px;">
+                        <div class="card custom-card" style="box-shadow: 0px 0px 3px;">
+                            <div class="card-body">
+                                {% plotly_app name="RatingsApp" ratio=1 %}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-4 align-self-start">
+                        <div class="card custom-card" style="border: 0px solid;box-shadow: 0px 0px 3px;height: 40vh;">
+                            <div class="card-body">
+                                <h4 class="card-title">Acceptance Chart</h4>
+                                {% plotly_app name="AcceptanceChart" ratio=1 %}
+                            </div>
                         </div>
                     </div>
                 </div>
-{#                <div class="col-4 align-self-start">#}
-{#                    <div class="card custom-card" style="border: 0px solid;box-shadow: 0px 0px 3px;">#}
-{#                        <div class="card-body">#}
-{#                            <h4 class="card-title">Acceptance Chart</h4>#}
-{#                            <p class="card-text">Nullam id&nbsp; vehicula ut&nbsp;</p>#}
+                <div class="row" style="padding: 5px;">
+                    <div class="col-7 align-self-start" style="margin-left: 50px"></div>
+                    <div class="col-4 align-self-start">
+                        <div class="card custom-card" style="border: 0px solid;box-shadow: 0px 0px 3px;height: 40vh;">
+                            <div class="card-body" style="height: 19.5vh;">
+                                <h4 class="card-title">Update information</h4>
+                                <div>
+                                    {% plotly_app name="Updater" ratio=1 %}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+{#                <div class="row" style="padding: 10px;">#}
+{#                    <div class="col align-self-center">#}
+{#                        <div class="card custom-card" style="border: 0px solid;box-shadow: 0px 0px 3px;">#}
+{#                            <div class="card-body">#}
+{#                                <h4 class="card-title">Title</h4>#}
+{#                                <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id</p>#}
+{#                            </div>#}
 {#                        </div>#}
 {#                    </div>#}
 {#                </div>#}
-                <div class="col-4 align-self-start">
-                    <div class="card custom-card" style="border: 0px solid;box-shadow: 0px 0px 3px;height: 40vh;">
-                        <div class="card-body">
-                            <h4 class="card-title">Basic Profile</h4>
-                            <p class="card-text">Nullam id dolor id nibh vehicula ut id</p>
-                        </div>
-                    </div>
-                </div>
             </div>
-            <div class="row" style="padding: 10px;">
-                <div class="col-8 align-self-center" style="margin-top: -70px;">
-                    <div class="card custom-card" style="border: 0px solid;box-shadow: 0px 0px 3px;height: 29vh;">
-                        <div class="card-body">
-                            <h4 class="card-title">Title</h4>
-                            <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col align-self-start">
-                    <div class="card custom-card" style="border: 0px solid;box-shadow: 0px 0px 3px;">
-                        <div class="card-body" style="height: 19.5vh;">
-                            <h4 class="card-title">Title</h4>
-                            <p class="card-text">&nbsp;ut id</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row" style="padding: 10px;">
-                <div class="col align-self-center">
-                    <div class="card custom-card" style="border: 0px solid;box-shadow: 0px 0px 3px;">
-                        <div class="card-body">
-                            <h4 class="card-title">Title</h4>
-                            <p class="card-text">Nullam id dolor id nibh ultricies vehicula ut id</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- footer -->
-    {% include 'partials/_footer.html' %}
-    <!-- -->
-    <script src="{% static 'assets/js/jquery.min.js' %}"></script>
-    <script src="{% static 'assets/bootstrap/js/bootstrap.min.js' %}"></script>
-    <script src="{% static 'assets/js/bs-init.js' %}"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
-</body>
-
+        </section>
+        <!-- footer -->
+        {% include 'partials/_footer.html' %}
+        <!-- -->
+        <script src="{% static 'assets/js/jquery.min.js' %}"></script>
+        <script src="{% static 'assets/bootstrap/js/bootstrap.min.js' %}"></script>
+        <script src="{% static 'assets/js/bs-init.js' %}"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    </body>
 </html>

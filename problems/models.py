@@ -1,5 +1,6 @@
 from django.db import models
 
+
 class Ladder(models.Model):
     name = models.CharField(max_length=100)
     total_q = models.IntegerField(default=0)
