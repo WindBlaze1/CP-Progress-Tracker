@@ -107,3 +107,25 @@ def get_problems(request, prob_id=1):
     dropdown.sort(key=lambda x: x[1])
 
     return render(request, 'problems.html', {'ladder': print_ladder, 'items': dropdown, 'solved': solved, 'total': Ladder.objects.get(pk=prob_id).total_q})
+
+
+def get_dynamic_ladder(request):
+    
+    ls = [1200,1300,1400,1500,1600,1700,1800,1900,2000,2100,2200]
+
+    if request.user.is_authenticated:
+        user = User.objects.get(username=request.user.username)
+        handle = user.userdata_set.filter(user_id=user.id)[0].codeforces_handle
+        url = 'https://codeforces.com/api/user.info?handles=' + handle
+        if req.get('https://codeforces.com/api/user.info?handles=' + handle).json()['status'] == 'FAILED':
+            msg = req.get('https://codeforces.com/api/user.info?handles=' + handle).json()['result']
+            messages.error(request, msg)
+            return redirect('/problems')
+        else:
+            obj = req.get('https://codeforces.com/api/user.info?handles=' + handle).json()
+        num = obj['result'][0]['rating']
+        for i in range(10,0,-1):
+            if num>ls[i]:
+                return get_problems(request,i+1)
+
+    return get_problems(request)

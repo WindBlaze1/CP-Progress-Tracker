@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>cp-progress-tracker</title>
+        <title>Leaderboard · CP Progress Tracker</title>
         {% include "partials/_head.html" %}
     </head>
     <body>
@@ -39,7 +39,7 @@
                                 <tbody>
                                     {% for val in ranks %}
                                         {% if val.2 == 1 %}
-                                            <tr style="color: gold">
+                                            <tr style="color: gold" >
                                         {% elif val.2 == 2%}
                                             <tr style="color: silver">
                                         {% elif val.2 == 3%}
