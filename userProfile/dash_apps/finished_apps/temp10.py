@@ -50,16 +50,22 @@ def display_ratings_chart(platform, *args, **kwargs):
     at_username = abc.atcoder_handle
     if platform == 'codeforces':
         ratings_data = req.get('https://codeforces.com/api/user.rating?handle=' + cf_username).json()
-        print(ratings_data)
-        name= []
-        times = []
-        ratings = []
+        name = list()
+        times = list()
+        ratings = list()
         for i in range(len(ratings_data['result'])):
             times.append(datetime.datetime.fromtimestamp(ratings_data['result'][i]['ratingUpdateTimeSeconds']).strftime(
                 '%Y-%m-%d %H:%M:%S'))
             ratings.append(ratings_data['result'][i]['newRating'])
             name.append(ratings_data['result'][i]['contestName'])
-        return px.line(x=times, y=ratings, hover_name=name), ''
+
+        fig = px.line(x=times, y=ratings, hover_name=name, )
+        fig.update_layout(
+            xaxis_title="Date and Time",
+            yaxis_title="Rating",
+        )
+
+        return fig, ''
     elif platform == 'codechef':
         if len(cc_username):
             if req.get('https://www.codechef.com/users/' + cc_username).status_code != req.codes.ok:
@@ -68,9 +74,7 @@ def display_ratings_chart(platform, *args, **kwargs):
                 r = req.get('https://www.codechef.com/users/' + cc_username)
                 soup = BeautifulSoup(r.text, 'html.parser')
                 raw_text = str(soup.find_all('script', type='text/javascript', text=re.compile('all_rating')))
-                print(re.compile('all_rating').search(raw_text))
                 m = re.compile('all_rating').search(raw_text)
-                print(m.start(), m.end())
                 i = m.end() + 3
                 m = raw_text
                 # print(m)
@@ -102,11 +106,20 @@ def display_ratings_chart(platform, *args, **kwargs):
 
                 x = list()
                 y = list()
+                names = list()
 
                 for i in range(len(contest)):
                     x.append(contest[i]['"end_date"'][1:len(contest[i]['"end_date"']) - 1])
                     y.append(int(contest[i]['"rating"'][1:len(contest[i]['"rating"']) - 1]))
-            return px.line(x=x, y=y), ''
+                    names.append(contest[i]['"name"'][1: len(contest[i]['"name"']) - 1])
+
+            fig = px.line(x=x, y=y, hover_name=names)
+            fig.update_layout(
+                xaxis_title="Date and Time",
+                yaxis_title="Rating",
+            )
+
+            return fig, ''
         else:
             return figure, 'Please enter a valid username...'
     elif platform == 'atcoder':
@@ -144,13 +157,22 @@ def display_ratings_chart(platform, *args, **kwargs):
                         contest.append(sample)
                     else:
                         i += 1
+
                 x = list()
                 y = list()
+                name = list()
+
                 for i in range(len(contest)):
                     x.append(datetime.datetime.fromtimestamp(int(contest[i]['"EndTime"'])).strftime('%Y-%m-%d %H:%M:%S'))
                     y.append(int(contest[i]['"NewRating"']))
-            print(x)
-            return px.line(x=x, y=y), ''
+                    name.append(contest[i]['"ContestName"'][1:len(contest[i]['"ContestName"']) - 1])
+
+            fig = px.line(x=x, y=y, hover_name=name)
+            fig.update_layout(
+                xaxis_title="Date and Time",
+                yaxis_title="Rating",
+            )
+            return fig, ''
         else:
             return figure, 'Please enter a valid username...'
     else:

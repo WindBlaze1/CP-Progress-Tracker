@@ -18,25 +18,37 @@ app = DjangoDash("Updater")
 app.layout = html.Div([
     html.Br(),
     html.Br(),
-    html.Label(
-        children='Codechef handle: ',
-        id='codechef_updated_handle',
-    ),
-    dcc.Input(
-        id='cc_handle',
-        value='',
-        placeholder='updated Codechef handle',
-    ),
-    html.Br(),
-    html.Br(),
-    html.Label(
-        children='Atcoder handle: ',
-        id='atcoder_updated_handle',
-    ),
-    dcc.Input(
-        id='at_handle',
-        value='',
-        placeholder='updated Atcoder handle',
+    html.Table([
+        html.Tr([
+            html.Td(
+                html.Label(
+                    children='Codechef handle:',
+                    id='codechef_updated_handle',
+                ),
+            ),
+            html.Td(
+                dcc.Input(
+                    id='cc_handle',
+                    value='',
+                    placeholder='New Codechef handle',
+                ),
+            ), ]
+        ),
+        html.Tr([
+            html.Td(
+                html.Label(
+                    children='Atcoder handle:',
+                    id='atcoder_updated_handle',
+                ),
+            ),
+            html.Td(
+                dcc.Input(
+                    id='at_handle',
+                    value='',
+                    placeholder='New Atcoder handle',
+                ),
+            ), ]
+        ), ]
     ),
     html.Br(),
     html.Br(),
@@ -54,7 +66,7 @@ app.layout = html.Div([
             'transition': 'all 0.5s',
             'cursor': 'pointer',
             'color': '#ffffff'
-        }
+        },
     ),),
     html.Br(),
     html.Div(
