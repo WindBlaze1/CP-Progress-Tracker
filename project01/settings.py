@@ -41,8 +41,8 @@ INSTALLED_APPS = [
     'utils.apps.UtilsConfig',
     'userProfile.apps.UserprofileConfig',
     'django_plotly_dash.apps.DjangoPlotlyDashConfig',
-    'channels',
-    'channels_redis',
+    # 'channels',
+    # 'channels_redis',
     'leaderboard.apps.LeaderboardConfig',
 ]
 
@@ -61,14 +61,14 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'project01.urls'
 
-CHANNEL_LAYERS = {
-    'default': {
-        'BACKEND': 'channels_redis.core.RedisChannelLayer',
-        'CONFIG': {
-            'hosts': [('127.0.0.1', 6379)],
-        },
-    },
-}
+# CHANNEL_LAYERS = {
+#     'default': {
+#         'BACKEND': 'channels_redis.core.RedisChannelLayer',
+#         'CONFIG': {
+#             'hosts': [('127.0.0.1', 6379)],
+#         },
+#     },
+# }
 
 TEMPLATES = [
     {
@@ -88,7 +88,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'project01.wsgi.application'
 
-ASGI_APPLICATION = 'project01.routing.application'
+# ASGI_APPLICATION = 'project01.routing.application'
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 

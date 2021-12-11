@@ -2,7 +2,8 @@ from django.shortcuts import render, redirect
 from django.contrib.auth.models import User, auth
 from django.contrib import messages
 from .models import UserData
-import requests
+from bs4 import BeautifulSoup
+import requests as req
 
 
 def codechef_check(username):
@@ -27,7 +28,7 @@ def atcoder_check(username):
 
 
 def codeforces_questions(username):
-    problems_data = requests.get('https://codeforces.com/api/user.status?handle=' + username).json()['result']
+    problems_data = req.get('https://codeforces.com/api/user.status?handle=' + username).json()['result']
     problems_with_verdict = dict()
 
     for i in problems_data:
@@ -86,10 +87,10 @@ def register(request):
 			messages.info(request, 'Passwords are not matching')
 			return redirect('register')
 
-		req = requests.get('https://codeforces.com/api/user.info?handles=' + cf_handle).json()
+		req1 = req.get('https://codeforces.com/api/user.info?handles=' + cf_handle).json()
 
-		if req['status'] == 'FAILED':
-			messages.info(request, req['status'])
+		if req1['status'] == 'FAILED':
+			messages.info(request, req1['status'])
 			return redirect('register')
 
 		if len(cc_handle) and (not codechef_check(cc_handle)):
