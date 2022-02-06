@@ -13,6 +13,7 @@ def export_ladders():
     for_dropdown = list()
     fs = os.listdir('saved')
     dirs = {}
+    print('fs = ',fs)
 
     for f in fs:
         t = f.split('.')
